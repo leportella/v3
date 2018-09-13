@@ -2,9 +2,9 @@
 title: leportella # your site title
 author: leportella # You :P
 description: > # Meta description of Homepage
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+    This a blog from an oceanographer who became passionare about programming.
+    I'm a dev, in love with data science that loves to write technical posts
+    about what I'm learning, specially Python, Django and Data Science stuff
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://leportella.com"
 
@@ -35,7 +35,7 @@ disqus:
   shortname: leportella-com
 
 google_analytics: UA-106178084-1
-# google_tag_manager: GTM-XXXXXXX # Uncomment to enable GTM. Replace GTM-XXXXXXX with your GTM container ID
+google_tag_manager: UA-106178084-1 
 
 service_worker: true
 
