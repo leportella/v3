@@ -10,14 +10,11 @@ url: "https://leportella.github.io" # the base hostname & protocol for your site
 
 # SEO PLUGIN
 social:
-  name: Your Name
+  name: leportella
   links:
-    - https://twitter.com/BenBalter
-    - https://www.facebook.com/ben.balter
-    - https://www.linkedin.com/in/BenBalter
-    - https://plus.google.com/+BenBalter
-    - https://github.com/benbalter
-    - https://keybase.io/benbalter
+    - https://twitter.com/leleportella
+    - https://www.linkedin.com/in/leportella
+    - https://github.com/leportella
 
 # THEME SETTINGS
 navigation: # Navigation links
@@ -28,7 +25,7 @@ navigation: # Navigation links
 tagline: >
     a little bit about me
 
-hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
+hero_img: posts/ocean.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
 twitter_username: leleportella
 github_username: leportella
