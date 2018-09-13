@@ -20,6 +20,8 @@ social:
 navigation: # Navigation links
   - {name: 'Home', link: '/'}
   - {name: 'About', link: '/about.html'}
+  - {name: 'Community Work', link: '/community.html'}
+  - {name: 'Curriculum', link: '/curriculum.html'}
 
 tagline: >
     a little bit about me
