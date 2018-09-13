@@ -1,60 +1,49 @@
-# Dependencies
-markdown:         kramdown
-highlighter:      rouge
+# SITE CONFIGURATION
+title: leportella # your site title
+author: leportella # You :P
+description: > # Meta description of Homepage
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://leportella.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
-# Setup
-title:            leportella
-tagline:          a little bit about me
-description:      >
-    This a blog from an oceanographer who became passionare about programming.
-    I'm a dev, in love with data science that loves to write technical posts 
-    about what I'm learning, specially Python, Django and Data Science stuff
-
-url:              "https://leportella.com" # no https
-baseurl:          "" # the optional subpath of your site, e.g. "/blog"
-                  # NB: This applies to all pages in your Jekyll site.
-                  # If you want to move just the blog index pages but keep
-                  # other pages at root, see the paginate_path and
-                  # sidebar_blog_link below.
-
-author:
-  name:           'Leticia Portella'
-  url:            https://twitter.com/leleportella
+# SEO PLUGIN
+social:
+  name: Your Name
+  links:
+    - https://twitter.com/BenBalter
+    - https://www.facebook.com/ben.balter
+    - https://www.linkedin.com/in/BenBalter
+    - https://plus.google.com/+BenBalter
+    - https://github.com/benbalter
+    - https://keybase.io/benbalter
 
 # THEME SETTINGS
 navigation: # Navigation links
   - {name: 'Home', link: '/'}
-  - {name: 'About', link: '/about.html'}
-  - {name: 'Community Work', link: '/community.html'}
-  - {name: 'Curriculum', link: '/curriculum.html'}
-  - {name: 'Feed', link: '/feed.xml'}
+  - {name: 'About', link: '/about'}
+  - {name: 'Contact', link: '/contact'}
 
-hero_img: posts/ocean.jpg
-github:
-  repo:             https://github.com/leportella/
+tagline: >
+    a little bit about me
 
-google_analytics:   UA-106178084-1 
-
-disqus:
-  shortname:  leportella-com
+hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
 twitter_username: leleportella
 github_username: leportella
 
+disqus:
+  shortname: leportella-com
 
+# google_tag_manager: GTM-XXXXXXX # Uncomment to enable GTM. Replace GTM-XXXXXXX with your GTM container ID
 
-# SEO PLUGIN
-social:
-  name: leportella
-  links:
-    - https://twitter.com/leleportella
-    - https://www.linkedin.com/in/leportella
-    - https://github.com/leportella
+service_worker: true
 
 # BUILD SETTINGS
 markdown: kramdown
 highlighter: rouge # or pygments or null
-theme: jekyll-sleek # Uncomment if you're using the theme as a ruby gem
+# theme: jekyll-sleek # Uncomment if you're using the theme as a ruby gem
 exclude:
   - README.md
   - node_modules
@@ -72,9 +61,8 @@ include: ['_pages']
 #permalink: /:title/
 
 compress_html:
-clippings: all
+  clippings: all
 
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
-  - jekyll-feed
