@@ -55,7 +55,8 @@ Eu entrei num ambiente extremamente agradável e amigável para iniciantes. Toda
 A grande certeza do time de que eu ia conseguir e toda a paciência que tiveram me fizeram crescer como profissional e como pessoa. Meus códigos iam se tornando mais complexos aos poucos e minhas revisões também mais rigorosas. Comecei a acreditar que eu poderia, sim, me chamar de desenvolvedora.
 
 ![](https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif)
-*Se você, assim como eu, vive com dúvidas se você é de fato um(a) desenvolvedor(a), faça o melhor test possível [aqui](http://amiarealdev.com/#).
+
+*Se você, assim como eu, vive com dúvidas se você é de fato um(a) desenvolvedor(a), faça o melhor test possível [aqui](http://amiarealdev.com/#).*
 
 O ambiente era tão propício para o crescimento que eu me desenvolvi bem no backend e em fevereiro (fev/17) já comecei a trabalhar no frontend, com React, Javascript e etc. Uma área totalmente nova e novos desafios para enfrentar.
 
