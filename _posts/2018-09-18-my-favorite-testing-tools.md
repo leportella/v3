@@ -99,7 +99,7 @@ To access your new improved shell, just type:
 
 Done and done... on the first line you can already check how's many instances you already have:
 
-<img src="https://i.imgur.com/uZ4lsSj.png" height="500" style="max-width: 50%" />
+<img src="https://i.imgur.com/uZ4lsSj.png" height="300" style="max-width: 60%" />
 
 ## Configuring Pytest
 
@@ -126,7 +126,7 @@ Let's try it out?
 
 The result is pretty but no tests were found...
 
-<img src="https://i.imgur.com/uVwLcSG.png" height="380" style="max-width: 40%" />
+<img src="https://i.imgur.com/uVwLcSG.png" height="280"/>
 
 Let's check if it's working... create a folder `tests` on our app `student` and add a file `tests.py`. Don't forget to add an 
 empty file `__init__.py` on that same folder, so `pytest` is able to found the folder. In the `tests.py` file, we create 
@@ -141,12 +141,12 @@ def test_something():
 
 Run again and... voilá! It found the test and a red alert is printed in our screen.
 
-<img src="https://i.imgur.com/bQVyEFA.png" height="500" style="max-width: 40%" />
+<img src="https://i.imgur.com/bQVyEFA.png" height="230"/>
 
 
 If we fix the test to assert a true comparisson, then everything is clean and green:
 
-<img src="https://i.imgur.com/ltr7cL1.png" height="500" style="max-width: 40%" />
+<img src="https://i.imgur.com/ltr7cL1.png" height="250"/>
 
 
 ## Lazy records
@@ -177,18 +177,18 @@ class StudentResource(DjangoResource):
 
 Let's test our brand new endpoint... and we have a problem: there's nothing on our database to test the response:
 
-<img src="https://i.imgur.com/d6LEYcq.png" height="350" style="max-width: 40%" />
+<img src="https://i.imgur.com/d6LEYcq.png" height="150"  style="max-width: 60%"/>
 
 We can open our brand new `shell_plus` and start adding stuff. Well, `Student` depends on a `Parent` instance, 
 so first we add a new parent. We can't forget to save it, otherwise it won't work 
 (trust me, I did this while writing this). Now we have a ton of 
 information we have to come up with to make it a new database record. And again... don't forget to save it.
 
-<img src="https://i.imgur.com/wDXQU7i.png" height="200" style="max-width: 20%" />
+<img src="https://i.imgur.com/wDXQU7i.png" height="200"/>
 
 Now we could manually test our api:
 
-<img src="https://i.imgur.com/ODgKrIF.png" height="200" style="max-width: 20%" />
+<img src="https://i.imgur.com/ODgKrIF.png" height="150" style="max-width: 60%" />
 
 So things are working but things are pretty manual. 
 As a project goes bigger, testing things becomes more and more difficult and more instances are requeried 
@@ -218,7 +218,7 @@ Now let's see... we start with no record of `Parent` on our database. After we i
 record saved on our database. Pretty nice! And you can see now that this new parent is called `Karen Palmer`, that is, our 
 factory created a new instance on the database with a normal name (not just a bunch of letters together).
 
-<img src="https://i.imgur.com/OJdQkyh.png" height="200" style="max-width: 40%" />
+<img src="https://i.imgur.com/OJdQkyh.png" height="200" style="max-width: 70%" />
 
 Now we can do the same with the `Student` class. `Factory boy` have a lot of tools that can help you on this task: 
 `Fakers` for first name, last name, address and text, random integer, create emails based on the instance first and last name, 
@@ -250,7 +250,7 @@ Now let's test it. We create a new `Student` and although our database already h
 create a new parent to associate it with this new instance of `Student` that was just created. 
 And notice that it doesn't get the old `Parent` we created earlier, it is a brand new instance:
 
-<img src="https://i.imgur.com/kiMtm4t.png" height="200" style="max-width: 40%" />
+<img src="https://i.imgur.com/kiMtm4t.png" height="200" style="max-width: 70%" />
 
 Now, if we want to create a sibling for this previous student, we only need to pass to 
 the new `StudentFactory` will will create an already created instance 
@@ -258,12 +258,12 @@ of `Parent`. This way, it will not create a new instance but rather add the inst
 Now we kept the same number of parents we already had on our database but now we have two students with the same 
 parent:
 
-<img src="https://i.imgur.com/VhvUavi.png" height="200" style="max-width: 40%" />
+<img src="https://i.imgur.com/VhvUavi.png" height="200" style="max-width: 70%" />
 
 So, this already makes our life pretty easy... but there's more! It can also create batches of instances. So you can 
 actually populate your database in a single line!
 
-<img src="https://i.imgur.com/ky1zjCC.png" height="300" style="max-width: 40%" />
+<img src="https://i.imgur.com/ky1zjCC.png" height="300" style="max-width: 70%" />
 
 Lazy as can be, right? :)
 
