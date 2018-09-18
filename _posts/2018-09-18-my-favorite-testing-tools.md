@@ -218,7 +218,7 @@ Now let's see... we start with no record of `Parent` on our database. After we i
 record saved on our database. Pretty nice! And you can see now that this new parent is called `Karen Palmer`, that is, our 
 factory created a new instance on the database with a normal name (not just a bunch of letters together).
 
-<img src="https://i.imgur.com/OJdQkyh.png" height="200" style="max-width: 20%" />
+<img src="https://i.imgur.com/OJdQkyh.png" height="200" style="max-width: 40%" />
 
 Now we can do the same with the `Student` class. `Factory boy` have a lot of tools that can help you on this task: 
 `Fakers` for first name, last name, address and text, random integer, create emails based on the instance first and last name, 
@@ -250,7 +250,7 @@ Now let's test it. We create a new `Student` and although our database already h
 create a new parent to associate it with this new instance of `Student` that was just created. 
 And notice that it doesn't get the old `Parent` we created earlier, it is a brand new instance:
 
-<img src="https://i.imgur.com/kiMtm4t.png" height="200" style="max-width: 20%" />
+<img src="https://i.imgur.com/kiMtm4t.png" height="200" style="max-width: 40%" />
 
 Now, if we want to create a sibling for this previous student, we only need to pass to 
 the new `StudentFactory` will will create an already created instance 
@@ -258,12 +258,12 @@ of `Parent`. This way, it will not create a new instance but rather add the inst
 Now we kept the same number of parents we already had on our database but now we have two students with the same 
 parent:
 
-<img src="https://i.imgur.com/VhvUavi.png" height="200" style="max-width: 20%" />
+<img src="https://i.imgur.com/VhvUavi.png" height="200" style="max-width: 40%" />
 
 So, this already makes our life pretty easy... but there's more! It can also create batches of instances. So you can 
 actually populate your database in a single line!
 
-<img src="https://i.imgur.com/ky1zjCC.png" height="300" style="max-width: 20%" />
+<img src="https://i.imgur.com/ky1zjCC.png" height="300" style="max-width: 40%" />
 
 Lazy as can be, right? :)
 
