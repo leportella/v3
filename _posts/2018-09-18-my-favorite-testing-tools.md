@@ -16,9 +16,6 @@ featured-img: board-chalk-chalkboard-459793
 last_modified_at: 2018-09-18T12:28:52-05:00
 ---
 
-
-# My favorite testing tools on Django
-
 In today's development, tests are a fundamental tool for keeping things nice and easy and to keep programmer's sanity. 
 I've been 
 using a set of tools for developing my web applications with Django and it is time for me to share a little bit about them.
