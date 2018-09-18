@@ -73,7 +73,7 @@ Now imagine that you are working with a big project
 with lots of model classes to import. 
 Importing every single model class becomes kind of a boring and time consuming task. It's time for something better.
 
-<img src="https://i.imgur.com/OygSiVi.png" height="100" style="max-width: 20%" />
+<img src="https://i.imgur.com/OygSiVi.png" height="300" style="max-width: 40%" />
 
 I use [django_extensions](https://github.com/django-extensions/django-extensions) to help me deal with this. By default all 
 model classes are imported. It has a lot of cool stuff too but, for me, 
@@ -99,7 +99,7 @@ To access your new improved shell, just type:
 
 Done and done... on the first line you can already check how's many instances you already have:
 
-<img src="https://i.imgur.com/uZ4lsSj.png" height="200" style="max-width: 20%" />
+<img src="https://i.imgur.com/uZ4lsSj.png" height="300" style="max-width: 40%" />
 
 ## Configuring Pytest
 
@@ -126,7 +126,7 @@ Let's try it out?
 
 The result is pretty but no tests were found...
 
-<img src="https://i.imgur.com/uVwLcSG.png" height="180" style="max-width: 20%" />
+<img src="https://i.imgur.com/uVwLcSG.png" height="280" style="max-width: 40%" />
 
 Let's check if it's working... create a folder `tests` on our app `student` and add a file `tests.py`. Don't forget to add an 
 empty file `__init__.py` on that same folder, so `pytest` is able to found the folder. In the `tests.py` file, we create 
@@ -141,12 +141,12 @@ def test_something():
 
 Run again and... voilá! It found the test and a red alert is printed in our screen.
 
-<img src="https://i.imgur.com/bQVyEFA.png" height="300" style="max-width: 20%" />
+<img src="https://i.imgur.com/bQVyEFA.png" height="400" style="max-width: 40%" />
 
 
 If we fix the test to assert a true comparisson, then everything is clean and green:
 
-<img src="https://i.imgur.com/ltr7cL1.png" height="200" style="max-width: 20%" />
+<img src="https://i.imgur.com/ltr7cL1.png" height="300" style="max-width: 40%" />
 
 
 ## Lazy records
