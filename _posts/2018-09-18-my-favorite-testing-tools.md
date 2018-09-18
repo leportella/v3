@@ -73,7 +73,7 @@ Now imagine that you are working with a big project
 with lots of model classes to import. 
 Importing every single model class becomes kind of a boring and time consuming task. It's time for something better.
 
-![](https://i.imgur.com/OygSiVi.png)
+<img src="https://i.imgur.com/OygSiVi.png" height="500" style="max-width: 50%" />
 
 I use [django_extensions](https://github.com/django-extensions/django-extensions) to help me deal with this. By default all 
 model classes are imported. It has a lot of cool stuff too but, for me, 
