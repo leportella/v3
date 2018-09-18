@@ -99,7 +99,7 @@ To access your new improved shell, just type:
 
 Done and done... on the first line you can already check how's many instances you already have:
 
-<img src="https://i.imgur.com/uZ4lsSj.png" height="400" style="max-width: 40%" />
+<img src="https://i.imgur.com/uZ4lsSj.png" height="500" style="max-width: 50%" />
 
 ## Configuring Pytest
 
