@@ -99,7 +99,7 @@ To access your new improved shell, just type:
 
 Done and done... on the first line you can already check how's many instances you already have:
 
-<img src="https://i.imgur.com/uZ4lsSj.png" height="300" style="max-width: 40%" />
+<img src="https://i.imgur.com/uZ4lsSj.png" height="400" style="max-width: 40%" />
 
 ## Configuring Pytest
 
@@ -126,7 +126,7 @@ Let's try it out?
 
 The result is pretty but no tests were found...
 
-<img src="https://i.imgur.com/uVwLcSG.png" height="280" style="max-width: 40%" />
+<img src="https://i.imgur.com/uVwLcSG.png" height="380" style="max-width: 40%" />
 
 Let's check if it's working... create a folder `tests` on our app `student` and add a file `tests.py`. Don't forget to add an 
 empty file `__init__.py` on that same folder, so `pytest` is able to found the folder. In the `tests.py` file, we create 
@@ -141,12 +141,12 @@ def test_something():
 
 Run again and... voilá! It found the test and a red alert is printed in our screen.
 
-<img src="https://i.imgur.com/bQVyEFA.png" height="400" style="max-width: 40%" />
+<img src="https://i.imgur.com/bQVyEFA.png" height="500" style="max-width: 40%" />
 
 
 If we fix the test to assert a true comparisson, then everything is clean and green:
 
-<img src="https://i.imgur.com/ltr7cL1.png" height="300" style="max-width: 40%" />
+<img src="https://i.imgur.com/ltr7cL1.png" height="500" style="max-width: 40%" />
 
 
 ## Lazy records
@@ -177,7 +177,7 @@ class StudentResource(DjangoResource):
 
 Let's test our brand new endpoint... and we have a problem: there's nothing on our database to test the response:
 
-<img src="https://i.imgur.com/d6LEYcq.png" height="150" style="max-width: 20%" />
+<img src="https://i.imgur.com/d6LEYcq.png" height="350" style="max-width: 40%" />
 
 We can open our brand new `shell_plus` and start adding stuff. Well, `Student` depends on a `Parent` instance, 
 so first we add a new parent. We can't forget to save it, otherwise it won't work 
