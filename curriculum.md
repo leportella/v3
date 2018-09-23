@@ -18,6 +18,10 @@ sidebar_link: true
 <h1 id='formation'>Formation</h1>
 ----------------------------------
 
+<h3><a href="https://confirm.udacity.com/J3A9MKT2">Nanodegree in Machine Learning Engineer</a></h3>
+<h5>2018</h5>
+<p>Udacity</p>
+
 <h3>MSc. Oceanography - Dynamic and Management of Coastal Systems</h3>
 <h5>2015-2017</h5>
 <p>Federal University of Santa Catarina</p>
