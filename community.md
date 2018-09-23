@@ -225,8 +225,8 @@ I also have a Podcast called Pizza de Dados along with two friends.</p>
 <ul>
 <li><a href="https://github.com/leportella/data-science-roadmap"> Data Science Roadmap</a> - Creator</li>
 <li><a href="https://github.com/rougeth/bottery">Bottery</a> - Collaborator</li>
-<li><a href="https://github.com/okfn-brasil/perfil">Perfil Político</a> - Collaborator</li>
-<li> Django Simple History</li>
+<li><a href="https://github.com/okfn-brasil/perfil">Perfil Político</a></li>
+<li><a href="https://github.com/shervinea/cheatsheet-translation">Cheatsheet-translation</a></li>
 <li> Restless </li>
 <li> Python Social App </li>
 <li> Intermediate Python (translation to pt-br) </li>
@@ -238,6 +238,7 @@ I also have a Podcast called Pizza de Dados along with two friends.</p>
 <li> cookiecutter-djangopackage </li>
 <li> scipyla2016 </li>
 <li> Python Brazil blog </li>
+<li> Django Simple History</li>
 </ul>
 
 
