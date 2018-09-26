@@ -48,6 +48,13 @@ time of the accident, one can assume that there is a problem on Brazilian Roads,
 Even if this is not possible, the predictions could help identifying most problematic areas and help determine priorization of 
 resources in areas where resources are scarce.
 
+## Benchmark
+
+[Chong, Abraham & Paprzycki, 2005](ajith.softcomputing.net/isda-mam.pdf) did a similar study, where they used neural network for trying to classify victims degree of injuries on traffic accidents. 
+On this study, they had 5 classes of injures, including no injury, possible injury, non-incapacitating injury, incapacitating injury, and fatal injury. 
+The features where based both on road and driver's characteristics. 
+The road characteristics were similar to what we found in the datasets of National Road Police. The authors found a ~60% accuracy on predicting the type of victims.
+
 
 ## Exploratory Analysis
 
