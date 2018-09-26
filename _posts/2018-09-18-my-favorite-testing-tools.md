@@ -156,7 +156,6 @@ the lib `restless` to this, the same one I showed how to write endpoints on
 You can see on the `preparer` variable that we will only show our student first name on the api response:
 
 ```python
-def test_something():
 from restless.dj import DjangoResource
 from restless.preparers import FieldsPreparer
 
