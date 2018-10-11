@@ -129,7 +129,7 @@ Legal! Um coffe break pra gerar aquele networking? Perfeito!
 
 Aqui não tem uma contra-partida clara, mas é um bom jeito de mostrar o que você tem de bom na sua empresa!
 
-## Incentivar seus funcionários a palestrarem e participarem de eventos
+### Incentivar seus funcionários a palestrarem e participarem de eventos
 
 O nome diz tudo: incentive seus funcionários! Permita que eles possam ir a eventos, sem ter medo de ficar serem 
 cobrados pelas ausências. Incentive que eles compartilhem o que aprenderam em uma palestra ou que eles ensinem uma 
@@ -139,7 +139,7 @@ O ideal é colocar uma política de pagar algum (ou todo) custo do evento,
 especialmente se ele tiver uma palestra/tutorial aceito. Pense que essa pessoa teve que passar por todo um processo 
 de seleção, teve seu conteúdo aceito e vai falar para um monte de pessoas sobre o que vocês estão fazendo!
 
-## Abra os códigos que não tem regra de negócio
+### Abra os códigos que não tem regra de negócio
 
 Se você usa algum projeto open-source, já entende o valor dele. Seja Django, React ou Rails, se você o usa, provavelmente é 
 porque ele faz um papel importante para você. Isso sem falar dos inúmeros projetos menores que rodeiam os grandes projetos. 
