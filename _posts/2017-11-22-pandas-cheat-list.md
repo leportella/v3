@@ -32,6 +32,7 @@ This way, I really wanted a place to gather my tricks that I really don't want t
 * [How to apply a function to every item of my Serie?](#apply-function)
 * [How to prepare my DataFrame to apply get_dummies?](#apply-get-dummies)
 * [read_csv errors of encoding](#encoding)
+* [Sum values of all columns](#sum-values)
 
 # My Pandas Cheat List
 
@@ -186,4 +187,11 @@ The only thing that could resolve this was:
 
 ```python
 pd.read_csv('file.csv', encoding='latin-1')
+```
+
+
+<h2 id='sum-values'>Sum values of all columns</h2>
+
+```python
+df.sum(axis=1)
 ```
