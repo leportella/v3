@@ -15,7 +15,7 @@ tags:
   - project jupyter
   - internship
   - newbie
-featured-img: outreachy
+featured-img: write
 last_modified_at: 2018-12-12T19:48:52-05:00
 ---
 
