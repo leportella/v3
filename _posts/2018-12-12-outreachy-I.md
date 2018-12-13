@@ -48,7 +48,7 @@ A **POST** that would receive a new password and call the right function to do t
 
 The end result was this:
 
-<img src="https://i.imgur.com/nWKzwbs.png" height="100">
+<img src="https://i.imgur.com/nWKzwbs.png" style="height:200px;"/>
 
 This job was very close to the main Outreachy project I was applying. Now that I am in, my job is to construct a Native Authenticator that will help admins to manage their users (hopefully) seamlessly. Thus, I will use the knowledge I got previously and expand it :)
 
