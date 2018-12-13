@@ -33,17 +33,31 @@ sidebar_link: true
 <h1 id='positions'>Positions</h1>
 ----------------------------------
 
-<h3>Data Scientist and Developer - Nantech</h3>
-<h5>Jun/2018 - present</h5>
+<h3>Developer - Project Jupyter</h3>
+<h5>Dec/2018 - present</h5>
 
-Working with several companies to develop projects focusing mainly on data 
-analysis.
+Working with Project Jupyter as an Intern of Outreachy. Outreachy is an internship program coordinated by the Software Freedom Conservancy. It is run twice a year with a goal to bring people from underrepresented backgrounds in tech into open source projects.
+
+I will work on building better native user management features into JupyterHub. Small to medium installations of JupyterHub that do not want to depend entirely on an external authentication provider will benefit greatly from this.
+
+More on the project and internship [here](https://blog.jupyter.org/outreachy-jupyter-supporting-diversity-in-open-communities-dfa78db4b0bd)
+
+<h3>Mentor - Data Bootcamp</h3>
+<h5>May/2018 - present</h5>
+
+Mentor in Data Bootcamp classes on Data Science and Big Data using Python. Tools include Numpy, Pandas, Sckit-Learn, Machine Learning (both supervised and unsupervised) and Spark.
+
+
+<h3>Data Scientist and Developer - Open Knowledge Foundation</h3>
+<h5>Jun/2018 - Aug/2018</h5>
+
+Work in an ONG for constructing a platform for profiling public figures in Brazilian politics, searching for corruption patterns or figures with inconsistent politics paths (changes in parties, unpopular law projects, high expenses on public money).
 Technologies include, but are not limited to:
 * MongoDb and Mongoengine 
 * Jupyter
 * Pandas
 * Numpy
-* Peo4J
+* Neo4J
 * Django
 * Pytest
 
@@ -170,10 +184,12 @@ Completed the First Certificate in English by University of Cambridge on Decembe
 
 * Python
 * Spyder
+* Communication Skills
 * Django
 * Restless
 * Git 
 * GitHub
+* Team and Project Management
 * PythonData Analysis Modules (Numpy, Scipy, Seaborn, Matplotlib, Pandas)
 * Machine Learning (Sklearn)
 * Ubuntu/Linux
@@ -187,3 +203,5 @@ Completed the First Certificate in English by University of Cambridge on Decembe
 * VIM
 * HTML
 * CSS
+* Oratory
+* Spark

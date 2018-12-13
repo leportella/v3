@@ -11,6 +11,7 @@ sidebar_link: true
 * [Podcasts](#podcasts) 
 * [Things I helped organize](#organization)
 * [Open Source Contribution](#open-source)
+* [Webinars](#webinars)
 * [Other things...](#other)
 * [What someone wrote about me s2...](#someone-wrote)
 
@@ -19,7 +20,7 @@ sidebar_link: true
 <h2 id="now">What's happening right now?</h2> 
 ---------------------------------------------
 
-<p> Now I am part of the boards of directos of the Associação Python Brasil (Python Brazil Association) as Director of Marketing and Public Relations. 
+<p> Now I am part of the boards of directos of the Associação Python Brasil (Python Brazil Association) as Director of Marketing and Public Relations. I am working in Project Jupyter as an Intern of the Program Outreachy.
 I also have a Podcast called Pizza de Dados along with two friends.</p>
 
 
@@ -27,22 +28,29 @@ I also have a Podcast called Pizza de Dados along with two friends.</p>
 ----------------------------------------
 
 <p>
-  <a href="" target="">
-    Operação Serenata de Amor
+  <a href="https://www.youtube.com/watch?v=RDnuhbQjMoU&t=2s" target="">
+    Keynote - Painel sobre dados abertos e tecnologias cívicas
   </a>
-    <small>- Ago/18 - Keynote at SciPy Latin America - Curitiba/PR</small>
+    <small>- Oct/18 - Keynote at Python Brasil - Natal/RN</small>
 </p>
 
 <p>
   <a href="" target="">
     Operação Serenata de Amor
   </a>
-    <small> - Ago/18 - Banco do Brasil - Brasília/DF</small>
+    <small>- Aug/18 - Keynote at SciPy Latin America - Curitiba/PR</small>
+</p>
+
+<p>
+  <a href="" target="">
+    Operação Serenata de Amor
+  </a>
+    <small> - Aug/18 - Banco do Brasil - Brasília/DF</small>
 </p>
 
 <p>
     Ciência de dados para um futuro menos incerto 
-    <small>Ago/18 - Intelbras - Florianópolis/SC</small>
+    <small>Aug/18 - Intelbras - Florianópolis/SC</small>
 </p>
 
 <p>
@@ -63,7 +71,7 @@ I also have a Podcast called Pizza de Dados along with two friends.</p>
   <a href="http://slides.com/leticiaportella/o-que-voce-faria-se-tivesse-medo#/" target="">
     O que você faria se não tivesse medo? 
   </a>
-    <small>Dez/17 - 4o Open House Pesquisa e Desenvolvimento da Rede Globo - Rio de Janeiro/RJ</small>
+    <small>Dec/17 - 4o Open House Pesquisa e Desenvolvimento da Rede Globo - Rio de Janeiro/RJ</small>
 </p>
 
 <p>
@@ -94,7 +102,7 @@ I also have a Podcast called Pizza de Dados along with two friends.</p>
 
 <p>
     Live Coding with Django and Restless
-    <small>April/17 - 19th Python Floripa - Florianópolis/SC</small>
+    <small>Apr/17 - 19th Python Floripa - Florianópolis/SC</small>
 </p>
 
 <p>
@@ -115,7 +123,7 @@ I also have a Podcast called Pizza de Dados along with two friends.</p>
   <a href="https://www.youtube.com/watch?v=yV3XFWfJ0TE&t=393s" target="">
     Programação Além do Código: Comunidade e Mulheres na Tecnologia
   </a>
-    <small>June/2016 - Caipyra - Ribeirão Preto</small>
+    <small>Jun/2016 - Caipyra - Ribeirão Preto</small>
 </p>
 
 <p>
@@ -242,6 +250,24 @@ I also have a Podcast called Pizza de Dados along with two friends.</p>
 </ul>
 
 
+<h2 id="webinars">Webinars</h2>
+-----------------------------------
+
+<p>
+  <a href="https://www.youtube.com/watch?v=HxrEUBNnz2Q">
+     Pizza de Dados
+  </a>
+    <small>Nov/18 - Castálio Podcast</small>
+</p>
+
+<p>
+  <a href="https://www.youtube.com/watch?v=i8vvR3avyxQ">
+     Ciência de dados: Como se preparar para entrar nesse mercado? 
+  </a>
+    <small>Sep/18 - Curto Circuito</small>
+</p>
+
+
 <h2 id="other">Other things...</h2>
 -----------------------------------
 
@@ -249,6 +275,7 @@ I also have a Podcast called Pizza de Dados along with two friends.</p>
     Mentor at Django Girls São José
     <small>Mar/18 - São José/SC</small>
 </p>
+
 
 <h2 id="someone-wrote"> What someone wrote about me s2...</h2>
 --------------------------------------------------------------
