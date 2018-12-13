@@ -54,7 +54,7 @@ This job was very close to the main Outreachy project I was applying. Now that I
 
 ## The first guidelines
 
-![](https://media.giphy.com/media/tHufwMDTUi20E/giphy.gif)
+<img src="https://media.giphy.com/media/tHufwMDTUi20E/giphy.gif" style="height:200px;"/>
 
 On the week before the program starts, I did a call with one of my mentors, Yuvi, to align some of the things we were wishing to accomplish on our first week.
 
