@@ -85,7 +85,7 @@ Now I had a small structure and tests was time to [add some checks on my pull re
 * I had indentation problems (number of spaces are not constant on the file o.O) 
 * I had permission problems: I had to add **sudo** before any `pip install … `. I tried adding a `--user` flag, but with no success. Left this for later improvements and used `sudo` anyway 😅
 
-![](https://media.giphy.com/media/3oz8xZwLzHuL2vt2yQ/giphy.gif)
+<img src="https://media.giphy.com/media/3oz8xZwLzHuL2vt2yQ/giphy.gif" style="height:200px;"/>
 
 My next task was to [create an official documentation](https://github.com/jupyterhub/nativeauthenticator/pull/9), for that I used the [ReadTheDocs Sphinx](https://docs.readthedocs.io/en/latest/intro/getting-started-with-sphinx.html) project to create a initial documentation structure. Added a small *Quickstart* file and [published it](https://native-authenticator.readthedocs.io/en/latest/) using Read the Docs. This was pretty cool! [I tried doing a pull request before the CircleCI phase](https://github.com/jupyterhub/nativeauthenticator/pull/6), but it got so messed up with all the commits I was doing that I decided to start over on a new pull request all fresh an clean.
 
