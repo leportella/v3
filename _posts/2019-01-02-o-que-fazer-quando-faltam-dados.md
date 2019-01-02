@@ -14,7 +14,7 @@ tags:
   - interpolation
   - missing data
   - dados ausentes
-featured-img: doubt
+featured-img: interp
 last_modified_at: 2019-01-02T11:10:52-05:00
 ---
 
