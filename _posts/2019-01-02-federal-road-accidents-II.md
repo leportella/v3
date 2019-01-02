@@ -50,11 +50,11 @@ Through all notebooks I used the same strategy. My cleaned dataset consisted in 
 
 This way I used most of my dataset but not all to train my model. I still was able to test my model by using a set that it doesn't have seen previously. This is a way to make sure that my model is not overfitting to the data and it can generalize well to data that it hasn't seen before.
 
-<img src="https://i.imgur.com/UZ3XMLU.png" style="height:200px;"/>
+<img src="https://i.imgur.com/UZ3XMLU.png" style="height:300px;"/>
 
 I then used my *test dataset* to check how well my model was doing. I used the `X_test` (only features of my *test dataset*) to make predictions and then compared the result of the model (`y_pred`) with the actual data (`y_test`). With this comparison I had information of accuracy, F1 score and precision and recall for each class, which helped decide which model was doing better.
 
-<img src="https://i.imgur.com/YwnibIT.png" style="height:200px;"/>
+<img src="https://i.imgur.com/YwnibIT.png" style="height:300px;"/>
 
 ## Initial steps
 
@@ -145,9 +145,9 @@ The results here presented are a combination of the best algorithm and variables
 On the figure below we can see the confusion matrix of the best binary model (notebook 20). We can see that only 182 accidents that had not victims were classified as with victims, while 1602 with victims were classified as without victims. The table below has the results of precision, recall and f1-score for each class.
 
 
-<img src="https://i.imgur.com/Tne5rRO.png" style="height:200px;"/>
+<img src="https://i.imgur.com/Tne5rRO.png" style="height:300px;"/>
 
-<img src="https://i.imgur.com/FC8QnIZ.png" style="height:200px;"/>
+<img src="https://i.imgur.com/FC8QnIZ.png" style="height:100px;"/>
 
 ## Next steps
 
