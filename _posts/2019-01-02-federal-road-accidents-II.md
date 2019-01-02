@@ -92,7 +92,7 @@ First I created 3 models: one for each class (Models 10.0, 10.1 and 10.2). The f
 
 The general schema can be seen on the figure below:
 
-<img src="https://i.imgur.com/tsMohnH.png" style="height:200px;"/>
+<img src="https://i.imgur.com/tsMohnH.png" style="height:300px;"/>
 
 Even though this was the most complex strategy I used, this didn’t result in a good improvement of the prediction. A general accuracy of 0.56, but a recall of only 0.39 for class 1.
 
