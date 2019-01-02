@@ -86,7 +86,7 @@ The third alternative was tried but it didn’t gave a good result. Not as near 
 
 ## Multiclass models vs models of binary classes
 
-Since we had 3 classes that were pretty hard to solve by a single model, I tried a technique of multiple models.
+Since we had 3 classes that were pretty hard to solve by a single model, I tried a technique of multiple models (Thank [Renan](https://twitter.com/renan_oliveira) for the idea ❤️). 
 
 First I created 3 models: one for each class (Models 10.0, 10.1 and 10.2). The first model tried to predict whether there would be victims or not, the second would predict if there would be injured people or not and the third if there would be dead victims or not. Each model returns a probability of that accident be of a certain class. So, I add this probabilities as features for a fourth model. Then, using the original features and the probabilities I have a model that defines which class the accident should be classified.
 
