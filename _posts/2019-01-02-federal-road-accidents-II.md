@@ -37,7 +37,7 @@ On the Brazilian dataset we didn't have any information regarding the driver cha
 
 The project contained two folders: a `data` folder and a `notebooks`folder.
 
-The data folder contained 3 CSV files, two original files downloaded from the website (`datatran2016_atual.csv` and `datatran2017.csv`) and a cleaned dataset (`datatran_2016-2017.csv`)
+The data folder contained 3 CSV files, two original files downloaded from the [website](https://www.prf.gov.br/portal/dados-abertos/acidentes/acidentes) (`datatran2016_atual.csv` and `datatran2017.csv`) and a cleaned dataset (`datatran_2016-2017.csv`)
 
 The notebooks folder contained all Jupyter Notebooks used in my project:
 Notebooks starting with 0 (`0.*`) included general analysis I did using the dataset that were not related with machine learning models and tests
@@ -48,7 +48,7 @@ A notebook called `Clean` that does all the processing and data cleaning that re
 
 Through all notebooks I used the same strategy. My cleaned dataset consisted in multiple feature columns (represented in the figure below as X) and a target column that I wished to predict (called Y). The first thing I did was to divide the dataset in two separate datasets using the function [*train_test_split*](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html). This resulted in two other datasets: a train dataset with 80% of the original data and a test dataset with 20% of the data. I used only the *train dataset* to train my model.
 
-This way I used most of my dataset but not all to train my model. I still was able to test my model by using a set that it doesn't have seen previously. This is a way to make sure that my model is not overfitting to the data and it can generalize well to data that it hasn't seen before.
+This way I used most of my dataset but not all to train my model. I still was able to test my model by using a set that it doesn't have seen previously. This is a way to try to verify if my model is not overfitting to the data and it can generalize well to data that it hasn't seen before.
 
 <img src="https://i.imgur.com/UZ3XMLU.png" style="height:300px;"/>
 
@@ -60,7 +60,7 @@ I then used my *test dataset* to check how well my model was doing. I used the `
 
 First, I created a "quick and dirt" model, using Logistic Regression (Model 01) and all variables that I considered to be of relevance for the problem. I used this as my *baseline*, the base on which I would compare all other models. Although this model achieved a considerably high accuracy score of 0.69, the recall on class two was ridiculously low (almost 0), so this was not even near good enough.
 
-For this and all other models I used a technique called [GridSearchCV](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html) that is a technique of model optimisation and parameter tunning. It permits to pass several values of parameters to a model class and the GridSearchCV evaluates, based on an accuracy metric you defined, which set of parameters gives better performance. This is very useful to optimize hyper parameter search.
+For this and all other models I used a technique called [GridSearchCV](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html) that is a technique of model optimisation and parameter tunning. It permits to pass several values of parameters to a model class and the GridSearchCV evaluates, based on an accuracy metric you defined, which set of parameters gives better performance. This is very useful to optimize hyper parameter search and it is a good technique to avoid overfitting since it also uses a cross-validation technique.
 
 I also used all features I could think that could be important for the model: weekday, UF (state in which the accident happened), Km, accident cause, accident type, moment of day, climate and road layout.
 
