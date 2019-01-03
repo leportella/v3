@@ -6,6 +6,7 @@ sidebar_link: true
 
 <h1>Summary</h1>
 
+* [Curriculum in PDF](https://drive.google.com/file/d/1-wAJngYcz3o-S-qDL2NDTIVFGO74HlYS/view?usp=sharing)
 * [Formation](#formation)
 * [Positions Held](#positions)
 * [Volunteer](#volunteer)
