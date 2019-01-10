@@ -50,7 +50,7 @@ engine = create_engine('sqlite:///:memory:', echo=True)
 
 So, basically you are just telling where your database currently is located. The attribute `echo=True` will make SQLAlchemy to log all SQL commands it is doing while you apply commands. This should not be activated in production, ok?
 
-<img src="https://i.imgur.com/0gVcCUg.png" style="height:200px;"/>
+<center><img src="https://i.imgur.com/0gVcCUg.png" style="height:200px;"/></center>
 
 Once your engine knows your database, it is easy to execute commands on it by using a method called `engine.execute(...)`. You can see how this is done here:
 
@@ -58,7 +58,7 @@ Once your engine knows your database, it is easy to execute commands on it by us
 
 So you basically now have a two way street: the Engine that knows where your db is and a method (`engine.execute(...)`) to change the db using the Engine:
 
-<img src="https://i.imgur.com/yjdhaTZ.png" style="height:200px;"/>
+<center><img src="https://i.imgur.com/yjdhaTZ.png" style="height:200px;"/></center>
 
 <h2 id='engine-connection'>Engine or connection?</h2>
 
@@ -80,7 +80,7 @@ trans.commit()
 
 So, actually, the structure looks more like this now:
 
-<img src="https://i.imgur.com/Bcp1Zku.png" style="height:200px;"/>
+<center><img src="https://i.imgur.com/Bcp1Zku.png" style="height:200px;"/></center>
 
 
 However, looking more deeply [some answers](https://stackoverflow.com/a/34364247/3538098) about the differences between `engine.execute(...)` and `connection.execute(...)` I found that they are not different at all:
@@ -104,7 +104,7 @@ session = Session()
 
 So, basically, you will use sessions to talk to your tables and make queries, but is the `engine` that is actually implementing things on your db.
 
-<img src="https://i.imgur.com/iqV59ky.png" style="height:300px;"/>
+<center><img src="https://i.imgur.com/iqV59ky.png" style="height:300px;"/></center>
 
 Although it seems confusing having three entities before even starting with our tables, most of the times after the initial setup you will use the `session` much more than the `engine` and `connection` will be done implicitly by the two firsts, ok?
 
@@ -145,7 +145,7 @@ Base.metadata.create_all(engine)
 
 This is when SQLAlchemy will actually do something in our database. Since we have the variable `echo` set to `True`, we can see exactly which SQL statement the `engine` actually did on the database:
 
-<img src="https://i.imgur.com/kU4Snpb.png" style="height:400px;"/>
+<center><img src="https://i.imgur.com/kU4Snpb.png" style="height:400px;"/></center>
 
 
 <h2 id='add-records'>Adding new records</h2>
@@ -246,7 +246,7 @@ Product.__table__.create(engine)
 Imagine that you would like to connect each product to a user in your system. So, in each instance of `Product` you would like to store an instance of `User`:
 
 
-<img src="https://i.imgur.com/BJqWSMj.png" style="height:350px;"/>
+<center><img src="https://i.imgur.com/BJqWSMj.png" style="height:350px;"/></center>
 
 If you you are creating all tables now, you should add a Column on your `Product` class that references the Foreign Key of the user and a relationship with the `User` class:
 
@@ -292,4 +292,4 @@ session.commit()
 
 And that's it :)
 
-![](https://media.giphy.com/media/3o7btQsLqXMJAPu6Na/giphy.gif)
+<center>![](https://media.giphy.com/media/3o7btQsLqXMJAPu6Na/giphy.gif)</center>
