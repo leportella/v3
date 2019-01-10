@@ -292,4 +292,4 @@ session.commit()
 
 And that's it :)
 
-<center>![](https://media.giphy.com/media/3o7btQsLqXMJAPu6Na/giphy.gif)</center>
+<center><img src="https://media.giphy.com/media/3o7btQsLqXMJAPu6Na/giphy.gif"/></center>
