@@ -12,7 +12,7 @@ tags:
   - database
   - SQL
   - Project Jupyter
-featured-img: accidents
+featured-img: bookcase 
 last_modified_at: 2019-01-10T21:55:52-05:00
 ---
 
