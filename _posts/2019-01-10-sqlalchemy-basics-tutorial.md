@@ -38,9 +38,9 @@ All code is available [here](https://github.com/leportella/sqlalchemy-basics-pos
 
 <h2 id='engine'>Creating and understanding the Engine</h2>
 
-To start workin with SQLAlchemy, the first thing that they thought in the tutorials is to create an Engine. The Engine is basically how SQLAlchemy communicates with your database, so, when creating the Engine you should add your database (db) URL and that's basically it.
+To start workin with SQLAlchemy, the first thing that they taught in the tutorials is to create an Engine. The Engine is how SQLAlchemy communicates with your database, so, when creating the Engine you should add your database (db) URL and that's basically it.
 
-Although we can access the db through Engine commands (we will see how), we usually don't. But you can. But you shouldn't :)
+Although we can access the db through Engine commands (we will see how), we usually don't. You can, but you shouldn't :)
 
 ```python
 from sqlalchemy import create_engine
@@ -48,15 +48,15 @@ from sqlalchemy import create_engine
 engine = create_engine('sqlite:///:memory:', echo=True)
 ```
 
-So, basically you are just telling where your database currently is located. The attribute `echo=True` will make SQLAlchemy to log all SQL commands it is doing while you apply commands. This should not be activated in production, ok?
+So, you are just telling where your database currently is located. The attribute `echo=True` will make SQLAlchemy to log all SQL commands it is doing while you apply commands. This should not be activated in production, ok?
 
 <center><img src="https://i.imgur.com/0gVcCUg.png" style="height:200px;"/></center>
 
 Once your engine knows your database, it is easy to execute commands on it by using a method called `engine.execute(...)`. You can see how this is done here:
 
-![](https://github.com/leportella/sqlalchemy-basics-post/blob/master/gifs/engine_execute.gif)
+![](https://raw.githubusercontent.com/leportella/sqlalchemy-basics-post/master/gifs/engine_execute.gif)
 
-So you basically now have a two way street: the Engine that knows where your db is and a method (`engine.execute(...)`) to change the db using the Engine:
+So you have a two way street: the Engine that knows where your db is and a method (`engine.execute(...)`) to change the db using the Engine:
 
 <center><img src="https://i.imgur.com/yjdhaTZ.png" style="height:200px;"/></center>
 
@@ -69,7 +69,7 @@ conn = engine.connect()
 conn.execute(...)
 ```
 
-This allows us to create transaction commands, which mean that all commands must be done successfully or all should rollback in case of an error [[1](https://docs.microsoft.com/en-us/sql/t-sql/language-elements/transactions-transact-sql?view=sql-server-2017)]:
+This allows us to create transaction commands, which means that all commands must be done successfully or all should rollback in case of an error [[1](https://docs.microsoft.com/en-us/sql/t-sql/language-elements/transactions-transact-sql?view=sql-server-2017)]:
 
 ```python
 trans = conn.begin()
@@ -102,7 +102,7 @@ Session = sessionmaker(bind=engine)
 session = Session()
 ```
 
-So, basically, you will use sessions to talk to your tables and make queries, but is the `engine` that is actually implementing things on your db.
+So, you will use sessions to talk to your tables and make queries, but is the `engine` that is actually implementing things on your db.
 
 <center><img src="https://i.imgur.com/iqV59ky.png" style="height:300px;"/></center>
 
