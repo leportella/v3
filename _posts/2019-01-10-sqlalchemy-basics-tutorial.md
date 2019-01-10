@@ -145,7 +145,7 @@ Base.metadata.create_all(engine)
 
 This is when SQLAlchemy will actually do something in our database. Since we have the variable `echo` set to `True`, we can see exactly which SQL statement the `engine` actually did on the database:
 
-<img src="https://i.imgur.com/kU4Snpb.png" style="height:200px;"/>
+<img src="https://i.imgur.com/kU4Snpb.png" style="height:400px;"/>
 
 
 <h2 id='add-records'>Adding new records</h2>
