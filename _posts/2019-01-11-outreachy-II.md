@@ -32,11 +32,11 @@ Now, almost one month after my first text, here I am to tell you more about what
 <center><img src="https://media.giphy.com/media/k7NvI2SBTgA1NuO5Tu/giphy.gif" style="height:300px;"/></center>
 
 
-Just after I finished my first weeks of work here I was also finishing my moving from Brazil to Ireland. So things were absolutely crazy and I couldn't focus at all. I was pretty nervous to move to another city, country and continent and this was making me unable to focus. I talked to [Yuvi Panda](https://twitter.com/yuvipanda), one of my mentors, and we decided that was best for me to take vacations during this stressing period. 
+Just after I finished my first weeks of work here I was also finishing my moving from Brazil to Ireland. So things were absolutely crazy and I couldn't focus at all. I was pretty nervous to move to another city, country and continent and this was making me unable to focus. We decided that was best for me to take vacations during this stressing period. 
 
 This was fundamental for me. I could do my moving (and my goodbyes) with calm and so I just started working again this year. My deadlines are all pushed a couple weeks forward, but it totally work it. Thank you, Yuvi!
 
-## Finishing my initial setup 
+## Finishing my initial setup
 
 I was already with [CircleCi](https://circleci.com/) with [flake8 ](http://flake8.pycqa.org/en/latest/) verification and tests, but there was still things missing until I finished the initial setup I was suppose to.
 
