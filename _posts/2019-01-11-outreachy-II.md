@@ -95,7 +95,7 @@ This was pretty tricky. I studied the internals of Jupyter trying to figure out 
 
 <center><i>Me trying to understand where the database was</i></center>
 
-Finally I gave and asked Yuvi and... it was on my authenticator class as `self.db` 😅. 
+Finally I gave up and asked Yuvi and... it was on my authenticator class as `self.db` 😅. 
 
 The project uses [SQLAlchemy](https://www.sqlalchemy.org/) as a way to work with a SQL database. Although similar to Django ORM (that I already knew) I had some trouble understanding how [SQLAlchemy](https://www.sqlalchemy.org/) deals with stuff and bumped into [a huge problem that took me days of struggling](https://github.com/jupyterhub/nativeauthenticator/issues/26). I studied SQLAlchemy as much as I could to undersatnd what was wrong and how to do this. This resulted in two blog posts: [one is a tutorial on SQLALchemy basics](https://leportella.com/english/2019/01/10/sqlalchemy-basics-tutorial.html) and [another is a post specifically for the problem I had with creating relationships after the tables were already created](https://leportella.com/english/2019/01/11/sqlalchemy-foreign-key-separate-files.html). 
 
