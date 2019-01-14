@@ -23,7 +23,7 @@ last_modified_at: 2019-01-14T11:48:52-05:00
 
 <center><img src="https://media.giphy.com/media/MSd5euCFgqULK/giphy.gif" style="height:300px;"/></center>
 
-<center><i>and ou willwith little foxes ;)</i></center> 
+<center><i>and it is not with little foxes ;)</i></center> 
 
 This is the translation of [this post in portuguese :)](https://medium.com/databootcamp/o-que-fazer-quando-faltam-dados-255ef5508a4f)
 
