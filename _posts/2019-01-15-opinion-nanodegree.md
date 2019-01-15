@@ -59,7 +59,7 @@ Well... here things weren't so good. During the first 7 classes of this module t
 
 <center><img src="https://media.giphy.com/media/UnTC9o2HMyUta/giphy.gif" style="height:200px;"/></center>
 
-The final project uses deep learning with [TensorFlow](https://en.wikipedia.org/wiki/TensorFlow) and boy... it was hard. I had a LOT of difficulty to go through this module and project. Until the Taxi project things were pretty cool, but after this... disaster. 
+The final project uses deep learning with [TensorFlow](https://en.wikipedia.org/wiki/TensorFlow) and boy... it was hard. I had a LOT of difficulty to go through this module and project. Until the Taxi project things were pretty cool, but after this... disaster. I really think it was not necessary to go so hard so fast. It was kinf of demotivator.
 
 ## Module 4: My project
 
@@ -84,5 +84,5 @@ Ah! And I published that this was my first degree in the tech field and I won so
 <center><img src="https://i.imgur.com/zD1suVv.jpg" style="height:300px;"/></center>
 
 
-PS: I am so sorry that Udacity is ending its operation in Brazil. I really liked all the support of my brazilian mentors and the director's plan on Brazil :/
+PS: I am so sorry that Udacity is ending its operation in Brazil. I really liked all the support of my brazilian mentors and the director's plan for Brazil :/
 
