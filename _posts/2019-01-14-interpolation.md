@@ -19,7 +19,7 @@ featured-img: interp
 last_modified_at: 2019-01-14T11:48:52-05:00
 ---
 
-## AKA Magic to plug holes in your dataset
+## AKA magics to plug holes in your dataset
 
 <center><img src="https://media.giphy.com/media/MSd5euCFgqULK/giphy.gif" style="height:300px;"/></center>
 
