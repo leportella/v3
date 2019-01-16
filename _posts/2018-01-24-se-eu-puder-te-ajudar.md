@@ -9,7 +9,7 @@ tags:
   - data science
   - carreira 
 featured-img: plane
-last_modified_at: 2017-03-09T14:25:52-05:00
+last_modified_at: 2019-01-16T14:25:52-05:00
 ---
 
 Essa semana, eu troquei email com uma moça que quer começar sua carreira como desenvolvedora, mas estava insegura e frustrada. As entrevistas eram difíceis e, 
@@ -39,6 +39,11 @@ Inclusive, o Django Girls tem acontecido em diversas cidades pelo país. Em 2017
 Se tiver um perto da sua cidade, se inscreva! Prometo que você não vai se arrepender. O site mundial tem as datas de todos os eventos que acontecem no mundo:
 
 * [Django Girls pelo mundo](https://djangogirls.org)
+
+Se você já terminou o tutorial do Django, eu fiz 2 posts pra ajudar as pessoas a irem ainda mais fundo:
+
+* [Class Based Views no Django (ou o que vem depois do Tutorial do Dajngo Girls](https://leportella.com/pt-br/2017/09/28/classe-based-views-no-django.html) 
+* [How to make simple endpoints with Django using Restless](https://leportella.com/english/2017/04/03/make-endpoints-using-restless.html)
 
 Se seu interesse é Ciência de Dados e não desenvolvimento Web, você precisa conhecer o DataScience Pizza. É um repositório no Github que visa juntar links e ser uma 
 grande enciclopédia de material em Ciência de Dados. Lá você tem todas as dicas e recomendações específicas para a área.
