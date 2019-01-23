@@ -72,7 +72,7 @@ no trabalho.
 Ou seja, as maiores prioridades masculinas são direcionadas para coisas palpáveis, benefícios que serão aproveitados no curto 
 prazo ou imediatamente. 
 
-<center><img src="https://i.imgur.com/ylCdKUX.png" style=“height:300px;"/></center>
+<center><img src="https://i.imgur.com/ylCdKUX.png" style=“height:300px“/></center>
 
 <center><i>Fonte: <a href="https://insights.stackoverflow.com/survey/2018/?utm_source=Iterable&utm_medium=email&utm_campaign=dev-survey-2018-promotion#work-differences-in-assessing-jobs-by-gender">Differences in Assessing Jobs by Gender</a></i></center>
 
