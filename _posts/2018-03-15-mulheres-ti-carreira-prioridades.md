@@ -35,6 +35,7 @@ seja ele back, front, mobile ou full-stack.
 
 <center><i>Fonte: <a href="https://insights.stackoverflow.com/survey/2018/?utm_source=Iterable&utm_medium=email&utm_campaign=dev-survey-2018-promotion#developer-roles">Developer Roles</a></i></center>
 
+<br/>
 
 É importantíssimo não nos esquecermos de que a maioria das perguntas vieram de cargos de desenvolvimento. 
 Porque não podemos esquecer? Porque precisamos ter sempre em mente que times de desenvolvimento são compostos
@@ -46,6 +47,8 @@ abaixo, mulheres ocupam de cerca de 25% de cargos na área de tecnologia.
 
 <center><i>Fonte: <a href="https://www.ncwit.org/sites/default/files/resources/womenintech_facts_fullreport_05132016.pdf">Women in tech: the facts</a></i></center>
 
+<br/>
+
 Agora, mesmo quando consideramos apenas cargos ligados à área de tecnologia, os cinco cargos mais ocupados 
 por mulheres não estão ligados diretamente ao desenvolvimento. Gerente de projeto, analista de negócios, tester... nenhum deles 
 está ligado a desenvolvimento. Ou seja, mesmo os 25% que ocupamos estão restritos a profissões menos técnicas.
@@ -55,6 +58,8 @@ está ligado a desenvolvimento. Ou seja, mesmo os 25% que ocupamos estão restri
 
 <center><i>Fonte: <a href="https://www.ncwit.org/sites/default/files/resources/womenintech_facts_fullreport_05132016.pdf">Women in tech: the facts</a></i></center>
 
+<br/>
+
 Pensando nos desafios que as mulheres tem nessa área, vemos que a **falta de mentores** e **lideranças femininas** são  
 relevantes, seguidos do **preconceito pelo gênero no âmbiente de trabalho** e 
 **poucas oportunidades de crescimento quando comparado com homens**.
@@ -63,6 +68,8 @@ relevantes, seguidos do **preconceito pelo gênero no âmbiente de trabalho** e
 <center><img src="https://i.imgur.com/zOv7Rxc.jpg" style="height:450px;"/></center>
 
 <center><i>Fonte: <a href="http://www.isaca.org/info/2017-women-in-technology-surve/index.htmlrg/sites/default/files/resources/womenintech_facts_fullreport_05132016.pdf">Connecting Women Leaders in Technology</a></i></center>
+
+<br/>
 
 ## Prioridades na carreira
 
@@ -76,6 +83,7 @@ prazo ou imediatamente.
 
 <center><i>Fonte: <a href="https://insights.stackoverflow.com/survey/2018/?utm_source=Iterable&utm_medium=email&utm_campaign=dev-survey-2018-promotion#work-differences-in-assessing-jobs-by-gender">Differences in Assessing Jobs by Gender</a></i></center>
 
+<br/>
 
 Quando observamos as respostas de mulheres, podemos reparar logo de início que o percentual de 
 respostas cai consideravelmente: só 4026 respostas. Isso representa menos de 10% das respostas masculinas o que é, por si só, um 
@@ -96,6 +104,7 @@ A pergunta que eu me fiz quando eu vi isso foi: por que?
 
 <center><i>Fonte: <a href="https://insights.stackoverflow.com/survey/2018/?utm_source=Iterable&utm_medium=email&utm_campaign=dev-survey-2018-promotion#work-differences-in-assessing-jobs-by-gender">Differences in Assessing Jobs by Gender</a></i></center>
 
+<br/>
 
 Baseada em todas as inúmeras estatísticas que leio e minha própria experiência pessoal, cheguei a alguma conclusões a respeito 
 disso. Mulheres valorizarem a cultura da empresa me parece, de fato, a escolha mais óbvia. Todas nós já passamos (ou conhecemos 
@@ -131,11 +140,13 @@ minoria e os ajudem a buscar o respeito e equalidade.
 
 <center><i>Fonte: <a href="https://insights.stackoverflow.com/survey/2018/?utm_source=Iterable&utm_medium=email&utm_campaign=dev-survey-2018-promotion#work-differences-in-assessing-jobs-by-gender">Differences in Assessing Jobs by Gender</a></i></center>
 
+<br/>
 
 <center><img src="https://i.imgur.com/xKfaAmB.png" style="height:500px;"/></center>
 
 <center><i>Fonte: <a href="https://insights.stackoverflow.com/survey/2018/?utm_source=Iterable&utm_medium=email&utm_campaign=dev-survey-2018-promotion#work-differences-in-assessing-jobs-by-gender">Differences in Assessing Jobs by Gender</a></i></center>
 
+<br/>
 
 O que fico refletindo é que se nós priorizamos ambientes de trabalho que nos são favoráveis em detrimento de 
 benefícios, nós podemos muitas vezes aceitar salários mais baixos. 
