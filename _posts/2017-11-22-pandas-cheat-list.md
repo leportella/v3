@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pandas - My Cheat List"
+title: "Pandas - My Cheatsheet"
 categories:
   - cheatlist
 tags:
@@ -20,21 +20,30 @@ This way, I really wanted a place to gather my tricks that I really don't want t
 
 # Summary
 
-* [How to list available columns on a DataFrame](#column-names)
+## General helps
 * [How to make multiple filters](#multiple-filters)
+* [read_csv errors of encoding](#encoding)
+
+## Dataframe functions
+
+* [How to list available columns on a DataFrame](#column-names)
 * [How to iterate over a DataFrame](#iterate)
-* [How to count the ocurrences of each unique values on a DF column](#unique-ocurrences)
 * [How to save a DataFrame by chunks](#save-by-chunks)
 * [A groupby example](#group-by-example)
+* [How to prepare my DataFrame to apply get_dummies?](#apply-get-dummies)
+* [Sum values of all columns](#sum-values)
+* [Use apply for multiple columns](#apply-multiple-columns)
+
+## Series functions
+* [How to count the ocurrences of each unique values on a Series](#unique-ocurrences)
 * [How to fill values on missing months](#missing-months)
-* [How to filter column elements on a list](#filter-elements-by-list)
+* [How to filter column elements by multiple elements contained on a list](#filter-elements-by-list)
 * [How to change a Series type?](#change-series-type)
 * [How to apply a function to every item of my Serie?](#apply-function)
-* [How to prepare my DataFrame to apply get_dummies?](#apply-get-dummies)
-* [read_csv errors of encoding](#encoding)
-* [Sum values of all columns](#sum-values)
 
-# My Pandas Cheat List
+
+
+# My Pandas Cheatsheet
 
 
 <h2 id='column-names'>How to list available columns on a DataFrame</h2>
@@ -56,7 +65,7 @@ for item, row in df.iterrows():
   print row()
 ```
 
-<h2 id='unique-ocurrences'>How to count the ocurrences of each unique values on a DF column</h2>
+<h2 id='unique-ocurrences'>How to count the ocurrences of each unique values on a Series</h2>
 
 ```python
 df[column].value_counts()
@@ -126,7 +135,7 @@ Now we can just merge both dataframes with an outer join:
 pd.merge(years_months, df1, how='outer')
 ```
 
-<h2 id='filter-elements-by-list'>How to filter column elements on a list</h2>
+<h2 id='filter-elements-by-list'>How to filter column elements by multiple elements contained on a list</h2>
 
 ```python
 df[df['A'].isin([3, 6])]
@@ -195,3 +204,16 @@ pd.read_csv('file.csv', encoding='latin-1')
 ```python
 df.sum(axis=1)
 ```
+
+
+<h2 id='apply-multiple-columns'>Use apply for multiple columns</h2>
+
+```python
+def my_function(a, b):
+  return a + b
+
+
+df.apply(lambda row: my_function(row['a'], row['b']), axis=1)
+```
+
+
