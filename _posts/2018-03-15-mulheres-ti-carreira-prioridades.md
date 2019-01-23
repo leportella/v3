@@ -31,7 +31,7 @@ Além disso, de todas as respostas que foram dadas, a maior parte das respostas 
 diretamente com desenvolvimento, 
 seja ele back, front, mobile ou full-stack.
 
-<center><img src="https://i.imgur.com/cJk79pN.png" style="height:200px;"/></center>
+<center><img src="https://i.imgur.com/cJk79pN.png" style="height:300px;"/></center>
 
 <center><i>Fonte: <a href="https://insights.stackoverflow.com/survey/2018/?utm_source=Iterable&utm_medium=email&utm_campaign=dev-survey-2018-promotion#developer-roles">Developer Roles</a></i></center>
 
@@ -42,7 +42,7 @@ majoritariamente por homens (brancos, héteros e sem filhos... ). Isso é releva
 abaixo, mulheres ocupam de cerca de 25% de cargos na área de tecnologia.
 
 
-<center><img src="https://i.imgur.com/I4NqV6V.png" style="height:200px;"/></center>
+<center><img src="https://i.imgur.com/I4NqV6V.png" style="height:300px;"/></center>
 
 <center><i>Fonte: <a href="https://www.ncwit.org/sites/default/files/resources/womenintech_facts_fullreport_05132016.pdf">Women in tech: the facts</a></i></center>
 
@@ -51,7 +51,7 @@ por mulheres não estão ligados diretamente ao desenvolvimento. Gerente de proj
 está ligado a desenvolvimento. Ou seja, mesmo os 25% que ocupamos estão restritos a profissões menos técnicas.
 
 
-<center><img src="https://i.imgur.com/nxqurhH.png" style="height:300px;"/></center>
+<center><img src="https://i.imgur.com/nxqurhH.png" style="height:400px;"/></center>
 
 <center><i>Fonte: <a href="https://www.ncwit.org/sites/default/files/resources/womenintech_facts_fullreport_05132016.pdf">Women in tech: the facts</a></i></center>
 
@@ -72,7 +72,7 @@ no trabalho.
 Ou seja, as maiores prioridades masculinas são direcionadas para coisas palpáveis, benefícios que serão aproveitados no curto 
 prazo ou imediatamente. 
 
-<center><img src="https://i.imgur.com/ylCdKUX.png" style="height:300px"/></center>
+<center><img src="https://i.imgur.com/ylCdKUX.png" style="height:500px"/></center>
 
 <center><i>Fonte: <a href="https://insights.stackoverflow.com/survey/2018/?utm_source=Iterable&utm_medium=email&utm_campaign=dev-survey-2018-promotion#work-differences-in-assessing-jobs-by-gender">Differences in Assessing Jobs by Gender</a></i></center>
 
@@ -92,7 +92,7 @@ como benefícios, as mulheres priorizam a **cultura da empresa** (16,9%) e **opo
 A pergunta que eu me fiz quando eu vi isso foi: por que?
 
 
-<center><img src="https://i.imgur.com/vTU74PU.png" style="height:400px;"/></center>
+<center><img src="https://i.imgur.com/vTU74PU.png" style="height:500px;"/></center>
 
 <center><i>Fonte: <a href="https://insights.stackoverflow.com/survey/2018/?utm_source=Iterable&utm_medium=email&utm_campaign=dev-survey-2018-promotion#work-differences-in-assessing-jobs-by-gender">Differences in Assessing Jobs by Gender</a></i></center>
 
@@ -127,12 +127,12 @@ Não é de se admirar, portanto, que **cultura da empresa** e **diversidade na o
 em quarto lugar. Não só uma busca por um ambiente acolhedor, mas por pessoas que entendam e compreendam seu lugar como 
 minoria e os ajudem a buscar o respeito e equalidade.
 
-<center><img src="https://i.imgur.com/FWTAyTv.png" style="height:400px;"/></center>
+<center><img src="https://i.imgur.com/FWTAyTv.png" style="height:500px;"/></center>
 
 <center><i>Fonte: <a href="https://insights.stackoverflow.com/survey/2018/?utm_source=Iterable&utm_medium=email&utm_campaign=dev-survey-2018-promotion#work-differences-in-assessing-jobs-by-gender">Differences in Assessing Jobs by Gender</a></i></center>
 
 
-<center><img src="https://i.imgur.com/xKfaAmB.png" style="height:400px;"/></center>
+<center><img src="https://i.imgur.com/xKfaAmB.png" style="height:500px;"/></center>
 
 <center><i>Fonte: <a href="https://insights.stackoverflow.com/survey/2018/?utm_source=Iterable&utm_medium=email&utm_campaign=dev-survey-2018-promotion#work-differences-in-assessing-jobs-by-gender">Differences in Assessing Jobs by Gender</a></i></center>
 
