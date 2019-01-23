@@ -31,34 +31,38 @@ Além disso, de todas as respostas que foram dadas, a maior parte das respostas 
 diretamente com desenvolvimento, 
 seja ele back, front, mobile ou full-stack.
 
-![](https://i.imgur.com/cJk79pN.png)
+<center><img src="https://i.imgur.com/cJk79pN.png" style="height:200px;"/></center>
 
-*Fonte: [Developer Roles](https://insights.stackoverflow.com/survey/2018/?utm_source=Iterable&utm_medium=email&utm_campaign=dev-survey-2018-promotion#developer-roles)*
+<center><i>Fonte: <a href="https://insights.stackoverflow.com/survey/2018/?utm_source=Iterable&utm_medium=email&utm_campaign=dev-survey-2018-promotion#developer-roles">Developer Roles</a></i></center>
+
 
 É importantíssimo não nos esquecermos de que a maioria das perguntas vieram de cargos de desenvolvimento. 
 Porque não podemos esquecer? Porque precisamos ter sempre em mente que times de desenvolvimento são compostos
 majoritariamente por homens (brancos, héteros e sem filhos... ). Isso é relevante quando vamos analisar comportamentos e também é importante ressaltar que, aparentemente, a perspectiva de melhoras significativas no curto prazo não é das mais favoráveis. De acordo com o gráfico 
 abaixo, mulheres ocupam de cerca de 25% de cargos na área de tecnologia.
 
-![](https://i.imgur.com/I4NqV6V.png) 
 
-*Fonte: [Women in tech: the facts](https://www.ncwit.org/sites/default/files/resources/womenintech_facts_fullreport_05132016.pdf)*
+<center><img src="https://i.imgur.com/I4NqV6V.png" style="height:200px;"/></center>
+
+<center><i>Fonte: <a href="https://www.ncwit.org/sites/default/files/resources/womenintech_facts_fullreport_05132016.pdf">Women in tech: the facts</a></i></center>
 
 Agora, mesmo quando consideramos apenas cargos ligados à área de tecnologia, os cinco cargos mais ocupados 
 por mulheres não estão ligados diretamente ao desenvolvimento. Gerente de projeto, analista de negócios, tester... nenhum deles 
 está ligado a desenvolvimento. Ou seja, mesmo os 25% que ocupamos estão restritos a profissões menos técnicas.
 
-![](https://i.imgur.com/nxqurhH.png)
 
-*Fonte: [Women in tech: the facts](https://www.ncwit.org/sites/default/files/resources/womenintech_facts_fullreport_05132016.pdf)*
+<center><img src="https://i.imgur.com/nxqurhH.png" style="height:300px;"/></center>
+
+<center><i>Fonte: <a href="https://www.ncwit.org/sites/default/files/resources/womenintech_facts_fullreport_05132016.pdf">Women in tech: the facts</a></i></center>
 
 Pensando nos desafios que as mulheres tem nessa área, vemos que a **falta de mentores** e **lideranças femininas** são  
 relevantes, seguidos do **preconceito pelo gênero no âmbiente de trabalho** e 
 **poucas oportunidades de crescimento quando comparado com homens**.
 
-![](http://www.isaca.org/info/2017-women-in-technology-survey/images/main-graphic.jpg)
 
-*Fonte: [Connecting Women Leaders in Technology](http://www.isaca.org/info/2017-women-in-technology-survey/index.html)*
+<center><img src="https://i.imgur.com/zOv7Rxc.jpg" style="height:450px;"/></center>
+
+<center><i>Fonte: <a href="http://www.isaca.org/info/2017-women-in-technology-surve/index.htmlrg/sites/default/files/resources/womenintech_facts_fullreport_05132016.pdf">Connecting Women Leaders in Technology</a></i></center>
 
 ## Prioridades na carreira
 
@@ -68,9 +72,10 @@ no trabalho.
 Ou seja, as maiores prioridades masculinas são direcionadas para coisas palpáveis, benefícios que serão aproveitados no curto 
 prazo ou imediatamente. 
 
-![](https://i.imgur.com/ylCdKUX.png)
+<center><img src="https://i.imgur.com/ylCdKUX.png" style=“height:300px;"/></center>
 
-*Fonte: [Differences in Assessing Jobs by Gender](https://insights.stackoverflow.com/survey/2018/?utm_source=Iterable&utm_medium=email&utm_campaign=dev-survey-2018-promotion#work-differences-in-assessing-jobs-by-gender)*
+<center><i>Fonte: <a href="https://insights.stackoverflow.com/survey/2018/?utm_source=Iterable&utm_medium=email&utm_campaign=dev-survey-2018-promotion#work-differences-in-assessing-jobs-by-gender">Differences in Assessing Jobs by Gender</a></i></center>
+
 
 Quando observamos as respostas de mulheres, podemos reparar logo de início que o percentual de 
 respostas cai consideravelmente: só 4026 respostas. Isso representa menos de 10% das respostas masculinas o que é, por si só, um 
@@ -86,9 +91,11 @@ homens priorizam coisas palpáveis
 como benefícios, as mulheres priorizam a **cultura da empresa** (16,9%) e **oportunidades para desenvolvimento profissional** (16,8%).
 A pergunta que eu me fiz quando eu vi isso foi: por que?
 
-![](https://i.imgur.com/vTU74PU.png)
 
-*Fonte: [Differences in Assessing Jobs by Gender](https://insights.stackoverflow.com/survey/2018/?utm_source=Iterable&utm_medium=email&utm_campaign=dev-survey-2018-promotion#work-differences-in-assessing-jobs-by-gender)*
+<center><img src="https://i.imgur.com/vTU74PU.png" style=“height:300px;"/></center>
+
+<center><i>Fonte: <a href="https://insights.stackoverflow.com/survey/2018/?utm_source=Iterable&utm_medium=email&utm_campaign=dev-survey-2018-promotion#work-differences-in-assessing-jobs-by-gender">Differences in Assessing Jobs by Gender</a></i></center>
+
 
 Baseada em todas as inúmeras estatísticas que leio e minha própria experiência pessoal, cheguei a alguma conclusões a respeito 
 disso. Mulheres valorizarem a cultura da empresa me parece, de fato, a escolha mais óbvia. Todas nós já passamos (ou conhecemos 
@@ -120,13 +127,15 @@ Não é de se admirar, portanto, que **cultura da empresa** e **diversidade na o
 em quarto lugar. Não só uma busca por um ambiente acolhedor, mas por pessoas que entendam e compreendam seu lugar como 
 minoria e os ajudem a buscar o respeito e equalidade.
 
-![](https://i.imgur.com/FWTAyTv.png)
+<center><img src="https://i.imgur.com/FWTAyTv.png" style=“height:200px;"/></center>
 
-*Fonte: [Differences in Assessing Jobs by Gender](https://insights.stackoverflow.com/survey/2018/?utm_source=Iterable&utm_medium=email&utm_campaign=dev-survey-2018-promotion#work-differences-in-assessing-jobs-by-gender)*
+<center><i>Fonte: <a href="https://insights.stackoverflow.com/survey/2018/?utm_source=Iterable&utm_medium=email&utm_campaign=dev-survey-2018-promotion#work-differences-in-assessing-jobs-by-gender">Differences in Assessing Jobs by Gender</a></i></center>
 
-![](https://i.imgur.com/xKfaAmB.png)
 
-*Fonte: [Differences in Assessing Jobs by Gender](https://insights.stackoverflow.com/survey/2018/?utm_source=Iterable&utm_medium=email&utm_campaign=dev-survey-2018-promotion#work-differences-in-assessing-jobs-by-gender)*
+<center><img src="https://i.imgur.com/xKfaAmB.png" style=“height:200px;"/></center>
+
+<center><i>Fonte: <a href="https://insights.stackoverflow.com/survey/2018/?utm_source=Iterable&utm_medium=email&utm_campaign=dev-survey-2018-promotion#work-differences-in-assessing-jobs-by-gender">Differences in Assessing Jobs by Gender</a></i></center>
+
 
 O que fico refletindo é que se nós priorizamos ambientes de trabalho que nos são favoráveis em detrimento de 
 benefícios, nós podemos muitas vezes aceitar salários mais baixos. 
