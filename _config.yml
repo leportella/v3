@@ -20,7 +20,7 @@ social:
 navigation: # Navigation links
   - {name: 'Home', link: '/'}
   - {name: 'About', link: '/about.html'}
-  - {name: 'Curriculum', link: '/curriculum.html'}
+  - {name: 'Curriculum', link: '/cv.html'}
   - {name: 'Feed', link: '/feed.xml'}
 
 tagline: >
