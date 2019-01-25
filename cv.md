@@ -186,12 +186,14 @@ Scientific Initiation Scholarship at Coastal Oceanography Laboratory. Worked wit
 | [Que belo dia para a ciência](https://www.youtube.com/watch?v=URBE9PyGclU)                                     | Talk     | Pycon Brazil[14]                  | Natal, RN/Brazil          | Oct/18 |
 | [Pizza de Dados](https://www.youtube.com/watch?v=HxrEUBNnz2Q)                                       | Webinar  | Castálio               | Online      | Nov/18 |
 | Operação Serenata de Amor                                       | Keynote  | Scipy Latin America               | Curitiba, PR/Brazil       | Sep/18 |
+| Round Table on Tech Career          | Round Table     | Pyladies Floripa Meetup         | Florianópolis, SC/Brazil  | Sep/18 |
 | [Ciência de dados: Como se preparar para entrar nesse mercado?](https://www.youtube.com/watch?v=i8vvR3avyxQ)   | Webinar  | Curto Circuito                    | Online                    | Sep/18 |
 | Operação Serenata de Amor                                       | Talk     | Banco do Brasil                   | Brasília, DF/Brazil       | Aug/18 |
 | Ciência de Dados para um futuro menos incerto                   | Talk     | Intelbrás                         | Florianópolis, SC/Brazil  | Aug/18 |
 | [Que belo dia para a ciência](https://slides.com/leticiaportella/que-belo-dia-para-a-ciencia)                                     | Talk     | Python Floripa Meetup             | Florianópolis, SC/Brazil  | Jun/18 |
 | [O que você faria se não tivesse medo?](https://slides.com/leticiaportella/meetup-joinville)                           | Talk     | Python Joinville Meetup           | Joinville, SC/Brazil      | Jun/18 |
 | [O que você faria se não tivesse medo?](http://slides.com/leticiaportella/o-que-voce-faria-se-tivesse-medo#/)                           | Talk     | 4o Open House P&D Rede Globo      | Rio de Janeiro, RJ/Brazil | Dec/17 |
+| História: como começou PyLadies Floripa          | Round Table     | Pyladies Floripa Meetup 2 years anniversary         | Florianópolis, SC/Brazil  | Dec/17 |
 | [Introdução aos Módulos de Análise de Dados](https://github.com/leportella/tutorial-modulos-data-science)                      | Workshop | Pycon Brazil[13]                  | Belo Horizonte, MG/Brazil | Oct/17 |
 | [Que belo dia para a ciência](https://www.youtube.com/watch?v=Evbw0DI5pkc)                                     | Keynote  | Pycon South Brazil                | Caixas do Sul, RS/Brazil  | Sep/17 |
 | [Como analisar dados desconhecidos?](http://slides.com/leticiaportella/analise-exploratoria-de-dados)                              | Talk     | Data Science for Business Weekend | Maceió, AL/Brazil         | Jun/17 |
@@ -201,6 +203,8 @@ Scientific Initiation Scholarship at Coastal Oceanography Laboratory. Worked wit
 | [Você já se desafiou hoje?](https://github.com/leportella/apresentacoes/blob/master/Voce_ja_se_desafiou_hoje_Ago16.pdf)                                       | Talk     | Conéctar Experience               | Ribeirão Preto, SP/Brazil | Aug/16 |
 | [Programação Além do Código: Comunidade e Mulheres na Tecnologia](https://www.youtube.com/watch?v=yV3XFWfJ0TE&t=393s) | Keynote  | Caipyra                           | Ribeirão Preto, SP/Brazil | Jun/16 |
 | [Mulheres na Tecnologia - Você já se desafiou hoje?](http://www.thedevelopersconference.com.br/tdc/2016/florianopolis/trilha-python)              | Talk     | The Developers Conference         | Florianópolis, SC/Brazil  | May/16 |
+| Introduction to Python          | Workshop     | 3rd Pyladies Floripa Meetup         | Florianópolis, SC/Brazil  | Mar/16 |
+| Introduction to Python          | Workshop     | 2nd Pyladies Floripa Meetup         | Florianópolis, SC/Brazil  | Jan/16 |
 
 
 <h1 id='podcasts'>Podcasts</h1>
