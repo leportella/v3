@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Curriculum
+title: CV
 sidebar_link: true
 ---
 
