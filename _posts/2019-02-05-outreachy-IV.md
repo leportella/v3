@@ -22,10 +22,10 @@ last_modified_at: 2019-02-05T11:48:52-05:00
 
 <center><img src="https://cdn-images-1.medium.com/max/1600/1*OsCmvuJ-lLeC7UtWK8CkNA.png" style="height:300px;"/></center>
 
-This is the forth post on my internship on the [Outreachy Program](https://www.outreachy.org/) with [Project Jupyter]https://jupyter.org/). [The first](https://leportella.com/english/2018/12/12/outreachy-I.html), [the second](https://leportella.com/english/2019/01/11/outreachy-II.html) and [third post](https://leportella.com/english/2019/01/23/outreachy-III.html) are already available, if you want to understand the big picture.
+This is the forth post on my internship on the [Outreachy Program](https://www.outreachy.org/) with [Project Jupyter](https://jupyter.org/). [The first](https://leportella.com/english/2018/12/12/outreachy-I.html), [the second](https://leportella.com/english/2019/01/11/outreachy-II.html) and [third post](https://leportella.com/english/2019/01/23/outreachy-III.html) are already available, if you want to understand the big picture.
 
 
-On [the last post](https://leportella.com/english/2019/01/23/outreachy-III.html) I talked about how we built the complete user cycle of signing up and getting authorization of the user for actually logging in. Then we talked a bit on adding some optional password check features that admins could configure. This time we continue implementing optional features for admins to use on out **Native Authenticator**.
+On [the last post](https://leportella.com/english/2019/01/23/outreachy-III.html) I talked about how we built the complete user cycle of signing up and getting authorization of the user for actually logging in. Then we talked a bit on adding some optional password check features that admins could configure. This time we continue implementing optional features for admins to use on **Native Authenticator**.
 
 
 
@@ -37,9 +37,9 @@ On the last time, Yuvi recommended me [this post](https://auth0.com/blog/dont-pa
 
 One of the things the article recommended was to add a system that would block a user after a certain number of attempts of failed logins. 
 
-This was something that, as simple as sounds, took me a lot of work. Although I'll explain the big picture that I eventually mounted, but the construction process was not as simple as I am showing you here 🙃. 
+This was something that, as simple as sounds, took me a lot of work. Although I'll explain the big picture that I eventually created, but the construction process was not as simple as I am showing you here 🙃. 
 
-The first thing was to construct a function that would add a count everytime the user failed on make a login. It would also store the moment when the failed attempt happened. The idea was the following:
+The first thing was to construct a function that would add a count everytime the user failed to make a login. It would also store the moment when the failed attempt happened. The idea was the following:
 
 <center><img src="https://i.imgur.com/wcLJ58d.png" style="height:300px;"/></center>
 
@@ -64,13 +64,13 @@ class NativeAuthenticator(Authenticator):
             self.login_attempts[username]['time'] = time
 ```
 
-Once the count was working ([tests](https://github.com/jupyterhub/nativeauthenticator/blob/master/nativeauthenticator/tests/test_authenticator.py#L99) help me on this one 😅), I added another function to the `authenticate` method, that would check if the user is blocked or not. This would allow me to exit the `authenticate` method if the user is blocked, not even let it try to login:   
+Once the count was working ([tests](https://github.com/jupyterhub/nativeauthenticator/blob/master/nativeauthenticator/tests/test_authenticator.py#L99) helped me on this one 😅), I added another function to the `authenticate` method, that would check if the user is blocked or not. This would allow me to exit the `authenticate` method if the user is blocked, not even let it try to login:   
 
 <center><img src="https://i.imgur.com/cROySZN.png" style="height:350px;"/></center>
 
 Cool. Now I just needed to actually check if the user is blocked or not 😅. 
 
-I had to check if the user had tried at last 3 times and if they had tried multiple times, if they waited at least 10 minutes before try again. 
+I had to check if the user had tried at last 3 times and if they had tried multiple times, if they waited at least 10 minutes before trying again. 
 
 So, the main flux of the system is something like this:
 
