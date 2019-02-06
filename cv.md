@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CV
+title: Curriculum
 sidebar_link: true
 ---
 
@@ -39,11 +39,18 @@ sidebar_link: true
 |--------|-------|-------|
 | Intern | 12/18 | 03/19 |
 
-Working with Project Jupyter as an Intern of Outreachy. Outreachy is an internship program 
+Working with [Project Jupyter](https://jupyter.org/) as an Intern of [Outreachy](https://www.outreachy.org/). Outreachy is an internship program 
 coordinated by the Software Freedom Conservancy. It is run twice a year with a goal 
 to bring people from underrepresented backgrounds in tech into open source projects.
 
-I will work on building better native user management features into JupyterHub. Small to medium installations of JupyterHub that do not want to depend entirely on an external authentication provider will benefit greatly from this.
+This project will build better native user management features into JupyterHub. Small to medium installations of JupyterHub that do not want to depend entirely on an external authentication provider will benefit greatly from this. More on the project and internship details [on this post of Project Jupyter](https://blog.jupyter.org/outreachy-jupyter-supporting-diversity-in-open-communities-dfa78db4b0bd). 
+
+The work made is being detailed on a series of posts explaining the tasks and difficulties during the period of the internship. Reports available:
+
+* [Outreachy Report I](https://leportella.com/english/2018/12/12/outreachy-I.html)
+* [Outreachy Report II](https://leportella.com/english/2019/01/11/outreachy-II.html)
+* [Outreachy Report III](https://leportella.com/english/2019/01/23/outreachy-III.html)
+* [Outreachy Report IV](https://leportella.com/english/2019/02/05/outreachy-IV.html)
 
 ## Data Bootcamp
 
@@ -51,7 +58,8 @@ I will work on building better native user management features into JupyterHub. 
 |--------|-------|-------|
 | Teacher and writer | 03/18 |  |
 
-Mentor in Data Bootcamp classes on Data Science and Big Data using Python. Tools include Numpy, Pandas, Sckit-Learn, Machine Learning (both supervised and unsupervised) and Spark.
+Mentor in Data Bootcamp classes and writer for their blog. Classes focus on applying Data Science tools both for beginners to advanced users.  Tools include Numpy, Pandas, Sckit-Learn, Machine Learning techniques (both supervised and unsupervised), SparkSQL, Spark Structured Streaming, Kafka.
+
 
 ## Open Knowledge Foundation
 
@@ -59,7 +67,7 @@ Mentor in Data Bootcamp classes on Data Science and Big Data using Python. Tools
 |--------|-------|-------|
 | Temporary Data Analyst | 06/18 | 08/18 |
 
-Work in an ONG for constructing a platform for profiling public figures in Brazilian politics, searching for corruption patterns or figures with inconsistent politics paths (changes in parties, unpopular law projects, high expenses on public money). Technologies include, but are not limited to: MongoDB, Mongoengine, Jupyter, Pandas, Numpy, Neo4J, Django, Pytest
+Worked in an NGO for constructing a platform for profiling public figures in Brazilian politics, searching for corruption patterns or figures with inconsistent politics paths such as changes in parties, unpopular law projects, high expenses on public money. Technologies: MongoDB, Jupyter, Pandas, Numpy, Neo4J, Django, Pytest.
 
 ## Softplan
 
@@ -182,6 +190,7 @@ Scientific Initiation Scholarship at Coastal Oceanography Laboratory. Worked wit
 
 | Title                                                           | Type     | Conference                        | City                      | Date   |
 |-----------------------------------------------------------------|----------|-----------------------------------|---------------------------|--------|
+| Introduction to Jupyter Notebooks & Data Analysis using Kaggle  | Workshop | [Pyladies Dublin Meetup](https://www.meetup.com/pt-BR/PyLadiesDublin/events/dclgvlyzdbzb/)                  | Dublin, Ireland          | Fev/19 |
 | [Painel sobre dados abertos e tecnologias cívicas](https://www.youtube.com/watch?v=RDnuhbQjMoU&t=2s)                | Keynote  | Pycon Brazil[14]                  | Natal, RN/Brazil          | Oct/18 |
 | [Que belo dia para a ciência](https://www.youtube.com/watch?v=URBE9PyGclU)                                     | Talk     | Pycon Brazil[14]                  | Natal, RN/Brazil          | Oct/18 |
 | [Pizza de Dados](https://www.youtube.com/watch?v=HxrEUBNnz2Q)                                       | Webinar  | Castálio               | Online      | Nov/18 |
@@ -213,9 +222,10 @@ Scientific Initiation Scholarship at Coastal Oceanography Laboratory. Worked wit
 | Episode                                                                                    | Podcast                                      | Date     |
 |--------------------------------------------------------------------------------------------|----------------------------------------------|----------|
 |  All  (Host)                                                                               | [Pizza de Dados](http://pizzadedados.com/)   |   -      |
+|  [Ep 134: Primeiros Passos em Data Science: Do Excel e BI ao Python](https://hipsters.tech/primeiros-passos-em-data-science-do-excel-e-bi-ao-python-hipsters-134/) | [Hipsters.tech](https://hipsters.tech)   |   Fev/19      |
 |  [Ep 11: #OPodcastÉDelas](http://sudocast.com.br/portfolio-items/ep-0011-opodcastedelas/)  | Sudocast                                     |   Mar/18 |
 |  [Ep 82: Ciência e dados](http://databasecast.com.br/wp/databasecast-82-ciencia-e-dados/)  | Databasecast                                 |   Mar/18 |
-|  [Ep 06: Python: Pessoas > Tecnologia](http://sudocast.com.br/portfolio-items/ep-0006-python/)  | Sudocast                                |   Mar/18 |
+|  [Ep 06: Python: Pessoas > Tecnologia](https://www.sudocast.com.br/06-python-pessoas-maior-que-tecnologia/)  | Sudocast                                |   Nov/17 |
 
 
 <h1 id='volunteer'>Volunteer Work</h1>
