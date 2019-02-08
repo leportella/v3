@@ -29,6 +29,8 @@ sidebar_link: true
 | Universidade Federal de Santa Catarina | 2015-2017 | Master                   | Physical Oceanography and Numerical Modelling |
 | Universidade Federal de Santa Catarina | 2008-2013 | Bachelor                 | Oceanography                                   |
 
+I am also building [my "own" data science/computer science degree](https://github.com/leportella/my-datascience-degree/) 🤓
+
 
 <h1 id='positions'>Positions</h1>
 ----------------------------------
