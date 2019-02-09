@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "There is just too much information.."
+categories:
+  - english
 tags:
   - en 
   - python
