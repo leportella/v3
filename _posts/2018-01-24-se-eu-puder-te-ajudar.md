@@ -73,6 +73,7 @@ Jessica mostrando como fazer seu próprio site usando Jekyll. Também deixo um e
 
 * [Escolhendo um tema Jekyll](http://jtemporal.com/temas-jekyll/)
 * [Porque cada pessoa deve ter seu site na web](https://ramalho.org/wiki/doku.php?id=porque_cada_pessoa_deve_ter_seu_site_na_web)
+* [Do tema ao ar](https://jtemporal.com/do-tema-ao-ar/)
 
 
 Bom, saindo um pouco da parte técnica e passando para parte mais pessoal, vamos falar sobre sua rede de contatos.
