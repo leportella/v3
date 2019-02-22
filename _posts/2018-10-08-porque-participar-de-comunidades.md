@@ -39,9 +39,11 @@ ou ... você!
 Isso também implica em menores custos com recrutamento e seleção, uma vez que as pessoas que vêem sua empresa circulando nos 
 meios da comunidade, também vão se lembrar delas na hora de aplicar para novas oportunidades.
 
-Comentário do Renato Oliveira da [Labcodes](https://www.labcodes.com.br/):
+[Comentário do Renato Oliveira](https://twitter.com/_renatoOliveira/status/1036754228990169088) da [Labcodes](https://www.labcodes.com.br/), empresa referência em participação de comunidade:
 
-![](https://i.imgur.com/I68JORR.png)
+
+<center><img src="https://i.imgur.com/I68JORR.png" style="height:200px;"/></center>
+
 
 ### 2. Pessoas buscam lugares onde possam aprender
 
@@ -62,7 +64,8 @@ suas noites e fins de semana estudando? Pessoas que "gastam" seu tempo, seu fim 
 sua noite ou o seu dinheiro, tem força de vontade, são interessadas e, no mínimo, 
 tem alguma coisa de diferente. Olhe para esse público!
 
-![](https://i.imgur.com/KKFc6Lq.png)
+
+<center><img src="https://i.imgur.com/KKFc6Lq.png" style="height:200px;"/></center>
 
 
 ### 4. É um treinamento
@@ -72,7 +75,7 @@ pessoas explicando coisas úteis.
 Às vezes a solução para o seu problema está numa palestra, às vezes está numa conversa de corredor. Às vezes, você conhece 
 AQUELA pessoa que vai te ajudar no seu problema enorme. 
 
-![](https://i.imgur.com/v7I3xvg.png)
+<center><img src="https://i.imgur.com/v7I3xvg.png" style="height:150px;"/></center>
 
 
 ### 5. Ajuda para as ferramentas do dia-a-dia
@@ -81,7 +84,8 @@ Existe uma boa chance de que você trabalha usando (ou fazendo) projetos open-so
 estão nos eventos! É a sua chance de tirar aquela dúvida, ou ajudar a criar a nova feature que vai te ajudar. Se o seu projeto 
 está aberto, é a hora perfeita pra conseguir pessoas para te ajudarem!
 
-![](https://i.imgur.com/fIekux5.png)
+<center><img src="https://i.imgur.com/fIekux5.png" style="height:200px;"/></center>
+
 
 ### 6. Tendências do mercado
 
@@ -95,9 +99,9 @@ empresas não percam momentum e fiquem obsoletas.
 
 ## Bônus: Ajudar quem te ajuda ❤
 
-Palavras maravilhosas do Filipe da [Vinta](https://www.vinta.com.br/):
+Palavras maravilhosas do Filipe da [Vinta](https://www.vinta.com.br/), outra empresa que é exemplo de participação da comunidade:
 
-![](https://i.imgur.com/MEPkFum.png)
+<center><img src="https://i.imgur.com/MEPkFum.png" style="height:180px;"/></center>
 
 
 ## Como participar da comunidade? Spoiler: nem tudo é dinheiro ;)
