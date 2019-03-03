@@ -6,7 +6,6 @@ sidebar_link: true
 
 <h1>Summary</h1>
 
-* [Curriculum in PDF](https://drive.google.com/file/d/1-wAJngYcz3o-S-qDL2NDTIVFGO74HlYS/view?usp=sharing)
 * [Education](#education)
 * [Positions](#positions)
 * [Courses](#courses)
@@ -53,6 +52,7 @@ The work made is being detailed on a series of posts explaining the tasks and di
 * [Outreachy Report II](https://leportella.com/english/2019/01/11/outreachy-II.html)
 * [Outreachy Report III](https://leportella.com/english/2019/01/23/outreachy-III.html)
 * [Outreachy Report IV](https://leportella.com/english/2019/02/05/outreachy-IV.html)
+* [Outreachy Report V](https://leportella.com/english/2019/02/22/my-experience-with-blogs-and-texts.html)
 
 ## Data Bootcamp
 
@@ -236,6 +236,7 @@ Scientific Initiation Scholarship at Coastal Oceanography Laboratory. Worked wit
 
 | Event                      | Role           | City                      | Date   |
 |----------------------------|----------------|---------------------------|--------|
+| Pyladies Dublin            | Organizer      | Dublin, Ireland           | 2019-  |
 | Python Brazil Association (APYB)    | Public Relations Director | Brazil  | 2017-2019 |
 | Pycon South Brazil         | Main Organizer | Florianópolis, SC/Brazil  | Apr/18 |
 | Django Girls Florianópolis | Organizer      | Florianópolis, SC/Brazil  | Apr/18 |
@@ -257,19 +258,20 @@ Scientific Initiation Scholarship at Coastal Oceanography Laboratory. Worked wit
 ----------------------------------
 
 * [Data Science Pizza](https://github.com/leportella/data-science-roadmap) - Creator
+* [JupyterHub - FirstUse Authenticator](https://github.com/jupyterhub/firstuseauthenticator)
+* [JupyterHub - Native Authenticator](https://github.com/jupyterhub/nativeauthenticator)
 * [Bottery](https://github.com/rougeth/bottery) - Collaborator
-* JupyterHub
 * [Perfil Político](https://github.com/okfn-brasil/perfil)
-* [Cheatsheet-translation](https://github.com/shervinea/cheatsheet-translation)
+* [Translation of VIP Cheatsheets](https://github.com/shervinea/cheatsheet-translation)
+* [cookiecutter-djangopackage](https://github.com/pydanny/cookiecutter-django)
 * Restless
-* Python Social App
-* Intermediate Python (translation to pt-br)
+* [Python Social Auth](https://github.com/python-social-auth/social-docs
+* [Intermediate Python (translation to pt-br)](https://github.com/joanasouza/intermediatePython)
 * Python Documentation (translation to pt-br and revisor)
-* Serenata de Amor
+* [Serenata de Amor](https://github.com/okfn-brasil/serenata-de-amor/)
 * romslab
 * pyBusinessses-BR
 * [Python Brazil Wiki](https://github.com/pythonbrasil/wiki)
-* cookiecutter-djangopackage
 * scipyla2016
 * Python Brazil blog
 * Django Simple History
