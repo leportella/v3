@@ -6,29 +6,15 @@ sidebar_link: true
 
 <h1>Summary</h1>
 
-* [Education](#education)
 * [Positions](#positions)
-* [Courses](#courses)
-* [Languages](#languages)
 * [Skills](#skills)
+* [Education](#education)
+* [Languages](#languages)
 * [Talks and Workshops](#talks)
 * [Podcasts](#podcasts)
 * [Volunteer Work](#volunteer)
 * [Open Source Contibutions](#open-source)
 * [What someone wrote about me s2...](#someone-wrote)
-
-
-
-<h1 id='education'>Education</h1>
-----------------------------------
-
-| School                                 | Year      | Type                     | Major                                          |
-|----------------------------------------|-----------|--------------------------|------------------------------------------------|
-| Udacity                                | 2018      | Nanodegree - Certificate | Machine Learning Engineer                      |
-| Universidade Federal de Santa Catarina | 2015-2017 | Master                   | Physical Oceanography and Numerical Modelling |
-| Universidade Federal de Santa Catarina | 2008-2013 | Bachelor                 | Oceanography                                   |
-
-I am also building [my "own" data science/computer science degree](https://github.com/leportella/my-datascience-degree/) 🤓
 
 
 <h1 id='positions'>Positions</h1>
@@ -136,8 +122,42 @@ Intern in the Department of Research, Remote Sensing Group at Instituto de Estud
 
 Scientific Initiation Scholarship at Coastal Oceanography Laboratory. Worked with the characterization of the seascapes of the Arvoredo protected area with Prof. Dr. Jarbas Bonetti. Worked mainly on builting and analyzing spatial data using ArcGIS and other GIS tools.
 
+<h1 id="skills">Skills</h1>
+-------------------------------------------------------------
 
-<h1 id='courses'>Small Courses</h1>
+| Hard Skills                  | Soft Skills            |
+|------------------------------|------------------------|
+| Python                       |  Team player           |
+| Django                       |  Communication skills  |
+| Data Science                 |  Organization skills   |
+| Machine Learning             |  Oratory               |
+| Unsupervised Learning        |  Project Management    |
+| Supervised Learning          |  Proactive             |
+| Statistics                   |  Challenge motivated   |
+| Numpy                        |  Highly motivated      |
+| Pandas                       |  Problem solving       |
+| MATLAB                       |  Multidisciplinarity   |
+| Jupyter                      |  Writing               |
+| Restless                     |  Research              |
+| MongoDB                      |                        |
+| SQLAlchemy                   |                        |
+| Pyspark                      |                        |
+| Pytorch                      |                        |
+| Git                          |                        |
+
+
+<h1 id='education'>Education</h1>
+----------------------------------
+
+| School                                 | Year      | Type                     | Major                                          |
+|----------------------------------------|-----------|--------------------------|------------------------------------------------|
+| Udacity                                | 2018      | Nanodegree - Certificate | Machine Learning Engineer                      |
+| Universidade Federal de Santa Catarina | 2015-2017 | Master                   | Physical Oceanography and Numerical Modelling |
+| Universidade Federal de Santa Catarina | 2008-2013 | Bachelor                 | Oceanography                                   |
+
+I am also building [my "own" data science/computer science degree](https://github.com/leportella/my-datascience-degree/) 🤓
+
+<h2 id='courses'>Small Courses</h2>
 ----------------------------------
 
 | Course               | Entity              | Year  |
@@ -161,30 +181,6 @@ Scientific Initiation Scholarship at Coastal Oceanography Laboratory. Worked wit
 | Portuguese | Native |                                        |
 | English    | Fluent | First Certificate in English - B level |
 | French     | Basic  |                                        |
-
-
-<h1 id="skills">Skills</h1>
--------------------------------------------------------------
-
-| Hard Skills                  | Soft Skills            |
-|------------------------------|------------------------|
-| Python                       |  Team player           |
-| Django                       |  Communication skills  |
-| Data Science                 |  Organization skills   |
-| Machine Learning             |  Oratory               |
-| Unsupervised Learning        |  Project Management    |
-| Supervised Learning          |  Proactive             |
-| Statistics                   |  Challenge motivated   |
-| Numpy                        |  Highly motivated      |
-| Pandas                       |  Problem solving       |
-| MATLAB                       |  Multidisciplinarity   |
-| Jupyter                      |  Writing               |
-| Restless                     |  Research              |
-| MongoDB                      |                        |
-| SQLAlchemy                   |                        |
-| Pyspark                      |                        |
-| Pytorch                      |                        |
-| Git                          |                        |
 
 
 <h1 id='talks'>Talks and Workshops</h1>
