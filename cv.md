@@ -188,7 +188,8 @@ I am also building [my "own" data science/computer science degree](https://githu
 
 | Title                                                           | Type     | Conference                        | City                      | Date   |
 |-----------------------------------------------------------------|----------|-----------------------------------|---------------------------|--------|
-| Introduction to Jupyter Notebooks & Data Analysis using Kaggle  | Workshop | [Pyladies Dublin Meetup](https://www.meetup.com/pt-BR/PyLadiesDublin/events/dclgvlyzdbzb/)                  | Dublin, Ireland          | Fev/19 |
+| [Introducing a new JupyterHub Authenticator](https://speakerdeck.com/leportella/introducing-a-new-authenticator-for-jupyterhub)  | Talk | [Pycon Limmerick](https://www.meetup.com/pt-BR/pythonireland/events/258498112/)  | Limmerick, Ireland          | Mar/19 |
+| [Introduction to Jupyter Notebooks & Data Analysis using Kaggle](https://speakerdeck.com/leportella/introduction-to-jupyter-notebooks-and-data-analytics-with-kaggle)  | Workshop | [Pyladies Dublin Meetup](https://www.meetup.com/pt-BR/PyLadiesDublin/events/dclgvlyzdbzb/)                  | Dublin, Ireland          | Fev/19 |
 | [Painel sobre dados abertos e tecnologias cívicas](https://www.youtube.com/watch?v=RDnuhbQjMoU&t=2s)                | Keynote  | Pycon Brazil[14]                  | Natal, RN/Brazil          | Oct/18 |
 | [Que belo dia para a ciência](https://www.youtube.com/watch?v=URBE9PyGclU)                                     | Talk     | Pycon Brazil[14]                  | Natal, RN/Brazil          | Oct/18 |
 | [Pizza de Dados](https://www.youtube.com/watch?v=HxrEUBNnz2Q)                                       | Webinar  | Castálio               | Online      | Nov/18 |
