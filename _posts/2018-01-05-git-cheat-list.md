@@ -18,6 +18,7 @@ last_modified_at: 2017-03-09T14:25:52-05:00
 * [How to rebase a forked repository](#rebase-fork)
 * [How to add a default editor to git](#default-editor)
 * [How to amend to some old commit?](#amend-old-commit) 
+* [How to amend delete merged branches?](#delete-merged-branches) 
 
 # My Git Cheat List
 
@@ -79,4 +80,14 @@ Everything is back to normal. Since you made a rebase, you need a "forced" push:
 
 ```
 $ git push -f 
+```
+
+
+
+<h2 id='delete-merged-branches'>How to amend delete merged branches?</h2>
+
+This delete all merged branch. Do NOT use `-D`.
+
+```
+$ for branch in `git branch | grep -v master`; do git branch -d $branch; done
 ```
