@@ -112,3 +112,5 @@ If you use some open-source project, you already understand the value of it. Whe
 ## Thanks 
 
 Thanks to [Renato](https://twitter.com/_renatoOliveira), [Filipe](https://twitter.com/xima), [Mário Sérgio](https://twitter.com/queirozMario21) and [Otávio](https://twitter.com/ooocarneiro) for their help and comments while writing this text ❤
+
+Thanks to Vera for helping me translating this post ❤
