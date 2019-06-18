@@ -21,7 +21,6 @@ navigation: # Navigation links
   - {name: 'Home', link: '/'}
   - {name: 'About', link: '/about.html'}
   - {name: 'Curriculum', link: '/cv.html'}
-  - {name: 'Feed', link: '/feed.xml'}
 
 tagline: >
     a little bit about me
