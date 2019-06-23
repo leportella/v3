@@ -15,7 +15,7 @@ featured-img: julia
 last_modified_at: 2019-06-23T18:25:52-05:00
 ---
 
-<center><img src="https://media.giphy.com/media/VMmRM3EjhjBII/giphy.gif" style="height:100px;"/></center>
+<center><img src="https://media.giphy.com/media/VMmRM3EjhjBII/giphy.gif" style="height:300px;"/></center>
 <center><i></i></center>
 <br/>
 
@@ -33,7 +33,7 @@ Julia was created in 2012 by Alan Edelman, Stefan Karpinski, Jeff Bezanson and V
 
 I had already heard people saying how Julia is a performance language, and this is also described in several places of the official website. What really impressed me was that, despite being high-level like Python, speed tests put the language at the same level of extremely fast compiled languages as Rust or Go. See the run-time comparisons of some algorithms in different languages:
 
-<center><img src="https://i.imgur.com/Ail3AU6.png" style="height:100px;"/></center>
+<center><img src="https://i.imgur.com/Ail3AU6.png" style="height:400px;"/></center>
 <center><i>Source: <a href="https://julialang.org/benchmarks/">Official website</a></i></center>
 <br/>
 
@@ -71,7 +71,7 @@ Julia has [an extensive collection of packages](https://juliaobserver.com/), sim
 To install a package just type `]` inside the interpreter that it "transforms" the interpreter into an installer. Take a look:
 
 
-<center><img src="https://cdn-images-1.medium.com/max/1600/1*DkyKrnt1spV_oFm9Gkyang.gif" style="height:100px;"/></center>
+<center><img src="https://cdn-images-1.medium.com/max/1600/1*DkyKrnt1spV_oFm9Gkyang.gif" style="height:300px;"/></center>
 <center><i>Installing a package in Julia</i></center>
 <br/>
 
@@ -121,7 +121,7 @@ In my case, the program asks if I want to install Jupyter though [Conda](https:/
 
 Once I had everything installed, the default screen of the Jupyter Notebook opened on my browser and now I had both Python 2, 3 and Julia as options:
 
-<center><img src="https://i.imgur.com/eQQVhQV.png" style="height:200px;"/></center>
+<center><img src="https://i.imgur.com/eQQVhQV.png" style="height:300px;"/></center>
 <center><i>When I started the notebook, I had the option of Julia</i></center>
 <br/>
 
@@ -133,7 +133,7 @@ Once I had everything installed, the default screen of the Jupyter Notebook open
 
 The variable definitions are the same as those found in Python, and also Julia has extensive Unicode support. This means you can have variable names with Japanese letters, accent and even emojis 😰.
 
-<center><img src="https://i.imgur.com/xcFTZxr.png" style="height:200px;"/></center>
+<center><img src="https://i.imgur.com/xcFTZxr.png" style="height:300px;"/></center>
 <center><i>Julia has extensive support to Unicode</i></center>
 <br/>
 
