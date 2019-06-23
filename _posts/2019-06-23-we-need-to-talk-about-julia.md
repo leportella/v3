@@ -12,7 +12,7 @@ tags:
   - events
   - technology
 featured-img: julia
-last_modified_at: 2019-03-21T18:25:52-05:00
+last_modified_at: 2019-06-23T18:25:52-05:00
 ---
 
 <center><img src="https://media.giphy.com/media/VMmRM3EjhjBII/giphy.gif" style=“height:100px;"/></center>
@@ -33,7 +33,7 @@ Julia was created in 2012 by Alan Edelman, Stefan Karpinski, Jeff Bezanson and V
 
 I had already heard people saying how Julia is a performance language, and this is also described in several places of the official website. What really impressed me was that, despite being high-level like Python, speed tests put the language at the same level of extremely fast compiled languages as Rust or Go. See the run-time comparisons of some algorithms in different languages:
 
-<center><img src="https://i.imgur.com/Ail3AU6.png" style=“height:100px;"/></center>
+<center><img src="https://i.imgur.com/Ail3AU6.png" style="height:100px;"/></center>
 <center><i>Source: <a href="https://julialang.org/benchmarks/">Official website</a></i></center>
 <br/>
 
