@@ -15,7 +15,7 @@ featured-img: julia
 last_modified_at: 2019-06-23T18:25:52-05:00
 ---
 
-<center><img src="https://media.giphy.com/media/VMmRM3EjhjBII/giphy.gif" style=“height:100px;"/></center>
+<center><img src="https://media.giphy.com/media/VMmRM3EjhjBII/giphy.gif" style="height:100px;"/></center>
 <center><i></i></center>
 <br/>
 
@@ -71,7 +71,7 @@ Julia has [an extensive collection of packages](https://juliaobserver.com/), sim
 To install a package just type `]` inside the interpreter that it "transforms" the interpreter into an installer. Take a look:
 
 
-<center><img src="https://cdn-images-1.medium.com/max/1600/1*DkyKrnt1spV_oFm9Gkyang.gif" style=“height:100px;"/></center>
+<center><img src="https://cdn-images-1.medium.com/max/1600/1*DkyKrnt1spV_oFm9Gkyang.gif" style="height:100px;"/></center>
 <center><i>Installing a package in Julia</i></center>
 <br/>
 
@@ -114,14 +114,14 @@ julia> notebook()
 
 In my case, the program asks if I want to install Jupyter though [Conda](https://docs.conda.io/en/latest/miniconda.html) and, despite having both in [Python Virtual Environments](https://docs.python.org/3/tutorial/venv.html), a series of packages were installed:
 
-<center><img src="https://i.imgur.com/BOyniWX.png" style=“height:200px;"/></center>
+<center><img src="https://i.imgur.com/BOyniWX.png" style="height:200px;"/></center>
 <center><i>Installations that are made when we first call the Jupyter Notebook inside the Julia terminal</i></center>
 <br/>
 
 
 Once I had everything installed, the default screen of the Jupyter Notebook opened on my browser and now I had both Python 2, 3 and Julia as options:
 
-<center><img src="https://i.imgur.com/eQQVhQV.png" style=“height:200px;"/></center>
+<center><img src="https://i.imgur.com/eQQVhQV.png" style="height:200px;"/></center>
 <center><i>When I started the notebook, I had the option of Julia</i></center>
 <br/>
 
@@ -133,7 +133,7 @@ Once I had everything installed, the default screen of the Jupyter Notebook open
 
 The variable definitions are the same as those found in Python, and also Julia has extensive Unicode support. This means you can have variable names with Japanese letters, accent and even emojis 😰.
 
-<center><img src="https://i.imgur.com/xcFTZxr.png" style=“height:200px;"/></center>
+<center><img src="https://i.imgur.com/xcFTZxr.png" style="height:200px;"/></center>
 <center><i>Julia has extensive support to Unicode</i></center>
 <br/>
 
@@ -219,11 +219,11 @@ julia> soma(x, y) = x + y
 Very cool and very easy to understand! The more I read, the more my head was exploding... in Julia, the operators (`+`, for example) are only functions with special characteristics. Then the sum of some elements can be done by calling the sum function, or the `+` in this case:
 
 
-<center><img src="https://i.imgur.com/93wMaPR.png" style=“height:200px;"/></center>
+<center><img src="https://i.imgur.com/93wMaPR.png" style="height:200px;"/></center>
 <br/>
 
 
-<center><img src="https://media.giphy.com/media/Ysce790SgjJK0/giphy.gif" style=“height:200px;"/></center>
+<center><img src="https://media.giphy.com/media/Ysce790SgjJK0/giphy.gif" style="height:200px;"/></center>
 <br/>
 
 
