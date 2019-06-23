@@ -13,6 +13,20 @@ tags:
   - medium
   - outreachy
   - internship
+  - technology
+  - tecnologia
+  - programador
+  - programadora
+  - mulheres na tecnologia
+  - woman in tech
+  - girls in tech
+  - computação
+  - ciência de computação
+  - software development
+  - engenharia de software
+  - desenvolvimento
+  - auto-ensino
+  - self-taught engineer
 featured-img: native-auth
 last_modified_at: 2019-02-22T14:25:52-05:00
 ---

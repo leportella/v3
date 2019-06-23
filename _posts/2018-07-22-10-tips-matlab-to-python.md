@@ -7,6 +7,36 @@ tags:
   - en
   - python
   - begginers
+  - matlab
+  - octave
+  - data science
+  - data
+  - data analytics
+  - data vizualization
+  - open-source
+  - python
+  - mongo
+  - code
+  - mongoengine
+  - database
+  - databases
+  - sql
+  - nosql
+  - mongoDB
+  - technology
+  - tecnologia
+  - programador
+  - programadora
+  - mulheres na tecnologia
+  - woman in tech
+  - girls in tech
+  - computação
+  - ciência de computação
+  - software development
+  - engenharia de software
+  - desenvolvimento
+  - auto-ensino
+  - self-taught engineer
 featured-img: idea
 last_modified_at: 2018-07-27T14:25:52-05:00
 ---

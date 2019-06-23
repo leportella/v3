@@ -10,7 +10,27 @@ tags:
   - exploratory analysis
   - pandas
   - sklearn
+  - ciência de dados
+  - data analytics
+  - data engineer
+  - data
+  - prediction
+  - aprendizado de maquina
   - python
+  - technology
+  - tecnologia
+  - programador
+  - programadora
+  - mulheres na tecnologia
+  - woman in tech
+  - girls in tech
+  - computação
+  - ciência de computação
+  - software development
+  - engenharia de software
+  - desenvolvimento
+  - auto-ensino
+  - self-taught engineer
 featured-img: accidents
 last_modified_at: 2019-01-02T21:55:52-05:00
 ---

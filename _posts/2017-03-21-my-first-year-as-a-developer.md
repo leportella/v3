@@ -8,6 +8,30 @@ tags:
   - python
   - begginers
   - pyladies
+  - open-source
+  - python
+  - mongo
+  - code
+  - mongoengine
+  - database
+  - databases
+  - sql
+  - nosql
+  - mongoDB
+  - technology
+  - tecnologia
+  - programador
+  - programadora
+  - mulheres na tecnologia
+  - woman in tech
+  - girls in tech
+  - computação
+  - ciência de computação
+  - software development
+  - engenharia de software
+  - desenvolvimento
+  - auto-ensino
+  - self-taught engineer
 last_modified_at: 2017-03-09T14:25:52-05:00
 featured-img: django_girls
 ---

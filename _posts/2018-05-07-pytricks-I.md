@@ -6,6 +6,31 @@ categories:
 tags:
   - pt-br
   - python
+  - programming languages
+  - open-source
+  - python
+  - mongo
+  - code
+  - mongoengine
+  - database
+  - databases
+  - sql
+  - nosql
+  - mongoDB
+  - technology
+  - tecnologia
+  - programador
+  - programadora
+  - mulheres na tecnologia
+  - woman in tech
+  - girls in tech
+  - computação
+  - ciência de computação
+  - software development
+  - engenharia de software
+  - desenvolvimento
+  - auto-ensino
+  - self-taught engineer
 featured-img: computer
 last_modified_at: 2018-05-07T09:29:52-05:00
 ---

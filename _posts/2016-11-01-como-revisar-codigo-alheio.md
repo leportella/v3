@@ -7,6 +7,23 @@ tags:
   - pt-br
   - python 
   - testes 
+  - comunidade
+  - revisão de código
+  - code review
+  - technology
+  - tecnologia
+  - programador
+  - programadora
+  - mulheres na tecnologia
+  - woman in tech
+  - girls in tech
+  - computação
+  - ciência de computação
+  - software development
+  - engenharia de software
+  - desenvolvimento
+  - auto-ensino
+  - self-taught engineer
 featured-img: feedback
 last_modified_at: 2017-03-09T14:25:52-05:00
 ---

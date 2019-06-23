@@ -6,10 +6,29 @@ categories:
 tags:
   - pt-br
   - comunidade
-  - computação
-  - ciência de computação
+  - woman in tech
+  - girls in tech
+  - computing
+  - software
+  - python
+  - algoritmos
+  - entrevistas
+  - eventos
   - events
   - technology
+  - tecnologia
+  - programador
+  - programadora
+  - mulheres na tecnologia
+  - woman in tech
+  - girls in tech
+  - computação
+  - ciência de computação
+  - software development
+  - engenharia de software
+  - desenvolvimento
+  - auto-ensino
+  - self-taught engineer
 featured-img: keyboard
 last_modified_at: 2019-06-18T18:25:52-05:00
 ---

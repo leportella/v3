@@ -9,12 +9,33 @@ tags:
   - jupyter
   - open-source
   - development
+  - ciência de dados
+  - data science
+  - data analytics
+  - data engineer
+  - data
+  - missing data
+  - interpolation
   - girls in tech
   - pyladies
   - interpolation
   - missing data
   - data
   - datasets
+  - technology
+  - tecnologia
+  - programador
+  - programadora
+  - mulheres na tecnologia
+  - woman in tech
+  - girls in tech
+  - computação
+  - ciência de computação
+  - software development
+  - engenharia de software
+  - desenvolvimento
+  - auto-ensino
+  - self-taught engineer
 featured-img: interp
 last_modified_at: 2019-01-14T11:48:52-05:00
 ---

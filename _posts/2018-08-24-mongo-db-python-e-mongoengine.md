@@ -10,6 +10,25 @@ tags:
   - mongo
   - code
   - mongoengine
+  - database
+  - databases
+  - sql
+  - nosql
+  - mongoDB
+  - technology
+  - tecnologia
+  - programador
+  - programadora
+  - mulheres na tecnologia
+  - woman in tech
+  - girls in tech
+  - computação
+  - ciência de computação
+  - software development
+  - engenharia de software
+  - desenvolvimento
+  - auto-ensino
+  - self-taught engineer
 featured-img: database
 last_modified_at: 2018-08-24T15:41:52-05:00
 ---

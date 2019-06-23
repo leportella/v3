@@ -7,11 +7,30 @@ tags:
   - english
   - python
   - machine learning
+  - database
+  - postgres
+  - sql databases
+  - nosql databases
+  - Python tutorial
   - sqlalchemy
   - orm
   - database
   - SQL
   - Project Jupyter
+  - technology
+  - tecnologia
+  - programador
+  - programadora
+  - mulheres na tecnologia
+  - woman in tech
+  - girls in tech
+  - computação
+  - ciência de computação
+  - software development
+  - engenharia de software
+  - desenvolvimento
+  - auto-ensino
+  - self-taught engineer
 featured-img: bookcase 
 last_modified_at: 2019-01-10T21:55:52-05:00
 ---
