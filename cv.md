@@ -20,11 +20,21 @@ sidebar_link: true
 <h1 id='positions'>Positions</h1>
 ----------------------------------
 
+## Stripe
+
+| Title  | Start | End   |
+|--------|-------|-------|
+| Software Engineer | 06/19 |  |
+
+
+Software Engineer for Global EMEA at [Stripe Dublin](https://stripe.com/ie). 
+
+
 ## Project Jupyter
 
 | Title  | Start | End   |
 |--------|-------|-------|
-| Intern | 12/18 | 03/19 |
+| Intern | 12/18 | 04/19 |
 
 Working with [Project Jupyter](https://jupyter.org/) as an Intern of [Outreachy](https://www.outreachy.org/). Outreachy is an internship program 
 coordinated by the Software Freedom Conservancy. It is run twice a year with a goal 
@@ -144,6 +154,7 @@ Scientific Initiation Scholarship at Coastal Oceanography Laboratory. Worked wit
 | Pyspark                      |                        |
 | Pytorch                      |                        |
 | Git                          |                        |
+| Ruby                         |                        |
 
 
 <h1 id='education'>Education</h1>

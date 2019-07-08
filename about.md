@@ -22,13 +22,21 @@ experience working with multidisciplinary teams (such as biologists, engineers,
 managers, field workers, navy commanders, etc).
 
 I am crazy about books and, in particular, the Chronicles of
-Ice and Fire and all their theories. 
+Ice and Fire and all their theories. But some of my top 5 books are:
+
+* Shógun - James Clavell
+* The Godfather - Mario Puzo
+* Pillars of Earth - Ken follet
+* The physician - Noah Gordon
+* The hunger games - Suzanne Collins 
 
 I like to write as much as I like to read. So, to help young passionate programmers, I write several blog posts to share things I am learning and my life experiences. 
-Most (if not all) of them you can find here.
+Most (if not all) of them you can find here in this website. Some are about programming, some about my career and some about my way of seeing life. Hope you like it.
 
-In 2017, I started a brazilian podcast focusing on data science called [Pizza de Dados](http://podcast.datascience.pizza) or, in english, Data Pizza.
-It's been a crazy journey that I never saw coming! But now that's here, I am so happy to do this.
+In 2017, I started a brazilian podcast focusing on data science called [Pizza de Dados](http://pizzadedados.com) or, in english, Data Pizza. Pizza de Dados 
+is the first and biggest podcast of data science in Brazil. I am very much proud of it. So, if you ask me about it... I'll probably go on and on about my baby <3.
+
+It's been a crazy journey that I never saw coming! But now that's here, I am happy beyond I could imagine. 
 
 
-![](https://i.imgur.com/gVatGhc.jpg)
+![](assets/img/posts/ireland.jpg)

@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-title: leportella # your site title
+title: Leticia Portella # your site title
 author: leportella # You :P
 description: > # Meta description of Homepage
     This a blog from an oceanographer who became passionare about programming.
@@ -21,11 +21,17 @@ navigation: # Navigation links
   - {name: 'Home', link: '/'}
   - {name: 'About', link: '/about.html'}
   - {name: 'Curriculum', link: '/cv.html'}
+  - {name: 'Contact', link: '/contact'}
+  - {name: '🇧🇷', link: '/categories/#pt-br'}
+  - {name: '🇬🇧', link: '/categories/#english'}
+
 
 tagline: >
     a little bit about me
 
 hero_img: posts/ocean.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
+
+email: leportella@protonmail.com
 
 twitter_username: leleportella
 github_username: leportella
