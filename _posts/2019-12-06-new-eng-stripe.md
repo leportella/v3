@@ -30,9 +30,6 @@ featured-img: stripe
 last_modified_at: 2019-12-06T18:25:52-05:00
 ---
 
-<center><img src="https://imgur.com/d14maPo.png" style="height:300px;"/></center>
-<center><i></i></center>
-<br/>
 
 Being a software engineer at a new company—anywhere—is hard. The codebase is completely new, you have to adapt to new patterns (for both code and culture) and most likely the problem space is completely new to you too. 
 
