@@ -30,7 +30,7 @@ featured-img: stripe
 last_modified_at: 2019-12-06T18:25:52-05:00
 ---
 
-<center><img src="https://imgur.com/wKhtZIt.png" style="height:300px;"/></center>
+<center><img src="https://imgur.com/d14maPo.png" style="height:300px;"/></center>
 <center><i></i></center>
 <br/>
 
@@ -50,6 +50,11 @@ During this first week, we worked across teams in our start class every day and 
 
 On our second week we still had some classes left in Stripe 101 but we also began classes for Engineering 101. In these specialized classes, we learned about Stripe's overall architecture, design patterns, programming languages and much more. We were able to better visualize how projects are executed, the types of problems we may face and how people work on a day-to-day basis.
 
+
+<center><img src="https://imgur.com/NPokNqK.png" style="height:300px;"/></center>
+<center><i>After the first day!</i></center>
+<br/>
+
 ## Recognizing the difficulty
 
 While I'm writing this, I can't seem to quite explain how overwhelming it can be during these first two weeks. One of the things that I loved the most was that the first thing said to us in our first class was a kind reminder about [impostor syndrome](https://en.wikipedia.org/wiki/Impostor_syndrome). If you are not familiar with the concept, impostor syndrome is the unfounded feeling that someday someone will realize that you are a fraud—and that you will somehow be revealed as one. Usually those with impostor syndrome feel that they don't really deserve their successes, and that all they've achieve is primarily the result of luck. 
@@ -63,7 +68,7 @@ After you have finished your onboarding classes, you are grouped with other newl
 
 My /dev/start team had people that would later join very different teams, people that you may never work with again at Stripe. We developed a tool to explore and pre-visualize files in S3 buckets on an internal online tool (without needing to SSH into a production machine). My project used Scala, which I have never worked before. I was terrified that I would be useless because I had never worked with a JVM language like Scala before. That's when I started to doubt myself and what I was doing there. I talked to the people on my team and told them about my struggles. I told that Stripe might have made a mistake hiring me. Guess what? They all felt something similar: we were all insecure. We ended up helping each other: pairing on code and talking when insecurities resurfaced. I can't say how amazing and important this experience was for me. After just a couple of days, we were committing code, deploying things and feeling comfortable with the main tools. We made a great team and we were able to deploy our tool before the end of our project's second week.
 
-<center><img src="https://imgur.com/wKhtZIt" style="height:300px;"/></center>
+<center><img src="https://imgur.com/wKhtZIt.png" style="height:300px;"/></center>
 <center><i>My team having dinner together</i></center>
 <br/>
 
@@ -129,6 +134,4 @@ The last resource I use is a brag document. This document shares your main achie
 Well, it’s been a crazy and exciting journey, and I can’t believe how fast six months flew by. I hope you like learning more about how it feels to be a new engineer at Stripe. 
 
 
-<center><img src="https://imgur.com/NPokNqK.png" style="height:300px;"/></center>
-<center><i>After the first day!</i></center>
-<br/>
+
