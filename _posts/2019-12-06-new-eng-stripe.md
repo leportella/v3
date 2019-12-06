@@ -30,7 +30,7 @@ featured-img: stripe
 last_modified_at: 2019-12-06T18:25:52-05:00
 ---
 
-<center><img src="https://imgur.com/wKhtZIt" style="height:300px;"/></center>
+<center><img src="https://imgur.com/wKhtZIt.png" style="height:300px;"/></center>
 <center><i></i></center>
 <br/>
 
@@ -112,7 +112,7 @@ With Bear App, I create one note per day and I add information of things that I 
 
 Here's an example of how I organize my notes daily:
 
-<center><img src="https://imgur.com/d14maPo" style="height:300px;"/></center>
+<center><img src="https://imgur.com/d14maPo.png" style="height:300px;"/></center>
 <center><i></i></center>
 <br/>
 
@@ -129,6 +129,6 @@ The last resource I use is a brag document. This document shares your main achie
 Well, it’s been a crazy and exciting journey, and I can’t believe how fast six months flew by. I hope you like learning more about how it feels to be a new engineer at Stripe. 
 
 
-<center><img src="https://imgur.com/NPokNqK" style="height:300px;"/></center>
+<center><img src="https://imgur.com/NPokNqK.png" style="height:300px;"/></center>
 <center><i>After the first day!</i></center>
 <br/>
