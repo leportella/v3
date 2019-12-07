@@ -33,7 +33,7 @@ last_modified_at: 2019-12-06T18:25:52-05:00
 
 Being a software engineer at a new company—anywhere—is hard. The codebase is completely new, you have to adapt to new patterns (for both code and culture) and most likely the problem space is completely new to you too. 
 
-When I joined Stripe, I knew it would be challenging: this was my first role in a rapidly growing technology company, a new programming language, first time working with payments and first time working full-time in English. Still, I had no idea how overwhelming and exciting it would be. And yet, even though it was one of the most challenging I've had to face in my career the onboarding experience was an amazing and interesting process. I decided to share an overview on how it feels  to be a new engineer here at Stripe having gone through the whole process. 
+When I joined Stripe, I knew it would be challenging: this was my first role in a rapidly growing technology company, a new programming language, first time working with payments and first time working full-time in English. Still, I had no idea how overwhelming and exciting it would be. And yet, even though it was one of the biggest challenge I've had to face in my career the onboarding experience was an amazing and interesting process. I decided to share an overview on how it feels  to be a new engineer here at Stripe having gone through the whole process. 
 
 ## First weeks: living abroad
 
@@ -95,7 +95,7 @@ We also have Study Groups. Every other week, you can meet with a Ruby study grou
 There is no excuse to not learn something new! 
 
 
-##Dealing with an overwhelming amount of information 
+## Dealing with an overwhelming amount of information 
 
 As you can imagine, it was (is) a LOT of information. And the deeper I go, it only increases. Soon enough I found out that it’s extremely important to develop strategies for learning and absorbing so much useful content.
 
@@ -104,7 +104,6 @@ As you can imagine, it was (is) a LOT of information. And the deeper I go, it on
 Recently, some engineers and I got together and to create a checklist of things each new engineer should do and read in their first weeks. 
 
 The checklist goes from week 1 until week 12 (~90 days since your start) and includes tasks to be done, people you should meet and things you could read. To avoid being buried in things to do, we divided the tasks of each week as obligatory and optional. This way, a new engineer can prioritize the tasks that must be done while still having resources to read when they feel like it, but without the pressure of doing everything.
-
 
 ### Keeping a diary
 
