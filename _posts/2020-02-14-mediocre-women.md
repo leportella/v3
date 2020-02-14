@@ -2,7 +2,7 @@
 layout: post
 title: "Where are the mediocre women?"
 categories:
-  - english
+  - pt-br
 tags:
   - english
   - eventos
