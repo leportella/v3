@@ -62,4 +62,5 @@ So the result is that, those who survive long enough to become senior engineers 
 And look: being mediocre is not bad. We were led to believe that it is, but it is not: it is being an average person. A person that is good in somethings and bad in others. A person that can evolve and be better with time, without being pushed away.
 
 We don't have to be mediocres, but we should have the option.
+
 [1] This is just a few horrors stories that me or some of my friends have gone through. Ask any women, I am sure you'll find plenty more. 
