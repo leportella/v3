@@ -22,8 +22,8 @@ navigation: # Navigation links
   - {name: 'About', link: '/about.html'}
   - {name: 'Curriculum', link: '/cv.html'}
   - {name: 'Contact', link: '/contact'}
-  - {name: '🇧🇷', link: '/categories/#pt-br'}
-  - {name: '🇬🇧', link: '/categories/#english'}
+  - {name: '🇧🇷', link: '/pt-br'}
+  - {name: '🇬🇧', link: '/en'}
 
 
 tagline: >
