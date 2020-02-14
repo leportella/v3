@@ -199,6 +199,8 @@ I am also building [my "own" data science/computer science degree](https://githu
 
 | Title                                                           | Type     | Conference                        | City                      | Date   |
 |-----------------------------------------------------------------|----------|-----------------------------------|---------------------------|--------|
+| Stripe-CLI | Talk | DevX Meetup  | Dublin, Ireland | Nov/19 |
+| [What's beyond Django Girls?](https://www.youtube.com/watch?v=CAFOxnntH7U)  | Talk | Pycon Ireland  | Dublin, Ireland | Oct/19 |    
 | [Introducing a new JupyterHub Authenticator](https://speakerdeck.com/leportella/introducing-a-new-authenticator-for-jupyterhub)  | Talk | [Pycon Limmerick](https://www.meetup.com/pt-BR/pythonireland/events/258498112/)  | Limmerick, Ireland          | Mar/19 |
 | [Introduction to Jupyter Notebooks & Data Analysis using Kaggle](https://speakerdeck.com/leportella/introduction-to-jupyter-notebooks-and-data-analytics-with-kaggle)  | Workshop | [Pyladies Dublin Meetup](https://www.meetup.com/pt-BR/PyLadiesDublin/events/dclgvlyzdbzb/)                  | Dublin, Ireland          | Fev/19 |
 | [Painel sobre dados abertos e tecnologias cívicas](https://www.youtube.com/watch?v=RDnuhbQjMoU&t=2s)                | Keynote  | Pycon Brazil[14]                  | Natal, RN/Brazil          | Oct/18 |
