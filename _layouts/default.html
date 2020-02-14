@@ -32,7 +32,9 @@ layout: compress
           <div class="post-list" itemscope="" itemtype="http://schema.org/Blog">
 
             {% for post in site.posts %}
-              {% include card.html %}
+              {% if post.categories[0] == 'english' %}
+                {% include card.html %}
+              {% endif %}
             {% endfor %}
 
             <!-- {% include pagination.html %} -->
