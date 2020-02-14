@@ -20,7 +20,6 @@ social:
 navigation: # Navigation links
   - {name: 'Home', link: '/'}
   - {name: 'About', link: '/about.html'}
-  - {name: 'Curriculum', link: '/cv.html'}
   - {name: 'Contact', link: '/contact'}
   - {name: '🇧🇷', link: '/pt-br'}
   - {name: '🇬🇧', link: '/en'}
