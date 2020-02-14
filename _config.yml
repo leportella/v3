@@ -21,8 +21,9 @@ navigation: # Navigation links
   - {name: 'Home', link: '/'}
   - {name: 'About', link: '/about.html'}
   - {name: 'Contact', link: '/contact'}
-  - {name: '🇧🇷', link: '/pt-br'}
-  - {name: '🇬🇧', link: '/en'}
+  - {name: 'Talks', link: '/talks'}
+  - {name: '🇧🇷 Posts', link: '/pt-br'}
+  - {name: '🇬🇧 Posts', link: '/en'}
 
 
 tagline: >
