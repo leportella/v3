@@ -2,9 +2,9 @@
 layout: post
 title: "Where are the mediocre women?"
 categories:
-  - pt-br
+  - english
 tags:
-  - pt-br
+  - english
   - eventos
   - tecnologia
   - Stripe
