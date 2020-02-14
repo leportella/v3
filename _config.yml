@@ -27,7 +27,7 @@ navigation: # Navigation links
 
 
 tagline: >
-    a little bit about me
+    random thoughts about life, tech and career
 
 hero_img: posts/ocean.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
