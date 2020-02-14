@@ -38,4 +38,6 @@ is the first and biggest podcast of data science in Brazil. I am very much proud
 
 It's been a crazy journey that I never saw coming! But now that's here, I am happy beyond I could imagine. 
 
-![](https://imgur.com/Cp4MKHg)
+<center><img src="https://i.imgur.com/Cp4MKHg.jpg" style="height:300px;"/></center>
+<center><i></i></center>
+<br/>
