@@ -31,7 +31,7 @@ tags:
   - ruby
   - scala
   - python
-featured-img: 
+featured-img: where-women
 last_modified_at: 2020-02-14T18:25:52-05:00
 ---
 
