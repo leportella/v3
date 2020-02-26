@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Where are the mediocre women?"
+title: "Boosting your career as a developer"
 categories:
   - english
 tags:
@@ -34,8 +34,7 @@ featured-img: fast
 last_modified_at: 2020-02-26T18:25:52-05:00
 ---
 
-# Boosting your career as a developer
-This month is my 4 year anniversary of my first job as a developer. During this time I've had multiple jobs (startups, big companies and open source projects) and changed countries and continents. I was able to learn a couple of things that helped me improve my career and I wanted to share them as a celebration of my anniversary and everything that came with this new life. 
+This month is my [4 year anniversary of my first job as a developer](https://leportella.com/english/2016/03/16/from-oceanographer-to-programmer.html). During this time I've had multiple jobs (startups, big companies and open source projects) and changed countries and continents. I was able to learn a couple of things that helped me improve my career and I wanted to share them as a celebration of my anniversary and everything that came with this new life. 
 
 Some of these can be quite obvious to some people, but time and time again I talk to people and find some usage for some of the most "obvious” tips. It is also missing a lot of stuff. It was already too long as it, but I wanted to share it anyway! So here is my celebration post to my 4st anniversary as a software developer! 🙂 
 
