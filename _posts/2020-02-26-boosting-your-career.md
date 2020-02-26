@@ -167,6 +167,6 @@ If someone offers you a role in a new exciting project that you have no idea if 
 It is not easy to develop all this skills. I am pretty sure I need improvements in all of them and every day I learn something that I need to improve or that I developed in order to improve myself. Some occur to you more naturally than the other, some may take all your strengths. Don't worry, you will get there eventually! Trust in yourself, be patient with the things that are harder and be kind to you and your time. Everybody have their struggles 🙂 
 
 
-> Keep going up: you may never reach the top but at least you know you are in the right direction
+> *Keep going up: you may never reach the top but at least you know you are in the right direction*
 
 
