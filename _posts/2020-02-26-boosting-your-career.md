@@ -65,7 +65,7 @@ And the cool thing is that it is not so complicated to study them, since you don
 One of the best ways to cement what you learn is by teaching others. [Some articles](https://ideas.time.com/2011/11/30/the-protege-effect/) have found that:
 
 
-> Students enlisted to tutor others, work harder to understand the material, recall it more accurately and apply it more effectively.
+> *Students enlisted to tutor others, work harder to understand the material, recall it more accurately and apply it more effectively.*
 
 Finding reasons to teach others is an excellent way of improving your skills. But not only that. To teach others you need to develop some soft skills that are fundamental to boosting your career. You need to have patience to go on the rhythm of another person. You need to be able to explain the same thing in multiple ways, to adjust the content to the different ways people think. It demands you to adapt, to rethink what you've learn - all skills that are valuable on an everyday-changing world. 
 
@@ -144,12 +144,11 @@ This is true *specially if you are a minority in tech. Trust me, it happened to 
 The true reality of life is that *nobody actually knows what their doing.* The truth is that if you are 100% sure of what you are doing, you are probably not learning enough and you are probably in your comfort zone. 
 
 
-> The vast majority of our learning happens on the job. 
-> Tanya Reilly
+> *The vast majority of our learning happens on the job.* (Tanya Reilly)
 
 So don't wait to know everything to go after the job you want. If you know everything for the job you want, you probably are too good for it.
 
-<center><img src="https://media.giphy.com/media/F5nTQNiWkcIfe/giphy.gif" style="height:300px;"/></center>
+<center><img src="https://media.giphy.com/media/8acGIeFnqLA7S/giphy.gif" style="height:300px;"/></center>
 <center><i>This is me in most of the things I'm doing</i></center>
 <br/>
 
@@ -159,8 +158,7 @@ If you see a job description for something that you have always dream to work on
 If someone offers you a role in a new exciting project that you have no idea if you are good enough, take it. If they invited you, they think you are good enough to learn and do what needs to bee done.
  
 
-> If you're offered a seat on a rocket ship, don't ask what seat! Just get on.
-> Sheryl Sandberg.
+> *If you're offered a seat on a rocket ship, don't ask what seat! Just get on.* (Sheryl Sandberg)
 
 
 
