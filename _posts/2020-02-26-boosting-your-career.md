@@ -148,7 +148,7 @@ The true reality of life is that *nobody actually knows what their doing.* The t
 
 So don't wait to know everything to go after the job you want. If you know everything for the job you want, you probably are too good for it.
 
-<center><img src="https://media.giphy.com/media/8acGIeFnqLA7S/giphy.gif" style="height:300px;"/></center>
+<center><img src="https://media.giphy.com/media/lXiRG1vwLewnehlxS/giphy.gif" style="height:300px;"/></center>
 <center><i>This is me in most of the things I'm doing</i></center>
 <br/>
 
