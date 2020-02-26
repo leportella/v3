@@ -95,10 +95,18 @@ The four situations are:
 
 Think about them. 
 
+
+<center><img src="https://media.giphy.com/media/8acGIeFnqLA7S/giphy.gif" style="height:300px;"/></center>
+<br/>
+
 .
+
 .
+
 .
+
 .
+
 .
 
 
