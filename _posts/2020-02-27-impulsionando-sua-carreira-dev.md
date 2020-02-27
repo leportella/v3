@@ -156,7 +156,7 @@ Isto é verdade *especialmente se você for uma minoria em tecnologia*. Confie e
 Vou te contar um segredo: *ninguém realmente sabe o que está fazendo*. A verdade é que, se você tem 100% de certeza do que está fazendo, provavelmente não está aprendendo o suficiente e provavelmente está na sua zona de conforto.
 
 
-> A maior parte do aprendizado acontece enquanto você trabalha
+> *A maior parte do aprendizado acontece enquanto você trabalha*
 > Tanya Reilly
 
 Portanto, não espere saber tudo para depois conseguir o trabalho. Se você sabe tudo sobre o trabalho que deseja, provavelmente já é boa demais para ele.
@@ -172,7 +172,7 @@ Se você encontrar uma vaga de trabalho para algo em que sempre sonhou trabalhar
 Se alguém lhe oferecer um papel em um novo projeto interessante que você não tem ideia se é boa o suficiente, aceite a oferta. Se elas a convidaram, é porque acham que você é boa o suficiente para aprender e fazer o que precisa ser feito.
 
 
-> Se te oferecem um lugar em um foguete, você não pergunta qual é o assento. Você sobe no foguete.
+> *Se te oferecem um lugar em um foguete, você não pergunta qual é o assento. Você sobe no foguete.* 
 > Sheryl Sandberg.
 
  
@@ -183,4 +183,4 @@ Não é fácil desenvolver todas essas habilidades. Tenho certeza de que preciso
 
 
 
-> Continue subindo: você nunca pode chegar ao topo, mas pelo menos sabe que está na direção certa
+> *Continue subindo: você nunca pode chegar ao topo, mas pelo menos sabe que está na direção certa*
