@@ -4,7 +4,7 @@ author: leportella # You :P
 description: > # Meta description of Homepage
     This a blog from an oceanographer who became passionare about programming.
     I'm a dev, in love with data science that loves to write technical posts
-    about what I'm learning, specially Python, Django and Data Science stuff
+    about what tech, career and life
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://leportella.com"
 
@@ -27,9 +27,9 @@ navigation: # Navigation links
 tagline: >
     random thoughts about life, tech and career
 
-hero_img: posts/ocean.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
+hero_img: venice.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
-email: leportella@protonmail.com
+email: me@leportella.com
 
 twitter_username: leleportella
 github_username: leportella
