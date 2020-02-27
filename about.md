@@ -6,23 +6,18 @@ sidebar_link: true
 
 Hey there! Welcome!
 
+I'm glad that you found my space in this vast internet and want to know a bit more about me. 
 
-Well, I am an oceanographer that discovered to be passionate about programming (More about this [here](http://leportella.com/english/2016/03/16/from-oceanographer-to-programmer.html)).
 
-I discovered that programming is something that I like and I can learn with a certain amount of easiness. 
+Well, [I am an oceanographer that discovered to be passionate about programming](http://leportella.com/english/2016/03/16/from-oceanographer-to-programmer.html) 
+and decided to changed careers. Since then, I've been writing blog posts about technical stuff, my career evolution and life in general. 
+I really hope you enjoy it and feel free to leave a comment or write to me if any of the texts were useful to you. 
+Sometimes I lack imagination on posts I could write and receiving messages always makes me come back to the computer!
 
-While I was working as a developer, I discovered that I could join what I have learned from college and what I have learned as a programmer, and put it all together as a data scientist 
-(which was kind of awesome). 
+I'm an open-source enthusiast and a living proof of the community's power and of what it can do for a person. 
+The Python community, in particular, helped me so much over the years that I always try to give back everytime I can. 
 
-I joined several groups including Pyladies and 2016 national Python conference organizing team (Python Brazil[12]). I love organizing events and teaching beginners that are as passionate as me.
-
-I'm an open-source enthusiast and a living proof of the community's power and of what it can do for a person.
-Although I am not originally from computer science, I have a vast experience with data analysis programming scripts (specially with Matlab and Python) and a long 
-experience working with multidisciplinary teams (such as biologists, engineers, 
-managers, field workers, navy commanders, etc).
-
-I am crazy about books and, in particular, the Chronicles of
-Ice and Fire and all their theories. But some of my top 5 books are:
+I am crazy about books and, in particular, the Chronicles of Ice and Fire and all their theories. I have tons of books that I love but some of my favorites are:
 
 * Shógun - James Clavell
 * The Godfather - Mario Puzo
@@ -30,13 +25,13 @@ Ice and Fire and all their theories. But some of my top 5 books are:
 * The physician - Noah Gordon
 * The hunger games - Suzanne Collins 
 
-I like to write as much as I like to read. So, to help young passionate programmers, I write several blog posts to share things I am learning and my life experiences. 
-Most (if not all) of them you can find here in this website. Some are about programming, some about my career and some about my way of seeing life. Hope you like it.
 
-In 2017, I started a brazilian podcast focusing on data science called [Pizza de Dados](http://pizzadedados.com) or, in english, Data Pizza. Pizza de Dados 
-is the first and biggest podcast of data science in Brazil. I am very much proud of it. So, if you ask me about it... I'll probably go on and on about my baby <3.
+In 2017, I started a brazilian podcast specifically for data science called [Pizza de Dados](http://pizzadedados.com), 
+which is a joke with Pizza and the brazilian word for data (and dice!). Pizza de Dados
+is the first and biggest podcast of data science in Brazil and has an important role on bringing quality content in portuguese. 
+I am very much proud of it. So, if you ask me about it... I'll probably go on and on about my baby <3.
 
-It's been a crazy journey that I never saw coming! But now that's here, I am happy beyond I could imagine. 
+It's been a crazy journey that I never saw coming! But now that's here, I am happy beyond I could ever imagine. 
 
 <center><img src="https://i.imgur.com/Cp4MKHg.jpg" style="height:300px;"/></center>
 <center><i></i></center>
