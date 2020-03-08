@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "My saga on learning Scala \n Part 1"
+title: "My saga learning Scala - Part 1"
 categories:
   - english
 tags:
