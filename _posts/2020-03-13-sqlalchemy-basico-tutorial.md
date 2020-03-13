@@ -43,14 +43,14 @@ Todo o código está disponível [neste repositório](https://github.com/leporte
 
 ## Sumário
 
-* [](#engine)
-* [](#engine-connection)
-* [](#sessions)
-* [](#creating-tables)
-* [](#add-records)
-* [](#queries)
-* [](#creating-tables-posterior)
-* [](#foreign-key)
+* [Criando e entendendo o *Engine* (mecanismo)](#engine)
+* [*Engine* ou conexão?](#engine-connection)
+* [Criando e entendendo Sessões](#sessions)
+* [Criando tabelas](#creating-tables)
+* [Adicionando novos usuários](#add-records)
+* [Fazendo buscas](#queries)
+* [Adicionando tabelas depois de iniciar o banco com create_all](#creating-tables-posterior)
+* [Criando uma relação com chave estrangeira (foreign key)](#foreign-key)
 
 
 <h2 id='engine'>Criando e entendendo o <i>Engine</i> (mecanismo)</h2>
