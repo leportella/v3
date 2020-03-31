@@ -65,6 +65,6 @@ Portanto, o resultado é que aquelas que sobrevivem tempo suficiente para se tor
 
 E veja: ser medíocre não é ruim. Fomos levadas a acreditar que sim, mas não é: é ser uma pessoa normal. Uma pessoa que é boa em algumas coisas e ruim em outras. Uma pessoa que pode evoluir e melhorar com o tempo, sem ser afastada brutalmente.
 
-Não precisamos ser medíocres, mas devemos precisamos ter a opção de ser.
+Não precisamos ser medíocres, mas devemos ter a opção de ser.
 
 [1] Esta é apenas algumas histórias de horror que eu ou amigas já passamos. Pergunte a qualquer mulher, tenho certeza que você encontrará muito mais.
