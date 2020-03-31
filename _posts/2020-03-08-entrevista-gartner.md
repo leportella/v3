@@ -1,17 +1,18 @@
 ---
 layout: post
-title: "Entrevista Capterra co mulheres em tecnologia"
+title: "Entrevista Capterra com mulheres em tecnologia"
 categories:
   - pt-br
 tags:
   - pt-br
   - mulheres
   - carreira
+  - capterra
+  - Gartner
   - eventos
   - tecnologia
-  - Stripe
-  - San Francisco
-  - Dublin
+  - Brasil
+  - banco de dados
   - Software engineer
   - software engineering
   - engenheira de software
