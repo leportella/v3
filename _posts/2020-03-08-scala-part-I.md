@@ -174,4 +174,4 @@ a.+(b)
 
 ----------
 
-This is it for now 🙂 See you in Part 2! 
+This is it for now 🙂 See you in [Part 2](https://leportella.com/english/2020/04/01/scala-part-II.html)! 
