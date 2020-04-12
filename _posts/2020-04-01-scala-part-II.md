@@ -174,4 +174,5 @@ Oh yeah, the this awesome operators `+:` and `:+` are also useful!
 
 ----------
 
-This is it for now 🙂 See you in Part 3 (hopefully)! 
+This is it for now 🙂 See you in [Part 3](https://leportella.com/english/2020/04/12/scala-part-III.html) (hopefully)! 
+
