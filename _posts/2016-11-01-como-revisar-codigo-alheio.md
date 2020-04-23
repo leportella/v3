@@ -5,27 +5,42 @@ categories:
   - pt-br
 tags:
   - pt-br
-  - python 
-  - testes 
-  - comunidade
-  - revisão de código
-  - code review
+  - python
+  - community 
+  - pyladies
   - technology
   - tecnologia
   - programador
   - programadora
+  - developer
   - mulheres na tecnologia
   - woman in tech
   - girls in tech
   - computação
   - ciência de computação
   - software development
+  - software engineering
   - engenharia de software
   - desenvolvimento
   - auto-ensino
   - self-taught engineer
+  - code
+  - Django
+  - software
+  - career
+  - tech career
+  - open-source
+  - no cs degree
+  - cs
+  - computer science
 featured-img: feedback
+permalink: revisar-codigo.html
+redirect_from: /pt-br/2016/11/01/como-revisar-codigo-alheio.html
 last_modified_at: 2017-03-09T14:25:52-05:00
+---
+
+[🇬🇧 *Leia em inglês*]({{base}}/review-code.html)
+
 ---
 
 Revisar código é uma tarefa complicada e pode se tornar bastante desesperadora, especialmente quando você não tem ideia de como fazer isso. Entretanto, a revisão de código pode ser uma ferramenta poderosa para aumentar a qualidade do seu código e garantir deploys “saudáveis”.

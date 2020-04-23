@@ -36,6 +36,8 @@ tags:
   - auto-ensino
   - self-taught engineer
 featured-img: pysul-organizacao
+permalink: organizacao-pysul2018.html
+redirect_from: /pt-br/2018/04/23/pysul18-organizacao.html
 last_modified_at: 2017-03-09T14:25:52-05:00
 ---
 

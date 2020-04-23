@@ -27,8 +27,42 @@ tags:
   - sororidade
   - mulheres ambiciosas
   - carreira
+  - python
+  - community 
+  - pyladies
+  - technology
+  - tecnologia
+  - programador
+  - programadora
+  - developer
+  - mulheres na tecnologia
+  - woman in tech
+  - girls in tech
+  - computação
+  - ciência de computação
+  - software development
+  - software engineering
+  - engenharia de software
+  - desenvolvimento
+  - auto-ensino
+  - self-taught engineer
+  - code
+  - Django
+  - software
+  - career
+  - tech career
+  - open-source
+  - no cs degree
+  - cs
+  - computer science
 featured-img: woman-tech
+permalink: mulheres-ambiciosas.html
+redirect_from: /pt-br/2017/04/08/mulheres-ambiciosas.html
 last_modified_at: 2017-03-09T14:25:52-05:00
+---
+
+[🇬🇧 *Leia em inglês*]({{base}}/ambicious-women.html)
+
 ---
 
 As fofíssimas Pyladies Salvador pediram um texto para estrear o blog delas e me falaram que iam publicar esse texto no dia da mulher. 

@@ -1,14 +1,45 @@
 ---
 layout: post
-title: "Git - My Cheat List"
+title: "Git - My Cheat Sheet"
 categories:
-  - cheatlist
+  - english
+  - cheatsheet
 tags:
   - en
   - python
   - git
   - cheatlist
+  - python
+  - community 
+  - pyladies
+  - technology
+  - tecnologia
+  - programador
+  - programadora
+  - developer
+  - mulheres na tecnologia
+  - woman in tech
+  - girls in tech
+  - computação
+  - ciência de computação
+  - software development
+  - software engineering
+  - engenharia de software
+  - desenvolvimento
+  - auto-ensino
+  - self-taught engineer
+  - code
+  - Django
+  - software
+  - career
+  - tech career
+  - open-source
+  - no cs degree
+  - cs
+  - computer science
 featured-img: code
+permalink: cheatsheet-git.html
+redirect_from: /cheatlist/2018/01/05/git-cheat-list.html
 last_modified_at: 2017-03-09T14:25:52-05:00
 ---
 

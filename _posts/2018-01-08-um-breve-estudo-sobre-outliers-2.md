@@ -8,8 +8,39 @@ tags:
   - python
   - data science
   - outliers
+  - python
+  - community 
+  - pyladies
+  - technology
+  - tecnologia
+  - programador
+  - programadora
+  - developer
+  - mulheres na tecnologia
+  - woman in tech
+  - girls in tech
+  - computação
+  - ciência de computação
+  - software development
+  - software engineering
+  - engenharia de software
+  - desenvolvimento
+  - auto-ensino
+  - self-taught engineer
+  - code
+  - Django
+  - software
+  - career
+  - tech career
+  - open-source
+  - no cs degree
+  - cs
+  - computer science
 last_modified_at: 2018-08-01T13:25:52-05:00
 featured-img: outlier
+permalink: outliers-II.html
+redirect_from: /pt-br/2018/01/08/um-breve-estudo-sobre-outliers-2.html
+
 ---
 
 Continuação [deste post](http://leportella.com/pt-br/2018/01/08/um-breve-estudo-sobre-outliers.html)

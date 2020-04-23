@@ -40,6 +40,8 @@ tags:
   - auto-ensino
   - self-taught engineer
 featured-img: words
+permalink: npl-com-spacy.html
+redirect_from: /pt-br/2017/11/30/brincando-de-nlp-com-spacy.html
 last_modified_at: 2017-03-09T14:25:52-05:00
 ---
 Essa semana eu descobri o [spaCy](https://spacy.io), uma bilbioteca Python para Processamento de Linguagem Natural (PLN) que me pareceu excelente. 

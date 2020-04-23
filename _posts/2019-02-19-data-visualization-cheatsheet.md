@@ -1,8 +1,9 @@
 ---
 layout: post
-title: "Data Visualization - My Cheat List"
+title: "Data Visualization - My Cheat Sheet"
 categories:
-  - cheatlist
+  - english
+  - cheatsheet
 tags:
   - en
   - python
@@ -13,7 +14,40 @@ tags:
   - matplotlib
   - seaborn
   - dataviz
+  - python
+  - community 
+  - pyladies
+  - technology
+  - tecnologia
+  - programador
+  - programadora
+  - developer
+  - mulheres na tecnologia
+  - woman in tech
+  - girls in tech
+  - computação
+  - ciência de computação
+  - software development
+  - software engineering
+  - engenharia de software
+  - desenvolvimento
+  - auto-ensino
+  - self-taught engineer
+  - code
+  - Django
+  - software
+  - career
+  - tech career
+  - open-source
+  - no cs degree
+  - cs
+  - computer science
+  - data science
+  - ciência de dados
+  - pizza de dados
 featured-img: dataviz
+permalink: cheatsheet-data-visualization.html
+redirect_from: /cheatlist/2019/02/19/data-visualization-cheatsheet.html
 last_modified_at: 2019-02-18T14:25:52-05:00
 ---
 

@@ -1,8 +1,9 @@
 ---
 layout: post
-title: "Machine Learning Models - My Cheat List"
+title: "Machine Learning Models - My Cheat Sheet"
 categories:
-  - cheatlist
+  - english
+  - cheatsheet
 tags:
   - en
   - data science
@@ -10,7 +11,40 @@ tags:
   - nanodegree
   - supervised models 
   - cheatlist
+  - cheatsheet
+  - aprendizado de máquina
+  - SKlearn
+  - python
+  - community 
+  - pyladies
+  - technology
+  - tecnologia
+  - programador
+  - programadora
+  - developer
+  - mulheres na tecnologia
+  - woman in tech
+  - girls in tech
+  - computação
+  - ciência de computação
+  - software development
+  - software engineering
+  - engenharia de software
+  - desenvolvimento
+  - auto-ensino
+  - self-taught engineer
+  - code
+  - Django
+  - software
+  - career
+  - tech career
+  - open-source
+  - no cs degree
+  - cs
+  - computer science
 featured-img: analytics
+permalink: cheatsheet-machine-learning.html
+redirect_from: /cheatlist/2018/05/20/models-cheat-list.html
 last_modified_at: 2018-05-01T14:25:52-05:00
 ---
 
@@ -30,7 +64,7 @@ last_modified_at: 2018-05-01T14:25:52-05:00
     - [Hierarchical Clustering](#hierarchical)
     - [DBSCAN](#dbscan)
 
-# Machine Learning Models Cheat List
+# Machine Learning Models Cheat Sheet
 
 <h2 id='supervised'>Supervised Models</h2>
 

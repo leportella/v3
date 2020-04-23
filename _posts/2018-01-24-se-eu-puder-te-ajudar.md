@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Se eu puder te ajudar a começar, aqui vão minhas dicas..."
+title: "Aprendendo a programar? Aqui vão minhas dicas!"
 categories:
   - pt-br
 tags:
@@ -8,7 +8,37 @@ tags:
   - python
   - data science
   - carreira 
+  - python
+  - community 
+  - pyladies
+  - technology
+  - tecnologia
+  - programador
+  - programadora
+  - developer
+  - mulheres na tecnologia
+  - woman in tech
+  - girls in tech
+  - computação
+  - ciência de computação
+  - software development
+  - software engineering
+  - engenharia de software
+  - desenvolvimento
+  - auto-ensino
+  - self-taught engineer
+  - code
+  - Django
+  - software
+  - career
+  - tech career
+  - open-source
+  - no cs degree
+  - cs
+  - computer science
 featured-img: plane
+permalink: dicas-iniciantes.html
+redirect_from: /pt-br/2018/01/24/se-eu-puder-te-ajudar.html
 last_modified_at: 2019-01-16T14:25:52-05:00
 ---
 

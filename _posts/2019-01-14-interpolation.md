@@ -22,22 +22,42 @@ tags:
   - missing data
   - data
   - datasets
+  - python
+  - community 
+  - pyladies
   - technology
   - tecnologia
   - programador
   - programadora
+  - developer
   - mulheres na tecnologia
   - woman in tech
   - girls in tech
   - computação
   - ciência de computação
   - software development
+  - software engineering
   - engenharia de software
   - desenvolvimento
   - auto-ensino
   - self-taught engineer
+  - code
+  - Django
+  - software
+  - career
+  - tech career
+  - open-source
+  - no cs degree
+  - cs
+  - computer science
 featured-img: interp
+permalink: missing-data.html
+redirect_from: /english/2019/01/14/interpolation.html
 last_modified_at: 2019-01-14T11:48:52-05:00
+---
+
+[🇧🇷 *Read in Portuguese*]({{base}}/dados-ausentes.html)
+
 ---
 
 ## AKA magics to plug holes in your dataset
