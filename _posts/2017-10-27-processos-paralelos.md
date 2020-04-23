@@ -42,6 +42,10 @@ redirect_from: /pt-br/2017/10/27/processos-paralelos.html
 last_modified_at: 2018-08-01T13:25:52-05:00
 ---
 
+[🇬🇧 *Leia em inglês*]({{base}}/parallel-processes-python.html)
+
+---
+
 Essa semana caí num caso em que eu tinha diversos scripts contendo análises que poderiam rodar em paralelo. Essas análises eram então usadas como base para uma outra análise, que devia rodar apenas depois de todas as outras acabarem. Algo parecido com isso:
 
 ![](https://i.imgur.com/jfX5XMZ.png)

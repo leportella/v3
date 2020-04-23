@@ -56,6 +56,10 @@ redirect_from: /english/2019/01/14/interpolation.html
 last_modified_at: 2019-01-14T11:48:52-05:00
 ---
 
+[🇧🇷 *Read in Portuguese*]({{base}}/dados-ausentes.html)
+
+---
+
 ## AKA magics to plug holes in your dataset
 
 <center><img src="https://media.giphy.com/media/MSd5euCFgqULK/giphy.gif" style="height:300px;"/></center>

@@ -39,6 +39,10 @@ redirect_from: /english/2016/03/16/from-oceanographer-to-programmer.html
 last_modified_at: 2017-03-09T14:25:52-05:00
 ---
 
+[🇧🇷 *Read in Portuguese*]({{base}}/de-oceanografa-para-programadora.html)
+
+---
+
 ![something](https://i.imgur.com/hy3paIE.jpg)
 
 This week I was asked to tell a little about how I became programmer (or at least, I’m in the process). I wrote this text to tell a little bit more about my story.

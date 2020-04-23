@@ -67,6 +67,10 @@ redirect_from: /pt-br/2020/02/26/mulheres-mediocres.html
 last_modified_at: 2020-02-27T18:25:52-05:00
 ---
 
+[🇬🇧 *Leia em inglês*]({{base}}/mediocre-women.html)
+
+---
+
 > **me•dí•o•cre**: adj. De grau ou qualidade moderada; sinônimo: médio
 
 Liste as três últimas mulheres engenheiras seniores com as quais trabalhou. Você consegue listá-las? Você consegue ao menos 3? Pode fazer um tempo desde essas interações, mas isso não importa. Pense nelas. Se elas têm alguns anos de experiência, há uma boa chance de que elas não fossem apenas boas engenheiras, mas engenheiras incríveis.

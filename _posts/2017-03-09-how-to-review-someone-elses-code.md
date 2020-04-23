@@ -50,6 +50,10 @@ redirect_from: /english/2017/03/09/how-to-review-someone-elses-code.html
 last_modified_at: 2017-03-09T14:25:52-05:00
 ---
 
+[🇧🇷 *Read in Portuguese*]({{base}}/revisar-codigo.html)
+
+---
+
 Code review is a complicated task and can become overwhelming, specially when you have no idea how to do it.
 However, code review can be a powerful tool to increase code quality and assure “healthy” deploys.
 

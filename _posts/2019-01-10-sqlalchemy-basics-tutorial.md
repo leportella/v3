@@ -53,8 +53,11 @@ redirect_from: /english/2019/01/10/sqlalchemy-basics-tutorial.html
 last_modified_at: 2019-01-10T21:55:52-05:00
 ---
 
+[🇧🇷 *Read in Portuguese*]({{base}}/tutorial-basico-sqlalchemy.html)
 
-[I've been working with Project Jupyter since December of last year](https://leportella.com/english/2018/12/12/outreachy-I.html) and it has been a wonderful experience. The last couple of days I struggled with the SQLAlchemy library that [JupyterHub](https://github.com/jupyterhub/jupyterhub) works on its internals. Since I studied this library and had to scratch some [Stack Overflow](http://stackoverflow.com/) questions to find some answers, I created this post to help digesting some of my doubts and findings.
+---
+
+[I've been working with Project Jupyter since December of last year]({{base}}/outreachy-I.html) and it has been a wonderful experience. The last couple of days I struggled with the SQLAlchemy library that [JupyterHub](https://github.com/jupyterhub/jupyterhub) works on its internals. Since I studied this library and had to scratch some [Stack Overflow](http://stackoverflow.com/) questions to find some answers, I created this post to help digesting some of my doubts and findings.
 
 Since this post became surprisingly long, I decided that the main problem I was having with SQLAlchemy should be in a separated post. So, keep tuned :)
 

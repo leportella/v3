@@ -58,6 +58,10 @@ redirect_from: /english/2017/04/19/ambicious-women.html
 last_modified_at: 2017-03-09T14:25:52-05:00
 ---
 
+[🇧🇷 *Read in Portuguese*]({{base}}/mulheres-ambiciosas.html)
+
+---
+
 The lovely Pyladies-Salvador asked for a text to debut their blog and told me that they would publish it on Women’s Day. I reflected a lot on what to write, what I could somehow add to that day that has so much meaning, and decided that I would like to talk to you about **ambition**. **How ambitious do you consider yourself**?
 
 ![](https://cdn-images-1.medium.com/max/600/1*UjX-X_DSnP4ARLbDVqIDyw.gif)

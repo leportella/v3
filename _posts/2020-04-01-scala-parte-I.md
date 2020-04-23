@@ -55,6 +55,10 @@ redirect_from: /pt-br/2020/04/01/scala-parte-I.html
 last_modified_at: 2020-04-01T18:25:52-05:00
 ---
 
+[🇬🇧 *Leia em inglês*]({{base}}/scala-I.html)
+
+---
+
 Eu decidi que eu precisava aprender uma nova linguagem e a linguagem que escolhi foi Scala. Eu adicionei como meta para 2020 eu, pelo menos, me sentir um pouco confortável com essa linguagem, então aqui estou. 
 
 Até agora, minha história com Scala tem sido... frustrante (para dizer o mínimo). Eu estava tentando aprender sozinha e sem muito alarde - porque é muito difícil - mas decidi escrever o que aprendi e o que foi difícil no processo. Isso pode ser útil para outra pessoa, mas principalmente isso é para mim. Eu utilizo artigos como esse para me ajudar a estudar e ajudar a sentir que estou evoluindo:

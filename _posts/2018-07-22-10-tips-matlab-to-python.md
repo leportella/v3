@@ -43,6 +43,10 @@ redirect_from: /english/2018/07/22/10-tips-matlab-to-python.html
 last_modified_at: 2018-07-27T14:25:52-05:00
 ---
 
+[🇧🇷 *Read in Portuguese*]({{base}}/matlab-para-python.html)
+
+---
+
 I started to study programming logic when I came across problems that required knowledge in Matlab. 
 After a while studying Matlab I was suggested to switch to Python for its ease, simplicity and for 
 being able to be applied to numerous areas (besides being free).

@@ -50,6 +50,10 @@ redirect_from: /pt-br/2018/12/27/o-que-fazer-quando-faltam-dados.html
 last_modified_at: 2019-01-02T11:10:52-05:00
 ---
 
+[🇬🇧 *Leia em inglês*]({{base}}/missing-data.html)
+
+---
+
 
 Podemos dividir, de forma bastante grosseira, qualquer tipo de dado em duas categorias: temporais e atemporais. Dados atemporais são bastante comuns nos datasets mais utilizados nos tutoriais de ciência de dados: as características dos sobreviventes do Titanic, os tamanhos de pétalas de flores ou as características de um tumor. Estes, podem ter dados temporais, como o momento em que o usuário tomou uma determinada atitude, mas o dado temporal é uma característica secundária, não sua essência.
 

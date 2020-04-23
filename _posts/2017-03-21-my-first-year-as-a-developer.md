@@ -38,6 +38,10 @@ redirect_from: /english/2017/03/21/my-first-year-as-a-developer.html
 featured-img: django_girls
 ---
 
+[🇧🇷 *Read in Portuguese*]({{base}}/primeiro-ano-dev.html)
+
+---
+
 One year ago I started my new job as a Backend Python Developer. I have dropped a career, a profession and I almost drop my master degree. When everything happened, I think I didn’t understand the proportions that decision would have in my life. Now, one year later, I want to tell you a little bit about what happened this year.
 
 ![](https://cdn-images-1.medium.com/max/800/1*Qiu_GZhqLl-U1YFbghTN2A.gif)

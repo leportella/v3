@@ -15,22 +15,34 @@ tags:
   - spark
   - San Francisco
   - Dublin
-  - Software engineer
-  - software engineering
-  - engenheira de software
-  - desenvolvedora
-  - mulheres que codam
-  - mulhers desenvolvedoras
+  - python
+  - community 
+  - pyladies
+  - technology
+  - tecnologia
+  - programador
   - programadora
-  - events
-  - payments
-  - development
-  - women in tech
+  - developer
+  - mulheres na tecnologia
   - woman in tech
-  - girls who code
+  - girls in tech
+  - computação
+  - ciência de computação
+  - software development
+  - software engineering
+  - engenharia de software
+  - desenvolvimento
+  - auto-ensino
+  - self-taught engineer
+  - code
+  - Django
+  - software
   - career
+  - tech career
+  - open-source
+  - no cs degree
+  - cs
   - computer science
-  - self-taugh engineer
   - self-learning
   - programmer
   - ruby
@@ -40,6 +52,10 @@ featured-img: scala
 permalink: scala-I.html
 redirect_from: /english/2020/03/08/scala-part-I.html
 last_modified_at: 2020-03-08T18:25:52-05:00
+---
+
+[🇧🇷 *Read in Portuguese*]({{base}}/scala-parte-I.html)
+
 ---
 
 I decided that I needed to learn a new language and the language I choose was Scala. I added as my goal for 2020 to at least feel a bit comfortable with this language, so here I am. 
@@ -176,4 +192,4 @@ a.+(b)
 
 ----------
 
-This is it for now 🙂 See you in [Part 2](https://leportella.com/english/2020/04/01/scala-part-II.html)! 
+This is it for now 🙂 See you in [Part 2]({{base}}/scala-II.html)!

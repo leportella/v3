@@ -59,6 +59,10 @@ redirect_from: /pt-br/2019/02/09/minha-experiencia-com-blogs.html
 last_modified_at: 2019-02-09T14:25:52-05:00
 ---
 
+[🇬🇧 *Leia em inglês*]({{base}}/my-experience-with-blogs.html)
+
+---
+
 Escrever é uma boa maneira de se desenvolver na carreira. Você consegue se aprofundar em conteúdos que está estudando, consegue gerar material para pessoas que podem estar precisando e é uma boa maneira de gerar visibilidade (pensando em empregos futuros). Uma vez que você decidiu começar um blog novo, vem uma dúvida: aonde postar esse conteúdo?
 
 O questionamento "devo fazer um site próprio ou usar o Medium" tem aparecido com mais frequência. É uma dúvida válida e, muitas vezes, respondida na base de opiniões simplistas. Essa semana respondi esse questionamento para uma pessoa que veio me perguntar no Telegram. Eu escrevi tantas coisas pra fundamentar minha opinião, que eu decidi escrever um texto para dizer como foi minha história com o Medium, as mudanças que eu passei e o que eu penso sobre tudo isso.
