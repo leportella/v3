@@ -52,10 +52,7 @@ featured-img: scala
 permalink: scala-I.html
 redirect_from: /english/2020/03/08/scala-part-I.html
 last_modified_at: 2020-03-08T18:25:52-05:00
----
-
-[🇧🇷 *Read in Portuguese*]({{base}}/scala-parte-I.html)
-
+translation: /scala-parte-I.html
 ---
 
 I decided that I needed to learn a new language and the language I choose was Scala. I added as my goal for 2020 to at least feel a bit comfortable with this language, so here I am. 

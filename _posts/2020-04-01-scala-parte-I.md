@@ -53,10 +53,7 @@ featured-img: scala
 permalink: scala-parte-I.html
 redirect_from: /pt-br/2020/04/01/scala-parte-I.html
 last_modified_at: 2020-04-01T18:25:52-05:00
----
-
-[🇬🇧 *Leia em inglês*]({{base}}/scala-I.html)
-
+translation: /scala-I.html
 ---
 
 Eu decidi que eu precisava aprender uma nova linguagem e a linguagem que escolhi foi Scala. Eu adicionei como meta para 2020 eu, pelo menos, me sentir um pouco confortável com essa linguagem, então aqui estou. 

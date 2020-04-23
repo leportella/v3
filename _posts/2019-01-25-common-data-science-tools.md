@@ -45,10 +45,7 @@ featured-img: tools
 permalink: most-common-data-science-tools.html
 redirect_from: /english/2019/01/25/common-data-science-tools.html
 last_modified_at: 2019-01-23T11:48:52-05:00
----
-
-[🇧🇷 *Read in Portuguese*]({{base}}/principais-ferramentas-ciencia-de-dados.html)
-
+translation: /principais-ferramentas-ciencia-de-dados.html
 ---
 
 When you start entering the data science world, things can become really messy. There are thousands of concepts and meanings, most of them thrown at you at the same time. Usually, most tutorials and texts focus on languages to be studied but this time I decided to bring something different. In this text, I brought some "simple" explanation for some of the most common tools used on data science development. Although sometimes the tools is attached necessarily, the idea is to explain more about the tools then what each language can do. This is not a text about how to open a spreadsheet and process data, but where data science tools live and which has the right things for you.

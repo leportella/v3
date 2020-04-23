@@ -53,10 +53,7 @@ featured-img: scala
 permalink: scala-II.html
 redirect_from: /english/2020/04/01/scala-part-II.html
 last_modified_at: 2020-04-01T18:25:52-05:00
----
-
-[🇧🇷 *Read in Portuguese*]({{base}}/scala-parte-II.html)
-
+translation: /scala-parte-II.html
 ---
 
 

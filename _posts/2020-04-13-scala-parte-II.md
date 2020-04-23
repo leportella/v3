@@ -53,10 +53,7 @@ featured-img: scala
 permalink: scala-parte-II.html
 redirect_from: /pt-br/2020/04/13/scala-parte-II.html
 last_modified_at: 2020-04-13T18:25:52-05:00
----
-
-[🇬🇧 *Leia em inglês*]({{base}}/scala-II.html)
-
+translation: /scala-II.html
 ---
 
 Esse artigo é a continuação do artigo [Minha saga aprendendo Scala - Parte 1](https://leportella.com/pt-br/2020/04/01/scala-parte-I.html). 

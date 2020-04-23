@@ -65,10 +65,7 @@ featured-img: where-women
 permalink: mulheres-mediocres.html
 redirect_from: /pt-br/2020/02/26/mulheres-mediocres.html
 last_modified_at: 2020-02-27T18:25:52-05:00
----
-
-[🇬🇧 *Leia em inglês*]({{base}}/mediocre-women.html)
-
+translation: /mediocre-women.html
 ---
 
 > **me•dí•o•cre**: adj. De grau ou qualidade moderada; sinônimo: médio

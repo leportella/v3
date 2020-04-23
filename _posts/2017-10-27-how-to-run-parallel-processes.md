@@ -39,10 +39,7 @@ featured-img: type-machine
 permalink: parallel-processes-python.html
 redirect_from: /english/2017/10/27/how-to-run-parallel-processes.html
 last_modified_at: 2017-03-09T14:25:52-05:00
----
-
-[🇧🇷 *Read in Portuguese*]({{base}}/processos-em-paralelo-python.html)
-
+translation: /processos-em-paralelo-python.html
 ---
 
 This week I ran into a case were I should run several scripts with analysis that could run simultaneously. The analysis results would then be used as basis for another analysis, that could only run after all other scripts ended. Something like this:

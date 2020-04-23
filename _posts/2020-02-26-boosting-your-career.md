@@ -61,10 +61,7 @@ featured-img: fast
 permalink: boosting-your-career.html
 redirect_from: /english/2020/02/26/boosting-your-career.html
 last_modified_at: 2020-02-26T18:25:52-05:00
----
-
-[🇧🇷 *Read in Portuguese*]({{base}}/impulsionando-sua-carreira.html)
-
+translation: /impulsionando-sua-carreira.html
 ---
 
 This month is my [4 year anniversary of my first job as a developer]({{base}}/from-oceanographer-to-programmer.html). During this time I've had multiple jobs (startups, big companies and open source projects) and changed countries and continents. I was able to learn a couple of things that helped me improve my career and I wanted to share them as a celebration of my anniversary and everything that came with this new life. 

@@ -39,10 +39,7 @@ featured-img: fast
 permalink: impulsionando-sua-carreira.html
 redirect_from: /pt-br/2020/02/27/impulsionando-sua-carreira-dev.html
 last_modified_at: 2020-02-27T18:25:52-05:00
----
-
-[🇬🇧 *Leia em inglês*]({{base}}/boosting-your-career.html)
-
+translation: /boosting-your-career.html
 ---
 
 Este mês é meu aniversário de [4 anos do meu primeiro emprego como desenvolvedora]({{base}}/de-oceanografa-para-programadora.html). Durante esse período, tive vários empregos (startups, grandes empresas e projetos de código aberto) e mudei de país e continente. Nesse meio tempo, pude aprender algumas coisas que me ajudaram a melhorar minha carreira e queria compartilhá-las como uma comemoração desse meu aniversário e tudo o que veio com essa nova vida.

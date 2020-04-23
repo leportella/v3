@@ -38,10 +38,7 @@ featured-img: bookcase
 permalink: tutorial-basico-sqlalchemy.html
 redirect_from: /pt-br/2020/03/13/sqlalchemy-basico-tutorial.html
 last_modified_at: 2019-01-10T21:55:52-05:00
----
-
-[🇬🇧 *Leia em inglês*]({{base}}/sqlalchemy-tutorial.html)
-
+translation: /sqlalchemy-tutorial.html
 ---
 
 

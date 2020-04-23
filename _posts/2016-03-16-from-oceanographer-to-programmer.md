@@ -37,10 +37,7 @@ featured-img: oceanographer
 permalink: from-oceanographer-to-programmer.html
 redirect_from: /english/2016/03/16/from-oceanographer-to-programmer.html
 last_modified_at: 2017-03-09T14:25:52-05:00
----
-
-[🇧🇷 *Read in Portuguese*]({{base}}/de-oceanografa-para-programadora.html)
-
+translation: /de-oceanografa-para-programadora.html
 ---
 
 ![something](https://i.imgur.com/hy3paIE.jpg)

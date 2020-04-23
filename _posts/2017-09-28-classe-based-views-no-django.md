@@ -45,10 +45,7 @@ featured-img: ccbv
 permalink: class-based-views-no-django.html
 redirect_from: /pt-br/2017/09/28/classe-based-views-no-django.html
 last_modified_at: 2017-03-09T14:25:52-05:00
----
-
-[🇬🇧 *Leia em inglês*]({{base}}/class-based-views-on-django.html)
-
+translation: /class-based-views-on-django.html
 ---
 
 
