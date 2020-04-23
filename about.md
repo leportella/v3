@@ -33,6 +33,6 @@ I am very much proud of it. So, if you ask me about it... I'll probably go on an
 
 It's been a crazy journey that I never saw coming! But now that's here, I am happy beyond I could ever imagine. 
 
-<center><img src="https://i.imgur.com/Cp4MKHg.jpg" style="height:300px;"/></center>
+<center><img src="{{ site.url }}{{ site.baseurl }}/assets/img/me.jpg" style="height:300px; border-radius: 50%"/></center>
 <center><i></i></center>
 <br/>
