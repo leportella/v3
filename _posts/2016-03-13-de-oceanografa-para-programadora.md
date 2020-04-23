@@ -4,25 +4,37 @@ title: "De oceanógrafa para programadora "
 categories:
   - pt-br
 tags:
-  - pt-br
-  - python 
-  - comunidade
+  - python
+  - community 
   - pyladies
   - technology
   - tecnologia
   - programador
   - programadora
+  - developer
   - mulheres na tecnologia
   - woman in tech
   - girls in tech
   - computação
   - ciência de computação
   - software development
+  - software engineering
   - engenharia de software
   - desenvolvimento
   - auto-ensino
   - self-taught engineer
+  - code
+  - Django
+  - software
+  - career
+  - tech career
+  - open-source
+  - no cs degree
+  - cs
+  - computer science
 featured-img: oceanographer
+permalink: de-oceanografa-para-programadora.html
+redirect_from: /pt-br/2016/03/13/de-oceanografa-para-programadora.html
 last_modified_at: 2017-03-09T14:25:52-05:00
 ---
 

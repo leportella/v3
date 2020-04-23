@@ -7,7 +7,37 @@ tags:
   - pt-br
   - carreira 
   - mulheres 
+  - python
+  - community 
+  - pyladies
+  - technology
+  - tecnologia
+  - programador
+  - programadora
+  - developer
+  - mulheres na tecnologia
+  - woman in tech
+  - girls in tech
+  - computação
+  - ciência de computação
+  - software development
+  - software engineering
+  - engenharia de software
+  - desenvolvimento
+  - auto-ensino
+  - self-taught engineer
+  - code
+  - Django
+  - software
+  - career
+  - tech career
+  - open-source
+  - no cs degree
+  - cs
+  - computer science
 featured-img: women-tech
+permalink: generos-e-prioridades.html
+redirect_from: /pt-br/2018/03/15/mulheres-ti-carreira-prioridades.html
 last_modified_at: 2017-03-09T14:25:52-05:00
 ---
 

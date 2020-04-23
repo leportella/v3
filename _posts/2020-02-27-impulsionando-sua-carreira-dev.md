@@ -36,6 +36,8 @@ tags:
   - scala
   - python
 featured-img: fast
+permalink: impulsionando-sua-carreira.html
+redirect_from: /pt-br/2020/02/27/impulsionando-sua-carreira-dev.html
 last_modified_at: 2020-02-27T18:25:52-05:00
 ---
 

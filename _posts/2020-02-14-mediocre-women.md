@@ -31,7 +31,36 @@ tags:
   - ruby
   - scala
   - python
+  - community 
+  - pyladies
+  - technology
+  - tecnologia
+  - programador
+  - programadora
+  - developer
+  - mulheres na tecnologia
+  - woman in tech
+  - girls in tech
+  - computação
+  - ciência de computação
+  - software development
+  - software engineering
+  - engenharia de software
+  - desenvolvimento
+  - auto-ensino
+  - self-taught engineer
+  - code
+  - Django
+  - software
+  - career
+  - tech career
+  - open-source
+  - no cs degree
+  - cs
+  - computer science
 featured-img: where-women
+permalink: mediocre-women.html
+redirect_from: /english/2020/02/14/mediocre-women.html
 last_modified_at: 2020-02-14T18:25:52-05:00
 ---
 

@@ -37,7 +37,37 @@ tags:
   - python
   - django
   - class based views
+  - python
+  - community 
+  - pyladies
+  - technology
+  - tecnologia
+  - programador
+  - programadora
+  - developer
+  - mulheres na tecnologia
+  - woman in tech
+  - girls in tech
+  - computação
+  - ciência de computação
+  - software development
+  - software engineering
+  - engenharia de software
+  - desenvolvimento
+  - auto-ensino
+  - self-taught engineer
+  - code
+  - Django
+  - software
+  - career
+  - tech career
+  - open-source
+  - no cs degree
+  - cs
+  - computer science
 featured-img: pybr12
+permalink: palestra-caipyra.html
+redirect_from: /pt-br/talks/2016/05/05/programacao-alem-do-codigo.html
 last_modified_at: 2020-02-14T18:25:52-05:00
 ---
 

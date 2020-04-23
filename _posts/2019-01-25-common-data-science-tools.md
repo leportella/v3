@@ -37,7 +37,13 @@ tags:
   - desenvolvimento
   - auto-ensino
   - self-taught engineer
+  - data science
+  - ciência de dados
+  - pizza de dados
+  - podcast
 featured-img: tools
+permalink: most-common-data-science-tools.html
+redirect_from: /english/2019/01/25/common-data-science-tools.html
 last_modified_at: 2019-01-23T11:48:52-05:00
 ---
 

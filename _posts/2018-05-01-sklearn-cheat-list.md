@@ -1,14 +1,45 @@
 ---
 layout: post
-title: "Sklearn - My Cheat List"
+title: "Sklearn - My Cheat Sheet"
 categories:
-  - cheatlist
+  - english
+  - cheatsheet
 tags:
   - en
   - python
   - sklearn 
   - cheatlist
+  - python
+  - community 
+  - pyladies
+  - technology
+  - tecnologia
+  - programador
+  - programadora
+  - developer
+  - mulheres na tecnologia
+  - woman in tech
+  - girls in tech
+  - computação
+  - ciência de computação
+  - software development
+  - software engineering
+  - engenharia de software
+  - desenvolvimento
+  - auto-ensino
+  - self-taught engineer
+  - code
+  - Django
+  - software
+  - career
+  - tech career
+  - open-source
+  - no cs degree
+  - cs
+  - computer science
 featured-img: calculator
+permalink: cheatsheet-sklearn.html
+redirect_from: /cheatlist/2018/05/01/sklearn-cheat-list.html
 last_modified_at: 2018-05-01T14:25:52-05:00
 ---
 

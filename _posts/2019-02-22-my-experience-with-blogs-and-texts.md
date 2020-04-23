@@ -11,22 +11,37 @@ tags:
   - blog posts
   - carreer
   - personal website
-  - tecnology
+  - python
+  - community 
+  - pyladies
   - technology
   - tecnologia
   - programador
   - programadora
+  - developer
   - mulheres na tecnologia
   - woman in tech
   - girls in tech
   - computação
   - ciência de computação
   - software development
+  - software engineering
   - engenharia de software
   - desenvolvimento
   - auto-ensino
   - self-taught engineer
+  - code
+  - Django
+  - software
+  - career
+  - tech career
+  - open-source
+  - no cs degree
+  - cs
+  - computer science
 featured-img: blog
+permalink: my-experience-with-blogs.html
+redirect_from: /english/2019/02/22/my-experience-with-blogs-and-texts.html
 last_modified_at: 2019-02-22T14:25:52-05:00
 ---
 

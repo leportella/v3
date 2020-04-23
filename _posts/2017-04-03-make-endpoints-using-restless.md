@@ -32,6 +32,8 @@ tags:
   - auto-ensino
   - self-taught engineer
 featured-img: rest
+permalink: restless.html
+redirect_from: /english/2017/04/03/make-endpoints-using-restless.html
 last_modified_at: 2017-03-09T14:25:52-05:00
 ---
 

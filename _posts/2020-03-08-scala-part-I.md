@@ -37,6 +37,8 @@ tags:
   - scala
   - python
 featured-img: scala
+permalink: scala-I.html
+redirect_from: /english/2020/03/08/scala-part-I.html
 last_modified_at: 2020-03-08T18:25:52-05:00
 ---
 

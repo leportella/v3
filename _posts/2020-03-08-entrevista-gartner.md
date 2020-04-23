@@ -35,6 +35,8 @@ tags:
   - scala
   - python
 featured-img: capterra
+permalink: entrevista-capterra.html
+redirect_from: /pt-br/2020/03/08/entrevista-gartner.html
 last_modified_at: 2020-03-08T18:25:52-05:00
 ---
 

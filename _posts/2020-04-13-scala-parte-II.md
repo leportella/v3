@@ -5,6 +5,7 @@ categories:
   - pt-br
 tags:
   - pt-br
+  - english
   - tecnologia
   - Scala
   - Programming Language
@@ -15,28 +16,42 @@ tags:
   - spark
   - San Francisco
   - Dublin
-  - Software engineer
-  - software engineering
-  - engenheira de software
-  - desenvolvedora
-  - mulheres que codam
-  - mulhers desenvolvedoras
+  - python
+  - community 
+  - pyladies
+  - technology
+  - tecnologia
+  - programador
   - programadora
-  - events
-  - payments
-  - development
-  - women in tech
+  - developer
+  - mulheres na tecnologia
   - woman in tech
-  - girls who code
+  - girls in tech
+  - computação
+  - ciência de computação
+  - software development
+  - software engineering
+  - engenharia de software
+  - desenvolvimento
+  - auto-ensino
+  - self-taught engineer
+  - code
+  - Django
+  - software
   - career
+  - tech career
+  - open-source
+  - no cs degree
+  - cs
   - computer science
-  - self-taugh engineer
   - self-learning
   - programmer
   - ruby
   - scala
   - python
 featured-img: scala
+permalink: scala-parte-II.html
+redirect_from: /pt-br/2020/04/13/scala-parte-II.html
 last_modified_at: 2020-04-13T18:25:52-05:00
 ---
 

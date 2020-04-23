@@ -8,7 +8,45 @@ tags:
   - python
   - tests 
   - code-review 
+  - writting code
+  - software
+  - pull requests
+  - github
+  - git
+  - test
+  - unittest
+  - Django
+  - python
+  - community 
+  - pyladies
+  - technology
+  - tecnologia
+  - programador
+  - programadora
+  - developer
+  - mulheres na tecnologia
+  - woman in tech
+  - girls in tech
+  - computação
+  - ciência de computação
+  - software development
+  - software engineering
+  - engenharia de software
+  - desenvolvimento
+  - auto-ensino
+  - self-taught engineer
+  - code
+  - Django
+  - software
+  - career
+  - tech career
+  - open-source
+  - no cs degree
+  - cs
+  - computer science
 featured-img: feedback
+permalink: review-code.html
+redirect_from: /english/2017/03/09/how-to-review-someone-elses-code.html
 last_modified_at: 2017-03-09T14:25:52-05:00
 ---
 

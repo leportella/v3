@@ -33,6 +33,8 @@ tags:
   - auto-ensino
   - self-taught engineer
 last_modified_at: 2017-03-09T14:25:52-05:00
+permalink: first-year-as-dev.html 
+redirect_from: /english/2017/03/21/my-first-year-as-a-developer.html
 featured-img: django_girls
 ---
 
