@@ -5,6 +5,7 @@ categories:
   - english
 tags:
   - english
+  - english
   - tecnologia
   - Scala
   - Programming Language
@@ -15,33 +16,48 @@ tags:
   - spark
   - San Francisco
   - Dublin
-  - Software engineer
-  - software engineering
-  - engenheira de software
-  - desenvolvedora
-  - mulheres que codam
-  - mulhers desenvolvedoras
+  - python
+  - community 
+  - pyladies
+  - technology
+  - tecnologia
+  - programador
   - programadora
-  - events
-  - payments
-  - development
-  - women in tech
+  - developer
+  - mulheres na tecnologia
   - woman in tech
-  - girls who code
+  - girls in tech
+  - computação
+  - ciência de computação
+  - software development
+  - software engineering
+  - engenharia de software
+  - desenvolvimento
+  - auto-ensino
+  - self-taught engineer
+  - code
+  - Django
+  - software
   - career
+  - tech career
+  - open-source
+  - no cs degree
+  - cs
   - computer science
-  - self-taugh engineer
   - self-learning
   - programmer
   - ruby
   - scala
   - python
 featured-img: scala
+permalink: scala-II.html
+redirect_from: /english/2020/04/01/scala-part-II.html
 last_modified_at: 2020-04-01T18:25:52-05:00
+translation: /scala-parte-II.html
 ---
 
 
-Continuation of [My Saga learning Scala - Part 1](https://leportella.com/english/2020/03/08/scala-part-I.html). 
+Continuation of [My Saga learning Scala - Part 1]({{base}}/english/2020/03/08/scala-part-I.html). 
 
 On the last post I talked about somethings I've learned on Scala. Although [my tweet about this post](https://twitter.com/leleportella/status/1237322864514281472) generated some comments about the language (both good and bad) I am still decided to [at least finish the course I started doing](https://www.udemy.com/course/rock-the-jvm-scala-for-beginners/). So far the feeling is that I am starting to understand some things and starting to be more comfortable, although I am very far away from the magic stuff that scares me.
 

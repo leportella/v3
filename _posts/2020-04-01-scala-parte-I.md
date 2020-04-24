@@ -5,41 +5,55 @@ categories:
   - pt-br
 tags:
   - pt-br
+  - english
   - tecnologia
   - Scala
   - Programming Language
   - programming language
-  - functional programming
-  - programação funcional
   - java
   - jvm
   - java virtual machine
   - spark
   - San Francisco
   - Dublin
-  - Software engineer
-  - software engineering
-  - engenheira de software
-  - desenvolvedora
-  - mulheres que codam
-  - mulhers desenvolvedoras
+  - python
+  - community 
+  - pyladies
+  - technology
+  - tecnologia
+  - programador
   - programadora
-  - events
-  - payments
-  - development
-  - women in tech
+  - developer
+  - mulheres na tecnologia
   - woman in tech
-  - girls who code
+  - girls in tech
+  - computação
+  - ciência de computação
+  - software development
+  - software engineering
+  - engenharia de software
+  - desenvolvimento
+  - auto-ensino
+  - self-taught engineer
+  - code
+  - Django
+  - software
   - career
+  - tech career
+  - open-source
+  - no cs degree
+  - cs
   - computer science
-  - self-taugh engineer
   - self-learning
   - programmer
   - ruby
   - scala
   - python
 featured-img: scala
+permalink: scala-parte-I.html
+redirect_from: /pt-br/2020/04/01/scala-parte-I.html
 last_modified_at: 2020-04-01T18:25:52-05:00
+translation: /scala-I.html
 ---
 
 Eu decidi que eu precisava aprender uma nova linguagem e a linguagem que escolhi foi Scala. Eu adicionei como meta para 2020 eu, pelo menos, me sentir um pouco confortável com essa linguagem, então aqui estou. 

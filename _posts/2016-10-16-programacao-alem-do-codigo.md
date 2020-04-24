@@ -14,12 +14,34 @@ tags:
   - Stripe
   - San Francisco
   - Dublin
-  - Software engineer
+  - python
+  - community 
+  - pyladies
+  - technology
+  - tecnologia
+  - programador
+  - programadora
+  - developer
+  - mulheres na tecnologia
+  - woman in tech
+  - girls in tech
+  - computação
+  - ciência de computação
+  - software development
   - software engineering
-  - engenheira de software
-  - desenvolvedora
-  - mulheres que codam
-  - mulhers desenvolvedoras
+  - engenharia de software
+  - desenvolvimento
+  - auto-ensino
+  - self-taught engineer
+  - code
+  - Django
+  - software
+  - career
+  - tech career
+  - open-source
+  - no cs degree
+  - cs
+  - computer science
   - programadora
   - events
   - payments
@@ -38,6 +60,8 @@ tags:
   - django
   - class based views
 featured-img: pybr12
+permalink: palestra-pybr12.html
+redirect_from: /pt-br/talks/2016/10/16/programacao-alem-do-codigo.html
 last_modified_at: 2020-02-14T18:25:52-05:00
 ---
 

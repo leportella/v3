@@ -24,8 +24,39 @@ tags:
   - sorority
   - ambicious women
   - feminism
+  - python
+  - community 
+  - pyladies
+  - technology
+  - tecnologia
+  - programador
+  - programadora
+  - developer
+  - mulheres na tecnologia
+  - woman in tech
+  - girls in tech
+  - computação
+  - ciência de computação
+  - software development
+  - software engineering
+  - engenharia de software
+  - desenvolvimento
+  - auto-ensino
+  - self-taught engineer
+  - code
+  - Django
+  - software
+  - career
+  - tech career
+  - open-source
+  - no cs degree
+  - cs
+  - computer science
 featured-img: woman-tech
+permalink: ambicious-women.html
+redirect_from: /english/2017/04/19/ambicious-women.html
 last_modified_at: 2017-03-09T14:25:52-05:00
+translation: /mulheres-ambiciosas.html
 ---
 
 The lovely Pyladies-Salvador asked for a text to debut their blog and told me that they would publish it on Women’s Day. I reflected a lot on what to write, what I could somehow add to that day that has so much meaning, and decided that I would like to talk to you about **ambition**. **How ambitious do you consider yourself**?

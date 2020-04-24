@@ -15,22 +15,39 @@ tags:
   - sql
   - nosql
   - mongoDB
+  - python
+  - community 
+  - pyladies
   - technology
   - tecnologia
   - programador
   - programadora
+  - developer
   - mulheres na tecnologia
   - woman in tech
   - girls in tech
   - computação
   - ciência de computação
   - software development
+  - software engineering
   - engenharia de software
   - desenvolvimento
   - auto-ensino
   - self-taught engineer
+  - code
+  - Django
+  - software
+  - career
+  - tech career
+  - open-source
+  - no cs degree
+  - cs
+  - computer science
 featured-img: database
+permalink: mongoengine.html
+redirect_from: /english/2018/08/23/mongo-db-python-and-mongoengine.html
 last_modified_at: 2017-03-09T14:25:52-05:00
+translation: /pt-mongoengine.html
 ---
 
 I started working with MongoDB for fun and for some side projects in the last year. The main idea of using MongoDB is its flexibility. The [pymongo](https://api.mongodb.com/python/current/) library is really nice for getting some information, 

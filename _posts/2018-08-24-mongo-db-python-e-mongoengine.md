@@ -30,7 +30,10 @@ tags:
   - auto-ensino
   - self-taught engineer
 featured-img: database
+permalink: pt-mongoengine.html
+redirect_from: /pt-br/2018/08/24/mongo-db-python-e-mongoengine.html
 last_modified_at: 2018-08-24T15:41:52-05:00
+translation: /mongoengine.html
 ---
 
 No último ano eu comecei a trabalhar com MongoDB por diversão e fiz alguns projetos paralelos com esse banco de dados que 

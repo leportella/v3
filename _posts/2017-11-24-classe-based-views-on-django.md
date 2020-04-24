@@ -7,7 +7,44 @@ tags:
   - en 
   - python 
   - intermediate
+  - python
+  - community 
+  - pyladies
+  - technology
+  - tecnologia
+  - programador
+  - programadora
+  - developer
+  - mulheres na tecnologia
+  - woman in tech
+  - girls in tech
+  - computação
+  - ciência de computação
+  - software development
+  - software engineering
+  - engenharia de software
+  - desenvolvimento
+  - auto-ensino
+  - self-taught engineer
+  - code
+  - Django
+  - software
+  - career
+  - tech career
+  - open-source
+  - no cs degree
+  - cs
+  - computer science
+  - URL
+  - CCBV
+  - Class Based Views
+  - ORM
+  - framework
+featured-img: ccbv
+permalink: class-based-views-on-django.html
+redirect_from: /english/2017/11/24/classe-based-views-on-django.html
 last_modified_at: 2017-03-09T14:25:52-05:00
+translation: /class-based-views-no-django.html
 ---
 
 This post could also be called **what comes after the tutorials** :)

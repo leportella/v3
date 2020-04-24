@@ -7,8 +7,53 @@ tags:
   - en 
   - python
   - Django 
+  - generic relations
+  - MRV
+  - Class based views
+  - software
+  - developer
+  - women in tech
+  - foreign key
+  - framework
+  - python
+  - community 
+  - pyladies
+  - technology
+  - tecnologia
+  - programador
+  - programadora
+  - developer
+  - mulheres na tecnologia
+  - woman in tech
+  - girls in tech
+  - computação
+  - ciência de computação
+  - software development
+  - software engineering
+  - engenharia de software
+  - desenvolvimento
+  - auto-ensino
+  - self-taught engineer
+  - code
+  - Django
+  - software
+  - career
+  - tech career
+  - open-source
+  - no cs degree
+  - cs
+  - computer science
+  - CCBV
+  - relações genericas
+  - generic relation
+  - database
+  - ORM
+  - foreing key
 featured-img: comments
+permalink: generic-relations-django.html
+redirect_from: /english/2017/03/14/generic-relations.html
 last_modified_at: 2017-03-09T14:25:52-05:00
+translation: /relacoes-genericas-django.html
 ---
 
 As I talked to some people, few new about Django’s Generic Relation and Generic Foreign Key. And when I was studying it to apply on our system, I realised that the documentation can be kind of tricky and sparse. Nevertheless, Generic Relations helped us a lot, and so I decided to write about it in this blog post :)

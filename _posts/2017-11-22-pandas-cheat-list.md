@@ -2,13 +2,46 @@
 layout: post
 title: "Pandas - My Cheatsheet"
 categories:
-  - cheatlist
+  - english
+  - cheatsheet
 tags:
   - en
   - python
   - pandas 
   - cheatlist
+  - python
+  - community 
+  - pyladies
+  - technology
+  - tecnologia
+  - programador
+  - programadora
+  - developer
+  - mulheres na tecnologia
+  - woman in tech
+  - girls in tech
+  - computação
+  - ciência de computação
+  - software development
+  - software engineering
+  - engenharia de software
+  - desenvolvimento
+  - auto-ensino
+  - self-taught engineer
+  - code
+  - Django
+  - software
+  - career
+  - tech career
+  - open-source
+  - no cs degree
+  - cs
+  - computer science
+  - data science
+  - ciência de dados
 featured-img: panda
+permalink: cheatsheet-pandas.html
+redirect_from: /cheatlist/2017/11/22/pandas-cheat-list.html
 last_modified_at: 2018-05-01T14:25:52-05:00
 ---
 

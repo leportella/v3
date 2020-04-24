@@ -6,24 +6,46 @@ categories:
 tags:
   - pt-br
   - python
-  - Django 
+  - community 
+  - pyladies
   - technology
   - tecnologia
   - programador
   - programadora
+  - developer
   - mulheres na tecnologia
   - woman in tech
   - girls in tech
   - computação
   - ciência de computação
   - software development
+  - software engineering
   - engenharia de software
   - desenvolvimento
   - auto-ensino
   - self-taught engineer
+  - code
+  - Django
+  - software
+  - career
+  - tech career
+  - open-source
+  - no cs degree
+  - cs
+  - computer science
+  - CCBV
+  - relações genericas
+  - generic relation
+  - database
+  - ORM
+  - foreing key
 featured-img: comments
+permalink: relacoes-genericas-django.html
+redirect_from: /pt-br/2016/12/29/relacoes-genericas-do-django.html
 last_modified_at: 2017-03-09T14:25:52-05:00
+translation: /generic-relations-django.html
 ---
+
 
 Conversando com algumas pessoas, percebi que poucas conheciam sobre as Relações Genéricas (*Generic Relation*) e Chave Estrangeira Genérica (*Generic Foreign Key*) no Django. Estudando para aplicár esses métodos no nossos sitema foi possível perceber que a documentação pode ser difícil e esparsa — para não falar confusa. Entretanto, relações genéricas nos ajudou muito, então decidi escrever sobre aqui neste blog post :)
 

@@ -15,21 +15,37 @@ tags:
   - entrevistas
   - eventos
   - events
+  - python
+  - community 
+  - pyladies
   - technology
   - tecnologia
   - programador
   - programadora
+  - developer
   - mulheres na tecnologia
   - woman in tech
   - girls in tech
   - computação
   - ciência de computação
   - software development
+  - software engineering
   - engenharia de software
   - desenvolvimento
   - auto-ensino
   - self-taught engineer
+  - code
+  - Django
+  - software
+  - career
+  - tech career
+  - open-source
+  - no cs degree
+  - cs
+  - computer scienceß
 featured-img: keyboard
+permalink: material-computacao.html
+redirect_from: /pt-br/2019/06/18/o-que-encontrei-de-melhor-pra-estudar-computacao.html
 last_modified_at: 2019-06-18T18:25:52-05:00
 ---
 

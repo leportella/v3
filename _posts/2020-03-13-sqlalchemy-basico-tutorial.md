@@ -7,6 +7,9 @@ tags:
   - pt-br
   - python
   - machine learning
+  - data science
+  - ciência de dados
+  - pizza de dados
   - database
   - postgres
   - sql databases
@@ -32,11 +35,14 @@ tags:
   - auto-ensino
   - self-taught engineer
 featured-img: bookcase 
+permalink: tutorial-basico-sqlalchemy.html
+redirect_from: /pt-br/2020/03/13/sqlalchemy-basico-tutorial.html
 last_modified_at: 2019-01-10T21:55:52-05:00
+translation: /sqlalchemy-tutorial.html
 ---
 
 
-[Eu trabalhei com o Projeto Jupyter de dezembro/2018 até março/2019](https://leportella.com/english/2018/12/12/outreachy-I.html) como parte de um estágio no programa [Outreachy](https://www.outreachy.org/). Foi uma experiência maravilhosa e super recomendo! Durante o meu estágio, eu lutei com a biblioteca [SQLAlchemy](https://www.sqlalchemy.org/) que o [JupyterHub](https://github.com/jupyterhub/jupyterhub) utiliza internamente. Como estudei essa biblioteca e tive que fazer algumas buscas no [Stack Overflow](http://stackoverflow.com/) pra entender várias coisas, decidi criar este post para ajudar a digerir algumas das minhas dúvidas e descobertas.
+[Eu trabalhei com o Projeto Jupyter de dezembro/2018 até março/2019]({{base}}/outreachy-I.html) como parte de um estágio no programa [Outreachy](https://www.outreachy.org/). Foi uma experiência maravilhosa e super recomendo! Durante o meu estágio, eu lutei com a biblioteca [SQLAlchemy](https://www.sqlalchemy.org/) que o [JupyterHub](https://github.com/jupyterhub/jupyterhub) utiliza internamente. Como estudei essa biblioteca e tive que fazer algumas buscas no [Stack Overflow](http://stackoverflow.com/) pra entender várias coisas, decidi criar este post para ajudar a digerir algumas das minhas dúvidas e descobertas.
 
 Todo o código está disponível [neste repositório](https://github.com/leportella/sqlalchemy-basics-post/).
 

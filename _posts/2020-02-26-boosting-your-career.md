@@ -30,11 +30,41 @@ tags:
   - ruby
   - scala
   - python
+  - community 
+  - pyladies
+  - technology
+  - tecnologia
+  - programador
+  - programadora
+  - developer
+  - mulheres na tecnologia
+  - woman in tech
+  - girls in tech
+  - computação
+  - ciência de computação
+  - software development
+  - software engineering
+  - engenharia de software
+  - desenvolvimento
+  - auto-ensino
+  - self-taught engineer
+  - code
+  - Django
+  - software
+  - career
+  - tech career
+  - open-source
+  - no cs degree
+  - cs
+  - computer science
 featured-img: fast
+permalink: boosting-your-career.html
+redirect_from: /english/2020/02/26/boosting-your-career.html
 last_modified_at: 2020-02-26T18:25:52-05:00
+translation: /impulsionando-sua-carreira.html
 ---
 
-This month is my [4 year anniversary of my first job as a developer](https://leportella.com/english/2016/03/16/from-oceanographer-to-programmer.html). During this time I've had multiple jobs (startups, big companies and open source projects) and changed countries and continents. I was able to learn a couple of things that helped me improve my career and I wanted to share them as a celebration of my anniversary and everything that came with this new life. 
+This month is my [4 year anniversary of my first job as a developer]({{base}}/from-oceanographer-to-programmer.html). During this time I've had multiple jobs (startups, big companies and open source projects) and changed countries and continents. I was able to learn a couple of things that helped me improve my career and I wanted to share them as a celebration of my anniversary and everything that came with this new life. 
 
 Some of these can be quite obvious to some people, but time and time again I talk to people and find some usage for some of the most "obvious” tips. It is also missing a lot of stuff. It was already too long as it, but I wanted to share it anyway! So here is my celebration post to my 4st anniversary as a software developer! 🙂 
 
