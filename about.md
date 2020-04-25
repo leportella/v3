@@ -29,7 +29,7 @@ I am crazy about books and, in particular, the Chronicles of Ice and Fire and al
 In 2017, I started a brazilian podcast specifically for data science called [Pizza de Dados](http://pizzadedados.com), 
 which is a joke with Pizza and the brazilian word for data (and dice!). Pizza de Dados
 is the first and biggest podcast of data science in Brazil and has an important role on bringing quality content in portuguese. 
-I am very much proud of it. So, if you ask me about it... I'll probably go on and on about my baby <3.
+I am very proud of it. So, if you ask me about it... I'll probably go on and on about my baby <3.
 
 It's been a crazy journey that I never saw coming! But now that's here, I am happy beyond I could ever imagine. 
 
