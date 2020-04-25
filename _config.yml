@@ -2,8 +2,7 @@
 title: Leticia Portella # your site title
 author: leportella # You :P
 description: > # Meta description of Homepage
-    This a blog from an oceanographer who became passionare about programming.
-    I'm a dev, in love with data science that loves to write technical posts
+    I'm a happy dev, in love with data science that loves to write technical posts
     about what tech, career and life
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://leportella.com"
