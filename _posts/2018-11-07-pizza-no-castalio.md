@@ -37,7 +37,7 @@ tags:
   - scala
   - python
   - django
-featured-img: 
+featured-img: castalio
 permalink: pizza-no-castalio.html
 redirect_from: /pt-br/talks/2018/11/07/pizza-no-castalio.html
 last_modified_at: 2020-02-17T18:25:52-05:00
