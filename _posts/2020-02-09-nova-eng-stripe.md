@@ -55,9 +55,7 @@ tags:
   - career
   - tech career
   - open-source
-  - no cs degree
-  - cs
-  - computer sciencefeatured-img: stripe
+  - computer science
 permalink: nova-eng-stripe.html
 redirect_from: /pt-br/2020/02/09/nova-eng-stripe.html
 last_modified_at: 2020-02-09T18:25:52-05:00

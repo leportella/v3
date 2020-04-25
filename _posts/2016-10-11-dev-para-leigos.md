@@ -38,6 +38,7 @@ tags:
 featured-img: apple
 permalink: dev-para-leigos.html
 redirect_from: /pt-br/2016/10/11/dev-para-leigos.html
+translation: /dev-for-dummies.html
 last_modified_at: 2017-03-09T14:25:52-05:00
 ---
 

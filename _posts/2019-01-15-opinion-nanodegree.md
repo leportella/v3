@@ -45,6 +45,7 @@ tags:
 featured-img: auditorium
 permalink: machine-learning-nanodegree.html
 redirect_from: /english/2019/01/15/opinion-nanodegree.html
+translation: /pt-machine-learning-nanodegree.html
 last_modified_at: 2019-01-15T11:48:52-05:00
 ---
 

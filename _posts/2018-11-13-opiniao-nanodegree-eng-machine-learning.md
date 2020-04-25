@@ -43,6 +43,7 @@ featured-img: adult_books
 permalink: pt-machine-learning-nanodegree.html
 redirect_from: /pt-br/2018/11/13/opiniao-nanodegree-eng-machine-learning.html
 last_modified_at: 2019-01-03T18:25:52-05:00
+translation: /machine-learning-nanodegree.html
 ---
 
 Em Abril de 2018 eu comecei o [Nanodegree de Engenheiro(a) de Machine Learning](https://medium.com/pizzadedados/opini%C3%A3o-nanodegree-de-eng-de-machine-learning-34e67cb85b33) pela Udacity. O curso não é barato e muitas pessoas me perguntaram a mesma coisa: vale a pena?

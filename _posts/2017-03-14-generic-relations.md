@@ -41,14 +41,13 @@ tags:
   - tech career
   - open-source
   - no cs degree
-  - cs
   - computer science
   - CCBV
   - relações genericas
   - generic relation
   - database
   - ORM
-  - foreing key
+  - foreign key
 featured-img: comments
 permalink: generic-relations-django.html
 redirect_from: /english/2017/03/14/generic-relations.html

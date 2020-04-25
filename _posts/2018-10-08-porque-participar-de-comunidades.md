@@ -12,6 +12,7 @@ tags:
   - patrocinio
 featured-img: community
 permalink: comunidades-tecnologia.html
+translation: /why-you-should-be-in-communities.html
 redirect_from: /pt-br/2018/10/08/porque-participar-de-comunidades.html
 last_modified_at: 2018-10-08T18:25:52-05:00
 ---

@@ -40,6 +40,7 @@ tags:
   - computer science
 featured-img: community
 permalink: why-you-should-be-in-communities.html
+translation: /comunidades-tecnologia.html
 redirect_from: /english/2019/03/22/why-you-should-be-in-the-community.html
 last_modified_at: 2019-03-21T18:25:52-05:00
 ---

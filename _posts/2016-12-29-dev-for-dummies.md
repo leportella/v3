@@ -39,6 +39,7 @@ tags:
 featured-img: apple
 permalink: dev-for-dummies.html
 redirect_from: /english/2016/12/29/dev-for-dummies.html
+translation: /dev-para-leigos.html
 last_modified_at: 2017-03-09T14:25:52-05:00
 ---
 
