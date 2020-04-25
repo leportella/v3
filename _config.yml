@@ -23,6 +23,7 @@ navigation: # Navigation links
   - {name: 'Contact', link: '/contact'}
   - {name: 'Talks', link: '/talks'}
   - {name: '🇧🇷 Posts', link: '/pt-br'}
+  - {name: 'Cheatsheets', link: '/cheatsheet'}
 
 tagline: >
     random thoughts about life, tech and career
