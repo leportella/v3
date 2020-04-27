@@ -54,8 +54,8 @@ In December, my dear friend Mario showed me the form and insisted that I tried t
 
 The conference is divided in three sections: 2 days of tutorials (were you actually have long 3–4 hour courses), 3 days of the main event (talks and keynotes) and 4 days of sprints (contribution to open source projects that need a hand).
 
-<center><img src="https://i.imgur.com/GZfHzh8.jpg" style="height:400px"/></center>
-<center><i>My badge</i></center>
+<center><img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/pycon_badge.jpg" style="height:400px"/></center>
+<center><i>My badge</i></center> 
 <br/>
 
 On my first day (second tutorial day) I got to the Oregon Convention Center extremely early. I simply couldn’t sleep! So excited! But I got there and surprise!… no one was there. It was freaking 7:30 in the morning! The conference was starting at 9, so I took a coffee and sat down on a table. My excitement was growing smaller. I look to my left and this guy is also sitting by himself, but he didn’t make eye contact. So, I remained there, thinking what the hell I was doing there. In the mean time I was thinking that, this awesome girl (later I discovered she a very important person in the community) came to me very enthusiastically and said: “This seems to be your first Pycon, am I right?”. After I said yes she turned to the guy and said: “Yours too, right? You have a lot to talk then!”. Done. With 30 seconds of conversation I already was talking to this guy, and learned about what he did (and learned so much!).
@@ -66,8 +66,8 @@ On my second day (first day of main event) the Pycon host was introducing the co
 
 [The opening keynote was Lorena Barba](https://www.youtube.com/watch?v=ckW1xuGVpug), that gave an great lecture about community, culture and communication. It’s worth noticing that 40% of the event speakers were women, which is pretty crazy for this field of work. (You go girls!). [One of her lectures](http://lorenabarba.com/blog/cfd-python-12-steps-to-navier-stokes/) help me a lot during my classes and I had a chance to talk to her, and she was so very kind with me. (Here we are:)
 
-<center><img src="https://i.imgur.com/m5V9H2U.jpg" style="height:400px"/></center>
-<center><i>Me and Lorena Barba</i></center>
+<center><img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/pycon_lorena.jpg" style="height:400px"/></center>
+<center><i>Me and Lorena Barba</i></center> 
 <br/>
 
 But what everybody told me, and I learned it quite well, is that the talks are important, but the event is about people. Is about meeting people, and talking, discovering new areas of field you have never heard about. Its about life stories that can make you very impressed. It is about how people are open to help you, if you just ask.
@@ -76,7 +76,7 @@ It’s amazing how many different people there are, and they are JUST LIKE YOU. 
 
 Here is a photo of me and K Lahrs, which had [the most wonderful keynote I have ever had](https://www.youtube.com/watch?v=bSfe5M_zG2s&t=451s). Gladly I had a chance to met him the day before and share a few beers and talks...
 
-<center><img src="https://i.imgur.com/BbwgtOF.jpg" style="height:400px"/></center>
+<center><img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/pycon_klars.jpg" style="height:400px"/></center>
 <center><i>Me and K Lahrs</i></center>
 <br/>
 
@@ -88,8 +88,8 @@ Also, I saw Carol Willing (remember the girl that introduced me to the guy on th
 
 Here is the photo I took with Audrey, Daniel and Carol on the last day. Their attitude also gave me more conffidence in myself and my potential. Thank you!
 
-<center><img src="https://i.imgur.com/6vcZCAw.jpg" style="height:300px"/></center>
-<center><i>Carol, Me, Audrey and Daniel</i></center>
+<center><img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/pycon_carol_greenfelds.jpg" style="height:300px"/></center>
+<center><i>Carol, Me, Audrey and Daniel</i></center> 
 <br/>
 
 
@@ -97,7 +97,7 @@ So, as I am writing here I get kind of sad… because it seams like I really wen
 
 I come back a little more confident, with a lot of new friends, with a little more knowledge but much, much more humble. Next year, Pycon will happen in Portland again, and in Cleveland in 2018. Hope I could come to this, and all the others to come. I want to bring that dimension into my reality, you know?
 
-<center><img src="https://i.imgur.com/bjcgtb5.jpg" style="height:300px"/></center>
+<center><img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/pycon_br.jpg" style="height:300px"/></center>
 <center><i>Me and the Brazilians!</i></center>
 <br/>
 
