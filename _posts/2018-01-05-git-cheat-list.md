@@ -46,12 +46,29 @@ last_modified_at: 2017-03-09T14:25:52-05:00
 
 # Summary
 
+* [Undo commits](#undo-commits)
 * [How to rebase a forked repository](#rebase-fork)
 * [How to add a default editor to git](#default-editor)
+* [Delete changes on conflict while rebasing](#conflict)
 * [How to amend to some old commit?](#amend-old-commit) 
 * [How to amend delete merged branches?](#delete-merged-branches) 
 
 # My Git Cheat List
+
+
+<h2 id='undo-commits'>Undo commits</h2>
+
+1 commit: 
+
+```
+$ git reset HEAD~ 
+```
+
+2 commits
+
+```
+$ git reset HEAD~~ 
+```
 
 
 <h2 id='rebase-fork'>How to rebase a forked repository</h2>
@@ -73,6 +90,21 @@ $ git rebase master
 $ git config --global core.editor vim
 ```
 
+<h2 id='conflict'>Delete changes on conflict while rebasing</h2>
+
+If you generated an automatic file, pushed it but then there was a conflict because the file was updated by someone else, sometimes the easiest thing is to just throw away your changes and run the script again. To do that while you are rebasing you just
+
+```
+$ git rebase master
+
+... CONFLICT: file.ext
+
+$ git checkout file.ext
+$ git add file.ext
+
+$ run_automatic_script
+```
+
 
 <h2 id='amend-old-commit'>How to amend to some old commit?</h2>
 
@@ -88,11 +120,17 @@ $ git rebase -i 123456
 
 It will open your editor with the commit options written as *pick*
 
+<center>
 ![](https://i.imgur.com/6jbkv2b.png)
+</center>
+</br>
 
 Change it to *edit*
 
+<center>
 ![](https://i.imgur.com/vbPbIAe.png)
+</center>
+</br>
 
 Your branch name is now changed to the commit's hash. Edit your files then:
 
