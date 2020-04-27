@@ -39,7 +39,8 @@ last_modified_at: 2017-03-09T14:25:52-05:00
 translation: /from-oceanographer-to-programmer.html
 ---
 
-![something](https://i.imgur.com/hy3paIE.jpg)
+<center><img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/oceanographer.jpg" style="height:500px;"/></center>
+</br>
 
 Nesta semana me pediram pra contar um pouco sobre como eu virei programadora (ou pelo menos estou no processo). Eu escrevi esse texto para contar um pouco mais sobre essa história.
 
