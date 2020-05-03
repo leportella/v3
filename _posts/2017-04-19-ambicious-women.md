@@ -61,7 +61,11 @@ translation: /mulheres-ambiciosas.html
 
 The lovely Pyladies-Salvador asked for a text to debut their blog and told me that they would publish it on Women’s Day. I reflected a lot on what to write, what I could somehow add to that day that has so much meaning, and decided that I would like to talk to you about **ambition**. **How ambitious do you consider yourself**?
 
-![](https://cdn-images-1.medium.com/max/600/1*UjX-X_DSnP4ARLbDVqIDyw.gif)
+<center>
+  <img src="https://cdn-images-1.medium.com/max/600/1*UjX-X_DSnP4ARLbDVqIDyw.gif" style="height:200px;"/>
+</center>
+<br/>
+
 
 Yes, that question is not easy and much less recurrent. If you do not have an exact answer, we will try to examine this topic in a slightly more detailed way. What is your goal in life? Where do you want to go? How far is this idea from where you see yourself reaching? Do you really think that where you want to go is as far as you could go?
 
@@ -77,7 +81,10 @@ addicted to work, with little social life and I won’t even comment as far the 
 Don’t you remember? Think carefully about it: tell me 1 or 2 examples of successful women in fiction whose lives were stable and controlled. 
 I remember, however, several powerful women with a very questionable life (and sanity): Carrie (Homeland), Cuddy (House), Annalise (How to get Away with Murder), Margaret (The Offer), Alicia (The Good Wife) and so on...
 
-![](https://cdn-images-1.medium.com/max/600/1*aI50TTvAujo8e9J2UDBEQQ.gif)
+<center>
+  <img src="https://cdn-images-1.medium.com/max/600/1*aI50TTvAujo8e9J2UDBEQQ.gif" style="height:200px;"/>
+</center>
+<br/>
 
 Why don’t we sell the image that we can have professional and personal success? Why is everything always so difficult for women (even in fiction)? We have to start thinking and carefully reflect on what kind of impact this attitude has on our lives. And the question always remains: am I failing to do something I want simply because I was told that it is impossible?
 
@@ -89,8 +96,13 @@ Let’s stop saying that “WE get the result” when who got it was you and you
 
 Yes, there is fear … fear of not being able to make it, fear of making the wrong choice, fear of making mistakes, of failing, of being a fraud, of being judged and afraid of being a terrible mother / daughter / wife. All these fears exist, are real, and are often paralyzing. But lack of trust can be a prophecy that is fulfilled by itself. My invitation here today is for you to reflect on and try to change this story. Even if it is one achievement at a time. How about saying to someone you admire, “I achieved this,” or “I did that on my own and I’m proud of what I achieved.” If you feel a little more proud and confident, I think I will have achieved what I wanted with this text.
 
-![](https://cdn-images-1.medium.com/max/800/1*UHIOet8XtvG-GZuPMdjpAw.gif)
+<center>
+  <img src="https://cdn-images-1.medium.com/max/800/1*UHIOet8XtvG-GZuPMdjpAw.gif" style="height:200px;"/>
+</center>
+<center>
+<i>If you are proud of something you did or achieved… I got what I wanted! :)</i>
+</center>
+<br/>
 
-*If you are proud of something you did or achieved… I got what I wanted! :)*
 
 And then I ask you again... **how far do you want to go?**
