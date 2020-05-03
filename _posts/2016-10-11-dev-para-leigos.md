@@ -48,9 +48,14 @@ Pouco tempo depois de o texto circular pela internet, recebi um convite maravilh
 
 Pois bem, quase 4 meses após o Caipyra e quase 8 meses da minha mudança, escrevo pra contar como anda a vida de dev, numa espécie de “dev para leigos”.
 
-![](https://i.imgur.com/pLCxX23.jpg)
+<center>
+<img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/caipyra.jpg" style="height:400px;"/>
+</center>
+<center>
+<i>Pessoal do Caipyra foi pro bar na melhor condução possível!</i>
+</center>
+<br/>
 
-*Pessoal do Caipyra foi pro bar na melhor condução possível!*
 
 A primeira coisa que eu gostaria de falar sobre a vida de dev é: git é confuso. Ainda sofro com ele e muitas vezes preciso chorar pra alguém me ajudar porque fiz algo errado em um rebase. Sofro pra entender os inúmeros comandos de amend, rebase, fetch, etc. É confuso demais, mas necessário.
 
@@ -65,9 +70,15 @@ No Caipyra, disse que não me sentia uma dev e me perguntaram o por que não. Um
 Esses são algumas das inúmeras reflexões e lições que eu tenho aprendido nesse momento de aprendizado intenso. Já passei por algumas refatorações, já construi uma app do zero, já melhorei testes, já brinquei com generic relations. Já quis quebrar o computador muitas vezes e já quis chorar na frente dele. É nessas horas que o cafézinho faz bem. Pare! Mesmo que você esteja com o prazo apertado. Pare! Hoje, consigo falar que me considero uma dev. Iniciante e inexperiente, mas ainda sim, uma dev.
 
 
-![](https://i.imgur.com/oXsFRqQ.jpg)
+<center>
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/crave-me.jpg" style="height:400px;"/>
+</center>
+<center>
+<i>Eu no escritório novo :)</i>
+</center>
+<br/>
 
-*Eu no escritório novo :)*
+
 
 
 Gostaria de finalizar o texto agradecendo de coração todos feedbacks sobre os meus textos. Recebi diversas mensagens de pessoas agradecendo por ter contado a minha história e por ter ajudado-as de certa forma. Um agradecimento especial para o querido @seocam, @rougeth, @joaojunior_jj e todos os meus queridos companheiros da Crave Food Services por todo carinho, aprendizados, paciência e companheirismo.

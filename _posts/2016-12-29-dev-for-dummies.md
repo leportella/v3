@@ -48,9 +48,14 @@ I got an invitation to talk on the [Caipyra](http://caipyra.python.org.br/) conf
 
 Well, 4 months after the Caipyra and almost 8 months after my career change, I write a little bit to tell you how is my life as a developer, in a kind of “dev for dummies” style.
 
-![](https://i.imgur.com/pLCxX23.jpg)
 
-*On Caipyra we went to the bar in the best way possible!*
+<center>
+<img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/caipyra.jpg" style="height:400px;"/>
+</center>
+<center>
+<i>On Caipyra we went to the bar in the best way possible!</i>
+</center>
+<br/>
 
 The first thing I would like to say is: git is confusing. I suffer with it. Very often I cry for someone to help me because my rebase went terribly wrong. I can’t understand (or remember) all those commands of amend, rebase, fetch, etc. It very confusing, but still, very necessary.
 
@@ -64,8 +69,15 @@ At the Caipyra, I said I didn’t feel like a developer and people asked me why 
 
 Those are some of the numerous reflection and lessons I am learning in this moment of great challenges. I have gone through some refactoring, I have built an app from scratch, I have improved tests and played with generic relations. There were moments were I wanted to break the computer or cry in front of it. At this moments… have a break! A little coffee is good for you. Stop the work! Even if you have a tight deadline. Just stop for a second! I can now say that I am a developer. Still beginning and with little experience, but still, a developer.
 
-![](https://i.imgur.com/oXsFRqQ.jpg)
+<center>
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/crave-me.jpg" style="height:400px;"/>
+</center>
+<center>
+<i>Me in my new office :)</i>
+</center>
+<br/>
 
-*Me in my new office :)*
+
+
 
 I would like to end my text by thanking all the feedbacks that I have received in my posts. I received several messages of people thanking me for telling a little bit about my history and that it helped them, in a way. A special thanks to my dear @seocam, Marco Rougeth, @joaojunior_jj and all my dear friends at Crave Food Services for all tenderness, learning, patience and fellowship.
