@@ -45,15 +45,22 @@ Eu havia largado uma carreira, uma profissão e por pouco também não larguei u
 Quando tudo isso aconteceu, acho que eu não tinha entendido as proporções que aquela decisão teve na minha vida. 
 Hoje, exatamente, faz um ano do meu primeiro dia como desenvolvedora e eu quero contar um pouco sobre o que aconteceu nesse ano.
 
-![](https://cdn-images-1.medium.com/max/800/1*Qiu_GZhqLl-U1YFbghTN2A.gif)
-
-*Eu escrevendo esse texto*
+<center>
+<img src="https://cdn-images-1.medium.com/max/800/1*Qiu_GZhqLl-U1YFbghTN2A.gif" style="height:200px;"/>
+</center>
+<center>
+<i> Eu escrevendo esse texto</i>
+</center>
+<br/>
 
 A primeira coisa que eu me lembro foi como eu fiquei deslocada no meu primeiro dia. Eu estava totalmente fora do meu ambiente comum e havia a regra do “se ele está de fone, você não deve incomodá-lo”. Como posso fazer uma pergunta sem incomodá-lo? Lembro de tentar ser útil da melhor forma que eu podia, tentava ler os códigos nos pull-requests e ficava buscando formas de estudar as coisas.
 
 Acabei me sentindo frustrada e desestimulada. Sugeri ajudar na documentação (para me sentir útil de qualquer forma que fosse) e acabei ficando 3 meses basicamente escrevendo documentação. Recado a todos que tem alguém iniciante para treinar: deixar alguém louco pra aprender escrevendo texto durante meses é simplesmente cruel. Lembro de me sentir um fracasso e de pensar em desistir.
 
-![](https://cdn-images-1.medium.com/max/600/1*bQpZeR8s-hryNGa2EPVQ4A.gif)
+<center>
+  <img src="https://cdn-images-1.medium.com/max/600/1*bQpZeR8s-hryNGa2EPVQ4A.gif" style="height:200px;"/>
+</center>
+<br/>
 
 Não me sentia bem e não me sentia útil. Pensei em voltar pro meu emprego antigo, com o rabo entre as pernas, e pedir meu emprego de volta. Pensei em todas as pessoas que iriam falar: “Eu sabia que você não ia conseguir”. Pensei no meu orgulho indo pelo ralo e a sensação de fracasso me fazia chorar direto.
 
@@ -82,16 +89,25 @@ Eu entrei num ambiente extremamente agradável e amigável para iniciantes. Toda
 
 A grande certeza do time de que eu ia conseguir e toda a paciência que tiveram me fizeram crescer como profissional e como pessoa. Meus códigos iam se tornando mais complexos aos poucos e minhas revisões também mais rigorosas. Comecei a acreditar que eu poderia, sim, me chamar de desenvolvedora.
 
-![](https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif)
+<center>
+  <img src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif" style="height:200px;"/>
+</center>
+<center>
+<i>Se você, assim como eu, vive com dúvidas se você é de fato um(a) desenvolvedor(a), faça o melhor teste possível <a href="http://amiarealdeveloper.com/">aqui</a>.</i>
+</center>
+<br/>
 
-*Se você, assim como eu, vive com dúvidas se você é de fato um(a) desenvolvedor(a), faça o melhor test possível [aqui](http://amiarealdev.com/#).*
 
 O ambiente era tão propício para o crescimento que eu me desenvolvi bem no backend e em fevereiro (fev/17) já comecei a trabalhar no frontend, com React, Javascript e etc. Uma área totalmente nova e novos desafios para enfrentar.
 
 A quantidade de coisas que eu aprendi com o time da Crave Food Services e com o [Grupy-RP](https://www.facebook.com/grupyrp/?fref=ts) foi absurda. Minha curva de aprendizado foi exponencial e eu me sinto confiante e tranquila com a minha escolha. Ter alguém que acredite em você de fato, faz toda a diferença. Mas também é igualmente fundamental que você acredite em você. Tudo o que eu contei aqui foram inúmeros momentos de fraqueza e dúvida. Por mais difíceis e frequentes que eles tenham sido, eu tive que acreditar que eu conseguia fazer aquilo (as vezes contando com alguém de fora para reforçar isso). 
 Hoje eu estou aqui, completando um ano… com a esperança de que o novo ano me traga novos aprendizados (e um pouquinho de zona de conforto, que não faz mal a ninguém!)
 
-![](https://cdn-images-1.medium.com/max/800/1*Yh2x0_YKq28sW_yKyygc3Q.gif)
-
-*Quando você é jr, mas se sente bom no que faz!*
+<center>
+<img src="https://cdn-images-1.medium.com/max/800/1*Yh2x0_YKq28sW_yKyygc3Q.gif" style="height:200px;"/>
+</center>
+<center>
+<i>Quando você é jr, mas se sente bom no que faz!</i>
+</center>
+<br/>
 
