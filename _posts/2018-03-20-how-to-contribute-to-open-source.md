@@ -39,6 +39,7 @@ tags:
   - computer science
 featured-img: open
 permalink: open-source-without-code.html
+translation: open-source-sem-codigo.html
 redirect_from: /english/2018/03/20/how-to-contribute-to-open-source.html
 last_modified_at: 2017-03-09T14:25:52-05:00
 ---
@@ -89,7 +90,10 @@ the article nor in the documentation. Hey! I can contribute to this!
 Big projects usually have a file to indicate how the expect your contribution to occur. In the social-app-django, I found the 
 contribution guide:
 
-![](https://i.imgur.com/r69gIJ9.png)
+<center>
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/contribute.png" style="height:300px;"/>
+</center>
+<br/>
 
 From that document, I knew that the first step was having a Github account (check!), add an issue explaining the problem and, 
 if possible, make a project fork. Let's go!
@@ -107,9 +111,15 @@ anytime soon!
 
 In my case, I explained my problem, showed where I got help and said that I could help with this.
 
-![](https://i.imgur.com/m4FqAxB.png)
+<center>
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/contribute2.png" style="height:300px;"/>
+</center>
 
-*[My issue](https://twitter.com/jesstemporal/status/976096279246835712) showed where I found the solution and shows I am willing to contribute*
+<center>
+<i><a href="https://github.com/python-social-auth/social-app-django/issues/44">My issue</a> showed where I found the solution and shows I am willing to contribute</i>
+</center>
+<br/>
+
 
 I waited for 8 days but got no answer. Decided to go forward. 
 
@@ -130,12 +140,21 @@ I read the documentation, understood the code and finally, I was able to make tw
 
 My open-source contribution was done!
 
-![](https://i.imgur.com/gWQUTE1.png)
+<center>
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/contribute3.png" style="height:300px;"/>
+</center>
+<br/>
 
 This may seem simple to some people, but it took me some hours of code reading trying to figure this out. Luckly, this 
 small contribution will help other developers and they will be wuicker on make things done. So, if you have no ideia how 
 to contribute, how about helping documentation? Did you got stuck somewhere because of wrong docs? Why don't you help them?
 
-If you want to go fast, go alone. If want to go far waya, go together (African Proverb)
+<center>
+<h3>If you want to go fast, go alone. If want to go far away, go together (African Proverb)
+</h3>
+</center>
 
-![](https://cdn-images-1.medium.com/max/800/1*b4np_iaYln1XAJVu_ttd9w.gif)
+<center>
+  <img src="https://cdn-images-1.medium.com/max/800/1*b4np_iaYln1XAJVu_ttd9w.gif" style="height:400px;"/>
+</center>
+<br/>

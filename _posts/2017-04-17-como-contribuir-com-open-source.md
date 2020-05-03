@@ -40,6 +40,7 @@ tags:
 featured-img: open
 permalink: open-source-sem-codigo.html
 redirect_from: /pt-br/2017/04/17/como-contribuir-com-open-source.html
+translation: open-source-without-code.html
 last_modified_at: 2017-03-09T14:25:52-05:00
 ---
 
@@ -55,6 +56,7 @@ Uma coisa que eu gostaria muito que você tivesse em mente é que contribuir nem
 **issues** (novos problemas/novas tarefas) que precisam ser criadas para que os desenvolvedores saibam dos problemas do código e existe documentação que é falha. Hoje, vamos focar num caso de documentação.
 
 **¹Pull requests são visualizações de alterações no código feitas ao se tentar adicioná-lo em um repositório.**
+
 **[Da documentação do GitHub](https://help.github.com/articles/about-pull-requests/): Isso permite que os outros vejam as mudanças que você quer inserir em um repositório. Uma vez que um pull-request é criado em um repositório, você pode discutir e revisar as potenciais mudanças com outros colaboradores e adicionar mais pedaços de código com mudança antes que o seu código seja aceito e adicionado no repositório.**
 
 Eu sei que para um programador ávido isso até pode parecer um pouco estranho ou mesmo desencorajador. Mas existe muito valor em se escrever documentação. Muitos projetos legais têm problema de documentação esparsa ou, às vezes, incoerente. E digo mais: para se escrever uma boa documentação é preciso, muitas vezes, horas em cima do código do projeto para entender o que ele faz e explicar para os usuários de maneira didática. Então, vamos fazer uma contribuição juntos? Vem comigo.
@@ -68,7 +70,9 @@ Dica simples: é muito difícil você contribuir para um projeto que você desco
 
 Descobri que o módulo mais usado para esse caso era a [social-app-django](https://github.com/python-social-auth/social-app-django) do 
 [python-social-auth](https://github.com/python-social-auth/). Fui ler a documentação e fiquei confusa. Não entendi o que deveria fazer e nem como fazer. 
+
 Sofri bastante e viajei pelo código tentando entender. Finalmente, encontrei [um artigo](https://simpleisbetterthancomplex.com/tutorial/2016/10/24/how-to-add-social-login-to-django.html#comment-3233186393) do Vitor Freitas que me explicava tudo passo a passo. 
+
 Lindo, funcionou. Vi aí uma oportunidade de melhoria da documentação. Vi outras ferramentas que poderiam ser utilizadas e que não estavam nem na documentação, nem no artigo.
 Opa! Veio a ideia: isso aí eu posso contribuir!
 
@@ -76,7 +80,11 @@ Opa! Veio a ideia: isso aí eu posso contribuir!
 
 Os grandes projetos normalmente tem um arquivo para indicar como eles incentivam que as contribuições ocorram. No caso do social-app-django, encontrei o guia de contribuição deles:
 
-![](https://i.imgur.com/r69gIJ9.png)
+<center>
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/contribute.png" style="height:300px;"/>
+</center>
+<br/>
+
 
 A partir daí eu soube que o primeiro passo é ter uma conta no GitHub (check!), submeter um **issue** falando sobre o problema em si e, se possível, fazer um **fork** do projeto. Vamos por partes.
 
@@ -91,15 +99,24 @@ Seja educado, prestativo e não se irrite se demorar a receber respostas!
 
 No meu caso, eu expliquei que tive problemas, mostrei aonde consegui ajuda e me coloquei disposta a melhorar a documentação.
 
-![](https://i.imgur.com/m4FqAxB.png)
-**[Minha issue aberta no social-app-django](https://github.com/python-social-auth/social-app-django/issues/44) explica o problema, mostra onde encontrei a solução e me digo disposta a ajudar**
+<center>
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/contribute2.png" style="height:300px;"/>
+</center>
+
+<center>
+<i><a href="https://github.com/python-social-auth/social-app-django/issues/44">Minha issue aberta no social-app-django</a> explica o problema, mostra onde encontrei a solução e me digo disposta a ajudar</i>
+</center>
+<br/>
+
 
 Apesar de não ter recebido resposta depois de 8 dias, decidi continuar minha empreitada.
 
 ## Criando um fork
 
 Verifiquei  que a documentação não estava no mesmo repositório e sim no repositório **social-docs**. 
+
 Primeira coisa que fiz foi um *fork* do repositório (conforme orientavam no documento de contribuição). Ou seja, uma cópia do projeto todo no [meu GitHub pessoal](https://github.com/leportella/social-docs). 
+
 Dessa forma, eu poderia fazer as alterações e enviar pedidos de **pull request**.
 
 Então, encontrei as duas partes da documentação que eu gostaria de alterar. Eu gostaria de contribuir para a documentação geral do uso do módulo no [Django](https://github.com/python-social-auth/social-docs/blob/master/docs/configuration/django.rst) e a parte mais específica de autenticação com o [GitHub](https://github.com/python-social-auth/social-docs/blob/master/docs/backends/github.rst).
@@ -112,10 +129,19 @@ Busquei a documentação, li o código e finalmente, consegui fazer dois **pull 
 
 Estava feita a minha contribuição **open-source**.
 
-![](https://i.imgur.com/gWQUTE1.png)
+<center>
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/contribute3.png" style="height:300px;"/>
+</center>
+<br/>
 
 Isso pode até parecer simples para algumas pessoas, mas eu acabei demorando algumas horas de desenvolvimento tentando entender e aplicar a autenticação por GitHub. Com sorte, esta minha pequena contribuição poderá ajudar os próximos desenvolvedores a não demorarem tanto tempo. Então quem sabe você que não tem ideia por onde começar a contribuir comece da mesma forma? Teve uma dificuldade usando uma biblioteca? Porque não ajudar alguém a ter uma documentação melhor?
 
-##### Se quer ir rápido, vá sozinho. Se quer ir longe, vá em grupo. (Provérbio Africano)
+<center>
+<h3>Se quer ir rápido, vá sozinho. Se quer ir longe, vá em grupo. (Provérbio Africano)</h3>
+</center>
 
-![](https://cdn-images-1.medium.com/max/800/1*b4np_iaYln1XAJVu_ttd9w.gif)
+<center>
+  <img src="https://cdn-images-1.medium.com/max/800/1*b4np_iaYln1XAJVu_ttd9w.gif" style="height:400px;"/>
+</center>
+<br/>
+
