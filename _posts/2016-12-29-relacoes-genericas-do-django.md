@@ -164,7 +164,10 @@ Simples assim! Adicionando um campo de GenericRelation em qualquer modelo dentro
 livro.comentarios.all()
 ```
 
-![](https://cdn-images-1.medium.com/max/800/1*mPUc2fU1VPbW6gjbw1DjeQ.gif)
+<center>
+  <img src="https://cdn-images-1.medium.com/max/800/1*mPUc2fU1VPbW6gjbw1DjeQ.gif" style="height:200px;"/>
+</center>
+<br/>
 
 Outra boa notícia é que pode-se usar o *prefetch_related* para otimizar as buscas no banco de dados sem problema nenhum.
 
