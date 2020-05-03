@@ -42,7 +42,10 @@ translation: /review-code.html
 
 Revisar código é uma tarefa complicada e pode se tornar bastante desesperadora, especialmente quando você não tem ideia de como fazer isso. Entretanto, a revisão de código pode ser uma ferramenta poderosa para aumentar a qualidade do seu código e garantir deploys “saudáveis”.
 
-![](https://cdn-images-1.medium.com/max/800/1*EFsX-ndhmx4CFsI98zSvKA.gif)
+<center>
+<img src="https://cdn-images-1.medium.com/max/800/1*EFsX-ndhmx4CFsI98zSvKA.gif" style="height:200px;"/>
+</center>
+<br/>
 
 Na [Crave Food Services](http://sourcewhatsgood.com/) acabamos por desenvolver uma metodologia que seguimos na hora de corrigir os códigos. Neste artigo, vamos descrever um pouco melhor como funciona nossa metodologia de testes.
 

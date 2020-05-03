@@ -54,7 +54,10 @@ translation: /revisar-codigo.html
 Code review is a complicated task and can become overwhelming, specially when you have no idea how to do it.
 However, code review can be a powerful tool to increase code quality and assure “healthy” deploys.
 
-![](https://cdn-images-1.medium.com/max/800/1*EFsX-ndhmx4CFsI98zSvKA.gif)
+<center>
+<img src="https://cdn-images-1.medium.com/max/800/1*EFsX-ndhmx4CFsI98zSvKA.gif" style="height:200px;"/>
+</center>
+<br/>
 
 In Crave Food Services we developed a methodology to follow when it is time to review a new piece of code. On this article, we will describe a little better how our methodology works.
 
