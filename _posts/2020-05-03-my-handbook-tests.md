@@ -58,6 +58,8 @@ last_modified_at: 2020-05-03T18:25:52-05:00
 
 *For quite some time now, I realize that explaining how I do the work I do as a software developer is really hard for people who has little or not coding background. Since I started working as a software developer one of my favorite things is trying to explain to my mom and her friends about the world I live in, in a simple and accessible way. So I decided to write a series of blog posts that will try to explain the world of software for people with little or not context on the field. In my mind, I call this “My mom's technical handbook”.* 
 
+---
+
 Although we think of a software as being this one massive thing that does a lot of things, we can thing of a software as a huge pile of small functions that work together. A function is basically something that receives inputs, work with them internally and returns an output. 
 
 <center>
