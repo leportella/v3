@@ -44,7 +44,11 @@ Restless is a miniframework made by [Daniel Lindsley](https://github.com/toastdr
 As Lindsley said in the documentation *“While other frameworks attempt to be very complete, include special features or tie deeply to ORMs, Restless is a trip back to the basics”*. 
 Here I am going to show how you can create very simple endpoints using Restless.
 
-![](https://cdn-images-1.medium.com/max/800/1*BWYEnAFaPtrWCnpLWJ_gZA.gif)
+<center>
+  <img src="https://cdn-images-1.medium.com/max/800/1*BWYEnAFaPtrWCnpLWJ_gZA.gif" style="height:200px;"/>
+</center>
+<br/>
+
 
 First, let’s install Restless:
 
@@ -176,7 +180,10 @@ class BookResource(DjangoResource):
 In our case, the *POST* body must have a valid id for an **Author** instance, the title must be a string and the pages must be an integer. 
 For more detailed uses, it is recommended to insert verification for the data your user is sending to you :D
 
-![](https://cdn-images-1.medium.com/max/800/1*8PlVNsci0toMN3ZMbQ5exg.gif)
+<center>
+  <img src="https://cdn-images-1.medium.com/max/800/1*8PlVNsci0toMN3ZMbQ5exg.gif" style="height:200px;"/>
+</center>
+<br/>
 
 So, here is a cheat list for our example of the BookResource.
 
