@@ -63,8 +63,14 @@ De maneira simples, podemos agregar as funções básicas das views dentro de cl
 
 Vou seguir passo a passo a evolução de um sistema passando por funções, os problemas que podemos esbarrar e um sistema baseado em classes já existentes.
 
-![](https://media.giphy.com/media/IYjiXRV622OBO/giphy.gif)
-TLDR → Veja o [código do projeto todo aqui](https://github.com/leportella/class-based-views-example) e siga em paz :)
+<center>
+  <img src="https://media.giphy.com/media/IYjiXRV622OBO/giphy.gif" style="height:300px;"/>
+</center>
+<center>
+<i>TLDR → Veja o <a href="https://github.com/leportella/class-based-views-example">código do projeto todo aqui</a> e siga em paz :)</i>
+</center>
+<br/>
+
 
 ## Você está construindo seu sistema e precisa de uma função para retornar os templates
 
@@ -345,4 +351,7 @@ Para facilitar a compreensão do todo, eu fiz [este projetinho](https://github.c
 
 Espero que seja útil para você como foi para mim!
 
-![](https://media.giphy.com/media/6gy2ySS6nXaDe/giphy.gif)
+<center>
+  <img src="https://media.giphy.com/media/6gy2ySS6nXaDe/giphy.gif" style="height:300px;"/>
+</center>
+<br/>
