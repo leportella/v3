@@ -50,7 +50,11 @@ Entretanto, ao mudar de uma ferramenta para a outra, tive uma série de problemi
 
 Só para deixar claro, tudo o que é apresentado aqui está em Python 3 porque o Python 2 [está para se aposentar](https://pythonclock.org/) :(
 
-![](https://media.giphy.com/media/nI3Npa6iPC4b6/giphy.gif)
+<center>
+  <img src="https://media.giphy.com/media/nI3Npa6iPC4b6/giphy.gif" style="height:300px;"/>
+</center>
+<br/>
+
 
 O intuito deste post não é discutir qual ferramenta é melhor, mas mostrar como facilitar a transição de conhecimento de Matlab para Python :)
 
@@ -67,8 +71,14 @@ Dicionários são estruturas de dados que você pode acessar através da “chav
 
 Além disso, existe uma diferença entre tipos de variáveis decimais (`floats`) e números inteiros (`integers`). Ou seja, é bom se familiarizar primeiro com os tipos de variáveis e estruturas que existem no Python! Essa é uma vantagem bem grande!
 
-![](https://media.giphy.com/media/6FymBmqKeBrl6/giphy.gif)
-*Vendo dicionários e tuplas pela primeira vez*
+<center>
+  <img src="https://media.giphy.com/media/6FymBmqKeBrl6/giphy.gif" style="height:300px;"/>
+</center>
+<center>
+<i>Vendo dicionários e tuplas pela primeira vez</i>
+</center>
+<br/>
+
 
 Se você tiver em dúvida do [tipo da sua variável](https://docs.python.org/3/library/stdtypes.html), digite: `type(variavel)` ;)
 
@@ -229,10 +239,19 @@ No começo, isso chega a ser assustador. Eventualmente eu me acostumei, mas o qu
 
 O Spyder é uma ferramenta para Python, feita em Python, que possui uma interface bem semelhante com a do Matlab: os scripts ficam na parte esquerda, na parte direita superior é possível ver os dados carregados e como eles são compostos (inclusive com um background colorido que ajuda muito a encontrar discrepâncias rapidamente) e um terminal com ipython na parte direita inferior. Até o **F9** funciona da mesma forma! Para mim, foi amor a primeira vista ❤.
 
-![](https://media.giphy.com/media/l3V0dy1zzyjbYTQQM/giphy.gif)
+<center>
+  <img src="https://media.giphy.com/media/l3V0dy1zzyjbYTQQM/giphy.gif" style="height:300px;"/>
+</center>
+<br/>
+
 
 Olha a carinha dele:
-![](https://i.imgur.com/RgKovVN.png)
+
+<center>
+  <img src="https://i.imgur.com/RgKovVN.png" style="height:400px;"/>
+</center>
+<br/>
+
 
 Exemplo do Spyder funcionando com um script de 11 linhas (esquerda), as variáveis carregadas (superior direito) e o terminal ipython (inferior direito)
 
@@ -252,6 +271,10 @@ Existem uma séries de guias de boas práticas de código, como tamanho de linha
 No caso do Python, esse guia de boas práticas está ligado a uma filosofia pythônica de código limpos, bem escritos e legíveis que é muito enraizada na comunidade. 
 Para saber mais sobre o estilo sugerido veja a [PEP8](https://www.python.org/dev/peps/pep-0008/). Para saber mais sobre a filosofia Python vá no terminal e digite import this e seja bem-vindo!
 
-![](https://media.giphy.com/media/3o6ZsYMuMkxBNiy7pC/giphy.gif)
-
-*Bem vindo ao Zen do Python*
+<center>
+  <img src="https://media.giphy.com/media/3o6ZsYMuMkxBNiy7pC/giphy.gif" style="height:300px;"/>
+</center>
+<center>
+  <i>Bem vindo ao Zen do Python</i>
+</center>
+<br/>

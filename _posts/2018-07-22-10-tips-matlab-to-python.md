@@ -56,7 +56,11 @@ main difficulties and some tools that helped me in the transition.
 Just to make it clear, everything that is presented here is in Python 3 
 because Python 2 is [about to retire](https://pythonclock.org/) :(
 
-![](https://media.giphy.com/media/nI3Npa6iPC4b6/giphy.gif)
+<center>
+  <img src="https://media.giphy.com/media/nI3Npa6iPC4b6/giphy.gif" style="height:300px;"/>
+</center>
+<br/>
+
 
 It is not the purpose of this post to discuss which tool is better, 
 but to show how to make easier the transition from Matlab to Python :)
@@ -80,9 +84,13 @@ Besides, there is a difference between decimal numbers (**float**)
 and **integers**. That is, first it is better to get acquainted with 
 existing Python types of variables and structures! That's a pretty big advantage!
 
-
-![](https://media.giphy.com/media/6FymBmqKeBrl6/giphy.gif)
-*Me when I first saw dictionaries and tuples*
+<center>
+  <img src="https://media.giphy.com/media/6FymBmqKeBrl6/giphy.gif" style="height:300px;"/>
+</center>
+<center>
+<i>Me when I first saw dictionaries and tuples</i>
+</center>
+<br/>
 
 If you are in doubt about your 
 [variable type](https://docs.python.org/3/library/stdtypes.html), just type in the 
@@ -290,10 +298,17 @@ to quickly find the discrepancies) and a terminal with ipython in
 the lower right part. F9 also works the same way! 
 For me, it was love at first sight ❤.
 
-![](https://media.giphy.com/media/l3V0dy1zzyjbYTQQM/giphy.gif)
+<center>
+  <img src="https://media.giphy.com/media/l3V0dy1zzyjbYTQQM/giphy.gif" style="height:300px;"/>
+</center>
+<br/>
 
 Look at its face:
-![](https://i.imgur.com/RgKovVN.png)
+
+<center>
+  <img src="https://i.imgur.com/RgKovVN.png" style="height:400px;"/>
+</center>
+<br/>
 
 Example of Spyder running with an 11-line script (left), variables loaded (upper right), and ipython terminal (lower right)
 
@@ -322,6 +337,10 @@ readable pythonic philosophy which is very much rooted in the community.
 To learn more about the suggested style, see [PEP8](https://www.python.org/dev/peps/pep-0008/). 
 To learn more about the Python philosophy go to the terminal and type `import this` and welcome!
 
-![](https://media.giphy.com/media/3o6ZsYMuMkxBNiy7pC/giphy.gif)
-
-*Welcome to the Zen of Python*
+<center>
+  <img src="https://media.giphy.com/media/3o6ZsYMuMkxBNiy7pC/giphy.gif" style="height:300px;"/>
+</center>
+<center>
+  <i>Welcome to the Zen of Python</i>
+</center>
+<br/>
