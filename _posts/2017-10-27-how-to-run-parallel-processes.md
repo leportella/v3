@@ -44,9 +44,13 @@ translation: /processos-em-paralelo-python.html
 
 This week I ran into a case were I should run several scripts with analysis that could run simultaneously. The analysis results would then be used as basis for another analysis, that could only run after all other scripts ended. Something like this:
 
-![](https://i.imgur.com/XuMDlhb.png)
-
-*We have 3 processes (analysis scripts) that are independents one from another and can run in parallel. The 4th process is a script that depends on the outputs of the first three scripts*
+<center>
+  <img src="https://i.imgur.com/XuMDlhb.png" style="height:300px;"/>
+</center>
+<center>
+<i>We have 3 processes (analysis scripts) that are independents one from another and can run in parallel. The 4th process is a script that depends on the outputs of the first three scripts</i>
+</center>
+<br/>
 
 We wanted some things:
 
@@ -104,11 +108,12 @@ use when running our processes. In this case, it will be 3.
 
 Finally, we will pass our function and the processes we want to parallelize to the *map* method of our Pool instance. This method will iterate each one of the processes, pass the process through the function and parallelize it as it fits best. Is like we are typing this in sequence on a Python shell:
 
-`>>> run_process('process1.py')`
+```
+>>> run_process('process1.py')
+>>> run_process('process2.py')
+>>> run_process('process3.py')
+```
 
-`>>> run_process('process2.py')`
-
-`>>> run_process('process3.py')`
 
 However, instead of doing all theses scripts in a sequential order, the *workers* will 
 execute them at the same time (each one in a different *worker*).
@@ -134,9 +139,13 @@ if all processes ran in a sequence, we would have to wait all the time of **proc
 then wait for **process2** and only then **process3** would be initiated. 
 Since we are executing them all at the same time, the processes will be finalized in the order from the fastest to the slowest. The result is:
 
-![](https://i.imgur.com/2rI9yJM.png)
-
-*Total time used in the process of the 3 scripts with the results in the order the scripts were ended.*
+<center>
+<img src="https://i.imgur.com/2rI9yJM.png" style="height:300px;"/>
+</center>
+<center>
+<i>Total time used in the process of the 3 scripts with the results in the order the scripts were ended.</i>
+</center>
+<br/>
 
 
 Our **process2**, faster, finishes almost immediately. **Process3** still takes a while and 
@@ -171,7 +180,10 @@ pool.map(run_process, other)
 
 This way, the result is this:
 
-![](https://i.imgur.com/SvmtS0H.png)
+<center>
+  <img src="https://i.imgur.com/SvmtS0H.png" style="height:300px;"/>
+</center>
+<br/>
 
 We have the first two processes running in parallel until both are finished and only then 
 **process3** is executed.

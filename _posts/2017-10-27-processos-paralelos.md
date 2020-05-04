@@ -45,7 +45,10 @@ translation: /parallel-processes-python.html
 
 Essa semana caí num caso em que eu tinha diversos scripts contendo análises que poderiam rodar em paralelo. Essas análises eram então usadas como base para uma outra análise, que devia rodar apenas depois de todas as outras acabarem. Algo parecido com isso:
 
-![](https://i.imgur.com/jfX5XMZ.png)
+<center>
+  <img src="https://i.imgur.com/jfX5XMZ.png" style="height:300px;"/>
+</center>
+<br/>
 
 *Temos 3 processos (scripts de análise) que são independentes um dos outros e podem rodar em paralelo. O 4o processo é uma análise que depende do resultado dos demais processos.*
 
@@ -126,11 +129,13 @@ pool.map(roda_processo, processos)
 Essa função irá iterar por cada um dos processos, passar o processo pela função e 
 paralelizá-lo conforme necessário. É como se fizemos em sequência no shell do Python:
 
-`>>> roda_processo('processo1.py')`
+```
+>>> roda_processo('processo1.py')
 
-`>>> roda_processo('processo2.py')`
+>>> roda_processo('processo2.py')
 
-`>>> roda_processo('processo3.py')`
+>>> roda_processo('processo3.py')
+```
 
 Porém, ao invés de interpretar isso de forma sequencial, os *workers* executarão todos ao 
 mesmo tempo (cada um em um *worker*).
@@ -139,7 +144,10 @@ Como temos 3 processos que executam em tempos diferentes, se os processos rodass
 seria iniciado. Como estamos executando todos ao mesmo tempo, 
 os processos vão ser finalizados na ordem do mais rápido ao mais lento. O resultado portanto é:
 
-![](https://i.imgur.com/GvIoQS5.png)
+<center>
+  <img src="https://i.imgur.com/GvIoQS5.png" style="height:300px;"/>
+</center>
+<br/>
 
 *Tempo total usado no processamento dos 3 scripts de processo e resultado em ordem de tempo de execução*
 
@@ -176,7 +184,10 @@ pool.map(roda_processo, outros)
 
 Dessa forma, o resultado fica mas parecido com este:
 
-![](https://i.imgur.com/2ja6VBK.png)
+<center>
+  <img src="https://i.imgur.com/2ja6VBK.png" style="height:300px;"/>
+</center>
+<br/>
 
 Temos os dois primeiros processos rodando em paralelo até o final e apenas então o **processo3** 
 é executado.
