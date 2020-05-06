@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What does it mean to test a software?"
+title: "What does it mean to test software?"
 categories:
   - english
   - handbook
