@@ -121,14 +121,14 @@ $ git rebase -i 123456
 It will open your editor with the commit options written as *pick*
 
 <center>
-![](https://i.imgur.com/6jbkv2b.png)
+  <img src="https://i.imgur.com/6jbkv2b.png" style="height:300px;"/>
 </center>
 </br>
 
 Change it to *edit*
 
 <center>
-![](https://i.imgur.com/vbPbIAe.png)
+  <img src="https://i.imgur.com/vbPbIAe.png" style="height:300px;"/>
 </center>
 </br>
 
