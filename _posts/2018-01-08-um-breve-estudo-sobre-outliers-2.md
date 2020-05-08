@@ -56,21 +56,33 @@ pode ser encontrada [aqui](https://github.com/leportella/outlier-analysis/blob/m
 
 Basicamente temos uma variável y (*store_profit*) que tem um hitograma de cauda longa:
 
-![](https://i.imgur.com/ygXccBS.png)
+<center>
+<img src="https://i.imgur.com/ygXccBS.png" style="height:300px;"/>
+</center>
+<br/>
 
 Duas variáveis independentes distribuda em torno de um centróide (*products in stock* e *product rating*):
 
-![](https://i.imgur.com/EvbWMC5.png)
+<center>
+  <img src="https://i.imgur.com/EvbWMC5.png" style="height:300px;"/>
+</center>
+<br/>
 
 E mais uma variável categrica (*business_type*) e duas variáveis que são números internos, sem padrão de distribuição.
 
 O Dataframe resultante:
 
-![](https://i.imgur.com/sH7Rk7F.png)
+<center>
+  <img src="https://i.imgur.com/sH7Rk7F.png" style="height:300px;"/>
+</center>
+<br/>
 
 Com essas características:
 
-![](https://i.imgur.com/EvbWMC5.png)
+<center>
+  <img src="https://i.imgur.com/EvbWMC5.png" style="height:300px;"/>
+</center>
+<br/>
 
 ### EllipticEnvelope em X e variáveis numéricas
 
@@ -104,12 +116,18 @@ coerentes com a distribuição, enquanto que valores -1 são observaçes conside
 
 O resultado, quando observamos graficamente, é este:
 
-![](https://i.imgur.com/Os4hDhg.png)
+<center>
+<img src="https://i.imgur.com/Os4hDhg.png" style="height:300px;"/>
+</center>
+<br/>
 
 Mas repare que não consideramos que os valor da nossa variável y nesse processo. Dessa forma, ao observamos as amostras em y que 
 foram consideradas *outliers* elas estão distribudas quase aleatóriamente:
 
-![](https://i.imgur.com/2ooxSD3.png)
+<center>
+  <img src="https://i.imgur.com/2ooxSD3.png" style="height:300px;"/>
+</center>
+<br/>
 
 Muito legal hein?
 
@@ -133,11 +151,17 @@ Na verdade, quando avaliamos uma variável só, especialmente quando ela tem uma
 
 Dessa forma, temos que o nosso gráfico de y vai aparecer com um "corte", removendo valores muito extremos:
 
-![](https://i.imgur.com/xUj90Kg.png)
+<center>
+  <img src="https://i.imgur.com/xUj90Kg.png" style="height:300px;"/>
+</center>
+<br/>
 
 Agora, se olharmos o gráfico dos valores das variáveis independentes temos a aleatoriadade das amostras:
 
-![](https://i.imgur.com/JMddE1Q.png)
+<center>
+  <img src="https://i.imgur.com/JMddE1Q.png" style="height:300px;"/>
+</center>
+<br/>
 
 ### EllipticEnvelope em X e variáveis categóricas
 
@@ -170,7 +194,10 @@ inliers = clf.predict(X)
 
 O resultado é diferente daquele que encontramos anteriormente, considerando apenas duas variveis:
 
-![](https://i.imgur.com/sbQvPqO.png)
+<center>
+  <img src="https://i.imgur.com/sbQvPqO.png" style="height:300px;"/>
+</center>
+<br/>
 
 Entretanto, não tem como fazermos a avaliação visual de como isso se comporta no espaço, como fizemos no exemplo anterior :/
 
@@ -219,7 +246,10 @@ Por enquanto foram esses os tópicos que eu cheguei e as análises que fiz para 
 as técnicas são várias e tem muita coisa pela frente. Se você sabe de algo que não está aqui, 
 por favor se sinta a vontade para comentar :)
 
-![](https://media.giphy.com/media/q9lNzUPfLAbBK/giphy.gif)
+<center>
+  <img src="https://media.giphy.com/media/q9lNzUPfLAbBK/giphy.gif" style="height:300px;"/>
+</center>
+<br/>
 
 ## Referências
 

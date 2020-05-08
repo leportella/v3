@@ -51,7 +51,10 @@ te permite saber o que é um *outlier* de forma tão "simples".
 Este post é uma primeira tentativa em descrever o que eu encontrei e refleti sobre as técnicas para identificar dados anômalos 
 focando em um conjunto de dados em que o meu *outlier* prejudica uma avaliação dos dados ou prejudica uma análise preditiva, por exemplo.
 
-![](https://media.giphy.com/media/26gJA9SSe4m54MYec/giphy.gif)
+<center>
+  <img src="https://media.giphy.com/media/26gJA9SSe4m54MYec/giphy.gif" style="height:300px;"/>
+</center>
+</br>
 
 ## Definição de Outliers
 
@@ -100,7 +103,10 @@ pedido do Senhor Hadlum. Em 1951 uma outra corte definiu o limite como 360 dias.
 
 Fascinante, não?
 
-![](https://i.imgur.com/8b73OnB.png)
+<center>
+  <img src="https://i.imgur.com/8b73OnB.png" style="height:300px;"/>
+</center>
+</br>
 
 ## Causas da ocorrência de um Outlier
 
@@ -127,7 +133,10 @@ e
 Onde dados que ficam entre f1 e F1 ou f3 e F3 são chamados de *outliers* externos ("*outside outliers*") enquanto 
 dados maiores que F1 e F3 são chamados de *outliers* longínquos ("*far out outliers").
 
-![](http://flowingdata.com/wp-content/uploads/2008/02/box-plot-explained.gif)
+<center>
+  <img src="http://flowingdata.com/wp-content/uploads/2008/02/box-plot-explained.gif" style="height:300px;"/>
+</center>
+</br>
 
 ## Estudo de Caso
 
