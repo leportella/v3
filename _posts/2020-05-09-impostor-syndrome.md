@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How I cope with my impostor syndrome"
+title: "How I deal with my impostor syndrome"
 categories:
   - english
 tags:
