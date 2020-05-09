@@ -53,7 +53,7 @@ tags:
 featured-img: alone
 has_tweet: true
 permalink: impostor-syndrome.html
-last_modified_at: 2020-05-08T18:25:52-05:00
+last_modified_at: 2020-05-09T18:25:52-05:00
 ---
 
 As the years went by, I developed a framework to deal with my impostor syndrome in different scales it occurs. It is not something super complex or with a deep theoretical background, but it worked for me and I've been using it for the past year.
