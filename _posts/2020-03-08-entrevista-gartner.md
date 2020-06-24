@@ -3,6 +3,7 @@ layout: post
 title: "Entrevista Capterra com mulheres em tecnologia"
 categories:
   - pt-br
+  - interview
 tags:
   - pt-br
   - mulheres
@@ -34,7 +35,7 @@ tags:
   - ruby
   - scala
   - python
-featured-img: capterra
+featured-img: microphone
 permalink: entrevista-capterra.html
 redirect_from: /pt-br/2020/03/08/entrevista-gartner.html
 last_modified_at: 2020-03-08T18:25:52-05:00
