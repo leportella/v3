@@ -185,7 +185,7 @@ julia my_file.jl
 
 I created a file called `julia1.jl` calling the `println` function to print a short text on the screen:
 
-```
+```julia
 # julia1.jl
 println("My favorite 🍕 is Pizza de Dados!")
 ```
@@ -207,14 +207,14 @@ Several string manipulation functions come by default. As the `isreverse` that r
 
 In the various things I read about Julia, it is always said that it is a language that brings a lot of mathematics with it. Not surprisingly, in order to verify that a letter is inside a word, the mathematical symbol of "belongs to a set" is used:
 
-```
+```julia
 julia> "a" ∈ "banana"
 true
 ```
 
 And to know the pi value, you can just type use the greek symbol:
 
-```
+```julia
 julia> π
 π = 3.1415926535897…
 ```
@@ -245,7 +245,7 @@ mysum(2, 3)
 
 But, remember that Julia is strongly attached to mathematics? [We can actually write the same function the same way we would write it as a mathematical formula](https://docs.julialang.org/en/v1/manual/functions/):
 
-```
+```julia
 julia> soma(x, y) = x + y
 ```
 
