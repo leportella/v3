@@ -59,6 +59,7 @@ tags:
   - impostor syndrome
 featured-img: paper
 permalink: why-have-a-blog.html
+translation: porque-ter-um-blog.html
 last_modified_at: 2020-06-21T18:25:52-05:00
 ---
 
@@ -98,14 +99,6 @@ If you come from a country whose first language is not English, you can create o
 ### Each person should drive their presence on the internet
 
 More and more it becomes really hard to stay away from the internet and social media. It is important to create a digital presence that associates your name to good things and to what *you* want your name to be associated with. Creating a blog and sharing what you know is an excellent way to position yourself online, and making sure people know you for something better than just social media. 
-
-There is an awesome video from a Youtuber I admire, Átila Iamarino, that explain this in an easy and clear way (there are subtitles in English):
-
-
-<center>
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Ja6ZnJUQa_0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    </center>
-
 
 <h2 id='selfish-reasons'>Selfish reasons to have a blog</h2>
 
