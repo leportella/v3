@@ -199,6 +199,10 @@ I am also building [my "own" data science/computer science degree](https://githu
 
 | Title                                                           | Type     | Conference                        | City                      | Date   |
 |-----------------------------------------------------------------|----------|-----------------------------------|---------------------------|--------|
+
+| [Tutorial Data Libraries](https://leportella.com/oceanhackweek.html) | Talk | OceanHackWeek  | Online | Aug/20 |
+| [O que vem depois do Django Girls](https://leportella.com/cbv-palestra.html) | Talk | Python XP  | Online | Jun/20 |
+| [Um novo autenticador para o JupyterHub](https://leportella.com/native-auth.html) | Talk | Python Floripa Meetup  | Online | Mai/20 |
 | Stripe-CLI | Talk | DevX Meetup  | Dublin, Ireland | Nov/19 |
 | [What's beyond Django Girls?](https://www.youtube.com/watch?v=CAFOxnntH7U)  | Talk | Pycon Ireland  | Dublin, Ireland | Oct/19 |    
 | [Introducing a new JupyterHub Authenticator](https://speakerdeck.com/leportella/introducing-a-new-authenticator-for-jupyterhub)  | Talk | [Pycon Limmerick](https://www.meetup.com/pt-BR/pythonireland/events/258498112/)  | Limmerick, Ireland          | Mar/19 |
