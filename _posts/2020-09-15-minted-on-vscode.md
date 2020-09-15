@@ -88,7 +88,7 @@ The problem is that this broke my VSCode setup, because `minted` required me to 
 
 
 <center>
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/minted2.png" style="height:250px;"/>
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/minted2.png" style="height:200px;"/>
 </center>
 <br/>
 
@@ -96,7 +96,7 @@ The problem is that this broke my VSCode setup, because `minted` required me to 
 And VSCode went crazy and showed a lot of errors when automatically compiling:
 
 <center>
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/minted1.png" style="height:250px;"/>
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/minted1.png" style="height:200px;"/>
 </center>
 <br/>
 
@@ -154,7 +154,7 @@ Also wanted VSCode to run within my virtualenv, so on extensions, I added the Py
 Once installed I used `Cmd+Shift+P` and  used `Select Interpreter` to select my current virtualenv.
 
 <center>
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/minted4.png" style="height:250px;"/>
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/minted4.png" style="height:200px;"/>
 </center>
 <br/>
 
@@ -162,7 +162,7 @@ Once installed I used `Cmd+Shift+P` and  used `Select Interpreter` to select my 
 
 Now I got no errors and the VSCode is happy again:
 <center>
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/minted5.png" style="height:250px;"/>
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/minted5.png" style="height:100px;"/>
 </center>
 <br/>
 
