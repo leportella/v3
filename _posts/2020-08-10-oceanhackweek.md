@@ -58,7 +58,7 @@ tags:
   - scala
   - python
   - impostor syndrome
-featured-img: pandas
+featured-img: panda
 permalink: oceanhackweek.html
 last_modified_at: 2020-08-15T18:25:52-05:00
 ---
