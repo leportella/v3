@@ -174,7 +174,6 @@ Now I can add any language the package supports and some additional configuratio
 
 
 ```latex
-
 \begin{minted}[linenos]{python}
   for i in range(0,2):
       print(i)
