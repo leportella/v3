@@ -189,5 +189,7 @@ That's it for now 😉
 
 
 
+--*This post includes and expands [Wu Sun's post](https://wusun.name/blog/2019-01-17-minted-vscode/) that was super helpful to me*
+
 -- 
 *Image cover by Miguel Á. Padriñan in Pexels*
