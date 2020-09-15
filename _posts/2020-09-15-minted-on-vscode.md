@@ -96,7 +96,7 @@ The problem is that this broke my VSCode setup, because `minted` required me to 
 And VSCode went crazy and showed a lot of errors when automatically compiling:
 
 <center>
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/minted1.png" style="height:200px;"/>
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/minted1.png" style="height:180px;"/>
 </center>
 <br/>
 
@@ -162,7 +162,7 @@ Once installed I used `Cmd+Shift+P` and  used `Select Interpreter` to select my 
 
 Now I got no errors and the VSCode is happy again:
 <center>
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/minted5.png" style="height:100px;"/>
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/minted5.png" style="height:80px;"/>
 </center>
 <br/>
 
@@ -181,7 +181,7 @@ Now I can add any language the package supports and some additional configuratio
 ```
 
 
-PS 1: Yes, I created a virtualenv called banana but I was lazy to create cute one for this tutorial ð
+PS 1: Yes, I created a virtualenv called banana but I was lazy to create cute one for this tutorial 🥺
 
 PS 2: I used miniconda to create this venv and VSCode required some extra config for this but they had a pop for this and did it automatically 
 
