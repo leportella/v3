@@ -122,7 +122,7 @@ And if you ever need a character that has a purpose on LaTeX you can escape the 
 ```latex
 This line will be procesed
 % This won't
-All this \% line will! (Even if markdown doesn't understand it)
+All this \% line will!
 ```
 
 ## Minimum working program
