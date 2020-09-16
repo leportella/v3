@@ -61,7 +61,8 @@ tags:
   - minted
   - vscode
 featured-img: engrenagem
-permalink: minted-vscode.html
+permalink: minted-vscode
+redirect_from: minted-vscode.html
 last_modified_at: 2020-09-15T18:25:52-05:00
 ---
 

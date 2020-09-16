@@ -61,7 +61,7 @@ tags:
   - minted
   - vscode
 featured-img: notebook
-permalink: latex.html
+permalink: latex
 last_modified_at: 2020-09-15T18:25:52-05:00
 ---
 

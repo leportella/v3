@@ -50,7 +50,8 @@ tags:
   - scala
   - python
 featured-img: scala
-permalink: scala-IV.html
+permalink: scala-IV
+redirect_from:scala-IV.html
 last_modified_at: 2020-06-19T23:25:52-05:00
 ---
 

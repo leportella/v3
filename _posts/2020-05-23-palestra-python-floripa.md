@@ -41,7 +41,8 @@ tags:
   - django
   - class based views
 featured-img: jupyterhub
-permalink: native-auth.html
+permalink: native-auth
+redirect_from: native-auth.html
 last_modified_at: 2020-06-24T18:25:52-05:00
 ---
 

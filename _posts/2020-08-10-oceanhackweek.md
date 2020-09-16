@@ -59,7 +59,7 @@ tags:
   - python
   - impostor syndrome
 featured-img: panda
-permalink: oceanhackweek.html
+permalink: oceanhackweek
 last_modified_at: 2020-08-15T18:25:52-05:00
 ---
 

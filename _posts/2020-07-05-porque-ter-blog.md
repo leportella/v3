@@ -58,8 +58,9 @@ tags:
   - python
   - impostor syndrome
 featured-img: paper
-permalink: porque-ter-um-blog.html
+permalink: porque-ter-um-blog
 translation: why-have-a-blog.html
+redirect_from: porque-ter-um-blog.html
 last_modified_at: 2020-07-05T18:25:52-05:00
 ---
 

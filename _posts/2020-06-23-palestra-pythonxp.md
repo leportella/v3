@@ -42,7 +42,8 @@ tags:
   - class based views
   - django girls
 featured-img: cbv-pt
-permalink: cbv-palestra.html
+permalink: cbv-palestra
+redirect_from: cbv-palestra.html
 last_modified_at: 2020-06-24T18:25:52-05:00
 ---
 

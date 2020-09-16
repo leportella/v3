@@ -54,7 +54,8 @@ tags:
   - síndrome de impostora
 featured-img: alone
 has_tweet: true
-permalink: sindrome-impostora.html
+permalink: sindrome-impostora
+redirect_from: sindrome-impostora.html
 translation: impostor-syndrome.html
 last_modified_at: 2020-05-09T18:25:52-05:00
 ---
