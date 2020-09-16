@@ -1,9 +1,8 @@
 ---
 layout: post
-title: "Configuring Minted package on VSCode (LaTeX)"
+title: "Configuring VSCode to work with Minted (LaTeX)"
 categories:
   - english
-  - talks
 tags:
   - blog
   - blogging
