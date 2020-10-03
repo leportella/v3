@@ -38,8 +38,8 @@ instagram_username: lepelomundo
 disqus:
   shortname: leportella-com
 
-google_analytics: UA-106178084-1
-google_tag_manager: UA-106178084-1 
+#google_analytics: UA-106178084-1
+#google_tag_manager: UA-106178084-1 
 
 service_worker: true
 
